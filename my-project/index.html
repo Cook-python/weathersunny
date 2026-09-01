@@ -1,0 +1,128 @@
+<!DOCTYPE html>
+<html lang="ja" data-theme="dark">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>My Project | weather_sunny</title>
+<meta name="description" content="weather_sunny がScratchで公開しているプロジェクトの一覧。">
+<meta name="color-scheme" content="dark light">
+<meta property="og:title" content="My Project | weather_sunny">
+<meta property="og:description" content="weather_sunny がScratchで公開しているプロジェクトの一覧。">
+<meta property="og:type" content="website">
+<link rel="preconnect" href="https://api.scratch.mit.edu" crossorigin>
+<link rel="preconnect" href="https://cdn2.scratch.mit.edu">
+<link rel="stylesheet" href="/css/style.css">
+<script>
+(function(){try{var t=localStorage.getItem('ws_theme');if(!t)t=window.matchMedia('(prefers-color-scheme: light)').matches?'light':'dark';document.documentElement.setAttribute('data-theme',t);}catch(e){}})();
+</script>
+</head>
+<body>
+
+<a class="skip-link" href="#main">本文へスキップ</a>
+
+<div class="progress" id="scrollProgress"></div>
+
+<header class="site-header">
+  <div class="wrap header-inner">
+    <div class="identity">
+      <a class="avatar-ring" href="/" aria-label="トップページ">
+        <img id="avatar" class="avatar" src="data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 55 55'%3E%3Crect width='55' height='55' fill='%232b3a5c'/%3E%3C/svg%3E" alt="weather_sunny" width="55" height="55">
+      </a>
+      <div class="identity-text">
+        <a class="username" href="/">weather_sunny</a>
+        <ul class="status-list">
+          <li class="chip"><svg class="ti"><use href="#i-code"/></svg><span>Coding</span></li>
+          <li class="chip"><svg class="ti"><use href="#i-paw"/></svg><span>Scratcher</span></li>
+          <li class="chip"><svg class="ti"><use href="#i-map-pin"/></svg><span id="countryChip">Japan</span></li>
+        </ul>
+      </div>
+    </div>
+    <nav class="site-nav" aria-label="メインナビゲーション">
+      <a href="/">Home</a>
+      <a href="/introduction">Introduction</a>
+      <a href="/my-project">Projects</a>
+      <a href="/articles">Articles</a>
+    </nav>
+    <div class="header-actions">
+      <a class="icon-btn" href="https://scratch.mit.edu/users/weather_sunny/" target="_blank" rel="noopener" title="Scratchプロフィール" aria-label="Scratchプロフィール">
+        <svg class="ti"><use href="#i-external-link"/></svg>
+      </a>
+      <button class="icon-btn" id="themeToggle" type="button" title="テーマ切り替え" aria-label="テーマ切り替え">
+        <svg class="ti"><use href="#i-moon"/></svg>
+      </button>
+    </div>
+  </div>
+</header>
+
+<main class="wrap" id="main">
+
+  <div class="page-head reveal">
+    <h1 class="page-title"><svg class="ti"><use href="#i-layout-grid"/></svg><span>My Project</span></h1>
+    <p class="page-lead">Scratchで共有しているプロジェクトの一覧です。</p>
+  </div>
+
+  <section class="section" aria-labelledby="allProjectsHeading">
+    <h2 class="visually-hidden" id="allProjectsHeading">プロジェクト一覧</h2>
+
+    <div class="toolbar reveal">
+      <div class="search">
+        <svg class="ti"><use href="#i-search"/></svg>
+        <input class="input" id="searchInput" type="search" placeholder="タイトルや説明で絞り込む" autocomplete="off">
+      </div>
+      <label class="select-wrap">
+        <span class="visually-hidden">並び替え</span>
+        <select class="select" id="sortSelect">
+          <option value="new">新しい順</option>
+          <option value="views">表示回数が多い順</option>
+          <option value="loves">好きが多い順</option>
+          <option value="title">タイトル順</option>
+        </select>
+      </label>
+      <div class="toolbar-meta">
+        <span class="counter" id="projectCount"></span>
+        <span class="badge" id="projectSource" hidden></span>
+      </div>
+    </div>
+
+    <div class="grid" id="projectGrid" aria-live="polite"></div>
+
+    <div class="state hidden" id="projectsLoading">
+      <span class="spinner" aria-hidden="true"></span>
+      <p>プロジェクトを読み込んでいます</p>
+    </div>
+
+    <div class="state hidden" id="projectsError">
+      <svg class="ti state-icon"><use href="#i-cloud-off"/></svg>
+      <p>プロジェクトを読み込めませんでした</p>
+      <button class="primary-btn" id="retryBtn" type="button"><svg class="ti"><use href="#i-refresh"/></svg><span>再試行</span></button>
+    </div>
+
+    <div class="state hidden" id="projectsEmpty">
+      <svg class="ti state-icon"><use href="#i-folder-off"/></svg>
+      <p>条件に合うプロジェクトがありません</p>
+    </div>
+  </section>
+</main>
+
+<footer class="site-footer">
+  <div class="wrap footer-inner">
+    <nav class="footer-nav" aria-label="フッターナビゲーション">
+      <a class="footer-link" href="/introduction">Introduction</a>
+      <a class="footer-link" href="/my-project">My Project</a>
+      <a class="footer-link" href="/articles">Articles</a>
+      <a class="footer-link" href="https://scratch.mit.edu/users/weather_sunny/" target="_blank" rel="noopener">Scratch</a>
+    </nav>
+    <p class="copyright">&copy; <span id="year"></span> weather_sunny</p>
+  </div>
+</footer>
+
+<div class="toast" id="toast" role="status" aria-live="polite" hidden>
+  <svg class="ti"><use href="#i-circle-check"/></svg>
+  <span class="toast-text"></span>
+</div>
+
+<script src="/js/core.js"></script>
+<script src="/js/editor.js"></script>
+<script src="/js/my-project.js"></script>
+</body>
+</html>

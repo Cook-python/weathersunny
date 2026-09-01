@@ -1,0 +1,104 @@
+<!DOCTYPE html>
+<html lang="ja" data-theme="dark">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Articles | weather_sunny</title>
+<meta name="description" content="weather_sunny の記事一覧。">
+<meta name="color-scheme" content="dark light">
+<meta property="og:title" content="Articles | weather_sunny">
+<meta property="og:description" content="weather_sunny の記事一覧。">
+<meta property="og:type" content="website">
+<link rel="preconnect" href="https://api.scratch.mit.edu" crossorigin>
+<link rel="preconnect" href="https://cdn2.scratch.mit.edu">
+<link rel="stylesheet" href="/css/style.css">
+<script>
+(function(){try{var t=localStorage.getItem('ws_theme');if(!t)t=window.matchMedia('(prefers-color-scheme: light)').matches?'light':'dark';document.documentElement.setAttribute('data-theme',t);}catch(e){}})();
+</script>
+</head>
+<body>
+
+<a class="skip-link" href="#main">本文へスキップ</a>
+
+<div class="progress" id="scrollProgress"></div>
+
+<header class="site-header">
+  <div class="wrap header-inner">
+    <div class="identity">
+      <a class="avatar-ring" href="/" aria-label="トップページ">
+        <img id="avatar" class="avatar" src="data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 55 55'%3E%3Crect width='55' height='55' fill='%232b3a5c'/%3E%3C/svg%3E" alt="weather_sunny" width="55" height="55">
+      </a>
+      <div class="identity-text">
+        <a class="username" href="/">weather_sunny</a>
+        <ul class="status-list">
+          <li class="chip"><svg class="ti"><use href="#i-code"/></svg><span>Coding</span></li>
+          <li class="chip"><svg class="ti"><use href="#i-paw"/></svg><span>Scratcher</span></li>
+          <li class="chip"><svg class="ti"><use href="#i-map-pin"/></svg><span id="countryChip">Japan</span></li>
+        </ul>
+      </div>
+    </div>
+    <nav class="site-nav" aria-label="メインナビゲーション">
+      <a href="/">Home</a>
+      <a href="/introduction">Introduction</a>
+      <a href="/my-project">Projects</a>
+      <a href="/articles">Articles</a>
+    </nav>
+    <div class="header-actions">
+      <a class="icon-btn" href="https://scratch.mit.edu/users/weather_sunny/" target="_blank" rel="noopener" title="Scratchプロフィール" aria-label="Scratchプロフィール">
+        <svg class="ti"><use href="#i-external-link"/></svg>
+      </a>
+      <button class="icon-btn" id="themeToggle" type="button" title="テーマ切り替え" aria-label="テーマ切り替え">
+        <svg class="ti"><use href="#i-moon"/></svg>
+      </button>
+    </div>
+  </div>
+</header>
+
+<main class="wrap" id="main">
+
+  <div class="page-head reveal">
+    <h1 class="page-title"><svg class="ti"><use href="#i-note"/></svg><span>Articles</span></h1>
+    <p class="page-lead">作品づくりのメモや、サイトの更新情報です。</p>
+  </div>
+
+  <section class="section" aria-labelledby="articleListHeading">
+    <div class="section-head reveal">
+      <h2 class="section-title" id="articleListHeading"><svg class="ti"><use href="#i-bookmark"/></svg><span>すべての記事</span></h2>
+      <div class="section-tools">
+        <span class="counter" id="articleCount"></span>
+        <button class="ghost-btn hidden" data-admin id="exportBtn" type="button"><svg class="ti"><use href="#i-file-export"/></svg><span>エクスポート</span></button>
+        <button class="primary-btn hidden" data-admin id="newBtn" type="button"><svg class="ti"><use href="#i-plus"/></svg><span>新しい記事</span></button>
+      </div>
+    </div>
+
+    <div class="article-list" id="articleList"></div>
+
+    <div class="state hidden" id="articlesEmpty">
+      <svg class="ti state-icon"><use href="#i-note"/></svg>
+      <p>まだ記事がありません</p>
+    </div>
+  </section>
+</main>
+
+<footer class="site-footer">
+  <div class="wrap footer-inner">
+    <nav class="footer-nav" aria-label="フッターナビゲーション">
+      <a class="footer-link" href="/introduction">Introduction</a>
+      <a class="footer-link" href="/my-project">My Project</a>
+      <a class="footer-link" href="/articles">Articles</a>
+      <a class="footer-link" href="https://scratch.mit.edu/users/weather_sunny/" target="_blank" rel="noopener">Scratch</a>
+    </nav>
+    <p class="copyright">&copy; <span id="year"></span> weather_sunny</p>
+  </div>
+</footer>
+
+<div class="toast" id="toast" role="status" aria-live="polite" hidden>
+  <svg class="ti"><use href="#i-circle-check"/></svg>
+  <span class="toast-text"></span>
+</div>
+
+<script src="/js/core.js"></script>
+<script src="/js/editor.js"></script>
+<script src="/js/articles.js"></script>
+</body>
+</html>
