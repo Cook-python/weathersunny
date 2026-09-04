@@ -1,12 +1,12 @@
 {
-  "generatedAt": "2026-09-02T23:18:44Z",
+  "generatedAt": "2026-09-04T23:02:44Z",
   "source": "api.scratch.mit.edu",
   "username": "weather_sunny",
   "totals": {
     "count": 10,
-    "views": 1046,
-    "loves": 79,
-    "favorites": 72,
+    "views": 1095,
+    "loves": 80,
+    "favorites": 73,
     "remixes": 0
   },
   "projects": [
@@ -20,7 +20,7 @@
       "created": "2026-09-02T12:20:51.000Z",
       "modified": "2026-09-02T12:20:53.000Z",
       "shared": "2026-09-02T12:20:53.000Z",
-      "views": 2,
+      "views": 4,
       "loves": 1,
       "favorites": 1,
       "remixes": 0
@@ -50,7 +50,7 @@
       "created": "2026-08-31T06:50:18.000Z",
       "modified": "2026-08-31T06:53:19.000Z",
       "shared": "2026-08-31T06:52:04.000Z",
-      "views": 5,
+      "views": 8,
       "loves": 0,
       "favorites": 0,
       "remixes": 0
@@ -65,22 +65,22 @@
       "created": "2026-08-30T10:44:31.000Z",
       "modified": "2026-09-02T10:00:21.000Z",
       "shared": "2026-08-30T10:44:33.000Z",
-      "views": 11,
-      "loves": 1,
-      "favorites": 1,
+      "views": 24,
+      "loves": 2,
+      "favorites": 2,
       "remixes": 0
     },
     {
       "id": 1376163821,
       "title": "Bad apple tester",
-      "description": "データは自作のPythonプログラムでつくりました　\nソースコード出してほしいって言われたら出します",
+      "description": "データは自作のPythonプログラムでつくりました　\nソースコード出してほしいって言われたら出します \n(100%penについて話し合うところっていうフォーラムにあります)",
       "instructions": "フル版は明日出します\n追記: 保存ができないのでちょっと難航しそうです",
       "url": "https://scratch.mit.edu/projects/1376163821/",
-      "image": "https://cdn2.scratch.mit.edu/get_image/project/1376163821_282x218.png?v=1788049663",
+      "image": "https://cdn2.scratch.mit.edu/get_image/project/1376163821_282x218.png?v=1788420783",
       "created": "2026-08-29T10:35:36.000Z",
-      "modified": "2026-08-30T00:27:43.000Z",
+      "modified": "2026-09-03T07:33:03.000Z",
       "shared": "2026-08-29T10:38:44.000Z",
-      "views": 4,
+      "views": 6,
       "loves": 1,
       "favorites": 0,
       "remixes": 0
@@ -95,7 +95,7 @@
       "created": "2026-08-28T07:55:13.000Z",
       "modified": "2026-08-28T08:43:32.000Z",
       "shared": "2026-08-28T07:55:37.000Z",
-      "views": 26,
+      "views": 30,
       "loves": 2,
       "favorites": 1,
       "remixes": 0
@@ -110,7 +110,7 @@
       "created": "2026-08-25T11:56:46.000Z",
       "modified": "2026-08-27T07:59:07.000Z",
       "shared": "2026-08-25T11:58:52.000Z",
-      "views": 236,
+      "views": 250,
       "loves": 19,
       "favorites": 17,
       "remixes": 0
@@ -125,7 +125,7 @@
       "created": "2026-08-23T11:02:59.000Z",
       "modified": "2026-08-23T11:19:52.000Z",
       "shared": "2026-08-23T11:18:52.000Z",
-      "views": 36,
+      "views": 39,
       "loves": 8,
       "favorites": 8,
       "remixes": 0
@@ -155,7 +155,7 @@
       "created": "2026-08-17T11:58:46.000Z",
       "modified": "2026-08-23T11:33:58.000Z",
       "shared": "2026-08-20T22:40:06.000Z",
-      "views": 721,
+      "views": 729,
       "loves": 46,
       "favorites": 43,
       "remixes": 0
