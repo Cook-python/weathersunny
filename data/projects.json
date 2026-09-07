@@ -1,26 +1,41 @@
 {
-  "generatedAt": "2026-09-06T22:53:07Z",
+  "generatedAt": "2026-09-07T23:29:30Z",
   "source": "api.scratch.mit.edu",
   "username": "weather_sunny",
   "totals": {
-    "count": 12,
-    "views": 1295,
-    "loves": 93,
-    "favorites": 84,
+    "count": 13,
+    "views": 1338,
+    "loves": 95,
+    "favorites": 86,
     "remixes": 0
   },
   "projects": [
     {
+      "id": 1378724679,
+      "title": "顔認証（簡易）",
+      "description": "",
+      "instructions": "くらうどへんすうがつかえないよぉ",
+      "url": "https://scratch.mit.edu/projects/1378724679/",
+      "image": "https://cdn2.scratch.mit.edu/get_image/project/1378724679_282x218.png?v=1788781872",
+      "created": "2026-09-07T07:19:27.000Z",
+      "modified": "2026-09-07T11:51:12.000Z",
+      "shared": "2026-09-07T07:26:52.000Z",
+      "views": 1,
+      "loves": 0,
+      "favorites": 0,
+      "remixes": 0
+    },
+    {
       "id": 1378483877,
       "title": "HatHop",
-      "description": "@blicear 's character",
+      "description": "@blicear 's character\n久しぶりに意味わかんないやつ作ったわ",
       "instructions": "Hat hop \nPress space",
       "url": "https://scratch.mit.edu/projects/1378483877/",
-      "image": "https://cdn2.scratch.mit.edu/get_image/project/1378483877_282x218.png?v=1788694180",
+      "image": "https://cdn2.scratch.mit.edu/get_image/project/1378483877_282x218.png?v=1788738429",
       "created": "2026-09-06T07:09:54.000Z",
-      "modified": "2026-09-06T11:29:40.000Z",
+      "modified": "2026-09-06T23:47:09.000Z",
       "shared": "2026-09-06T11:29:17.000Z",
-      "views": 1,
+      "views": 4,
       "loves": 0,
       "favorites": 0,
       "remixes": 0
@@ -35,9 +50,9 @@
       "created": "2026-09-06T06:35:49.000Z",
       "modified": "2026-09-06T22:08:09.000Z",
       "shared": "2026-09-06T07:06:12.000Z",
-      "views": 3,
-      "loves": 0,
-      "favorites": 0,
+      "views": 16,
+      "loves": 2,
+      "favorites": 2,
       "remixes": 0
     },
     {
@@ -50,7 +65,7 @@
       "created": "2026-09-02T12:20:51.000Z",
       "modified": "2026-09-02T12:20:53.000Z",
       "shared": "2026-09-02T12:20:53.000Z",
-      "views": 7,
+      "views": 8,
       "loves": 1,
       "favorites": 1,
       "remixes": 0
@@ -80,7 +95,7 @@
       "created": "2026-08-31T06:50:18.000Z",
       "modified": "2026-08-31T06:53:19.000Z",
       "shared": "2026-08-31T06:52:04.000Z",
-      "views": 13,
+      "views": 18,
       "loves": 0,
       "favorites": 0,
       "remixes": 0
@@ -95,7 +110,7 @@
       "created": "2026-08-30T10:44:31.000Z",
       "modified": "2026-09-02T10:00:21.000Z",
       "shared": "2026-08-30T10:44:33.000Z",
-      "views": 33,
+      "views": 38,
       "loves": 4,
       "favorites": 4,
       "remixes": 0
@@ -125,7 +140,7 @@
       "created": "2026-08-28T07:55:13.000Z",
       "modified": "2026-08-28T08:43:32.000Z",
       "shared": "2026-08-28T07:55:37.000Z",
-      "views": 35,
+      "views": 39,
       "loves": 4,
       "favorites": 3,
       "remixes": 0
@@ -140,7 +155,7 @@
       "created": "2026-08-25T11:56:46.000Z",
       "modified": "2026-08-27T07:59:07.000Z",
       "shared": "2026-08-25T11:58:52.000Z",
-      "views": 276,
+      "views": 285,
       "loves": 20,
       "favorites": 18,
       "remixes": 0
@@ -185,7 +200,7 @@
       "created": "2026-08-17T11:58:46.000Z",
       "modified": "2026-09-06T07:52:17.000Z",
       "shared": "2026-08-20T22:40:06.000Z",
-      "views": 873,
+      "views": 875,
       "loves": 54,
       "favorites": 49,
       "remixes": 0
