@@ -54,10 +54,19 @@
       { icon: 'remix', label: 'リミックスされた数', value: totals.remixes }
     ];
     box.innerHTML = items.map(function (item) {
-      return '<div class="stat">' + WS.icon(item.icon) +
-        '<strong>' + WS.formatNumber(item.value) + '</strong>' +
+      return '<div class="stat reveal">' + WS.icon(item.icon) +
+        '<strong data-value="' + item.value + '">0</strong>' +
         '<span>' + item.label + '</span></div>';
     }).join('');
+
+    WS.$$('.stat', box).forEach(function (node, index) {
+      node.setAttribute('data-delay', String(index * 70));
+      WS.observe(node);
+      var number = node.querySelector('strong');
+      window.setTimeout(function () {
+        WS.countUp(number, Number(number.getAttribute('data-value')), WS.formatNumber);
+      }, 160 + index * 70);
+    });
   }
 
   WS.boot(function () {

@@ -111,6 +111,10 @@ window.WS = (function () {
     }
   }
 
+  function reducedMotion() {
+    return !!(window.matchMedia && window.matchMedia('(prefers-reduced-motion: reduce)').matches);
+  }
+
   function initTheme() {
     var saved = store(CONFIG.storageTheme);
     var prefersLight = window.matchMedia && window.matchMedia('(prefers-color-scheme: light)').matches;
@@ -119,9 +123,53 @@ window.WS = (function () {
     if (!button) return;
     button.addEventListener('click', function () {
       var next = document.documentElement.getAttribute('data-theme') === 'dark' ? 'light' : 'dark';
-      applyTheme(next);
-      store(CONFIG.storageTheme, next);
+      var swap = function () {
+        applyTheme(next);
+        store(CONFIG.storageTheme, next);
+      };
+      if (document.startViewTransition && !reducedMotion()) document.startViewTransition(swap);
+      else swap();
     });
+  }
+
+  function countUp(node, target, format) {
+    if (!node) return;
+    var value = Number(target) || 0;
+    var fmt = format || function (v) { return String(v); };
+    if (reducedMotion() || value < 2) {
+      node.textContent = fmt(value);
+      return;
+    }
+    var duration = 1000;
+    var start = null;
+    var frame = function (now) {
+      if (start === null) start = now;
+      var progress = Math.min(1, (now - start) / duration);
+      var eased = 1 - Math.pow(1 - progress, 4);
+      node.textContent = fmt(Math.round(value * eased));
+      if (progress < 1) requestAnimationFrame(frame);
+      else node.textContent = fmt(value);
+    };
+    node.textContent = fmt(0);
+    requestAnimationFrame(frame);
+  }
+
+  var viewsPromise = null;
+
+  function getViews() {
+    if (viewsPromise) return viewsPromise;
+    var day = new Date().toISOString().slice(0, 10);
+    var seen = store('ws_view_day');
+    var method = seen === day ? 'GET' : 'POST';
+    if (method === 'POST') store('ws_view_day', day);
+    var options = { method: method, cache: 'no-store' };
+    viewsPromise = getJSON('/api/views', options).catch(function () {
+      return getJSON('/.netlify/functions/views', options);
+    }).then(function (data) {
+      if (!data || data.available === false) throw new Error('unavailable');
+      return { total: Number(data.total) || 0, today: Number(data.today) || 0 };
+    });
+    return viewsPromise;
   }
 
   var revealObserver = null;
@@ -576,6 +624,9 @@ window.WS = (function () {
     observe: observe,
     formatDate: formatDate,
     formatNumber: formatNumber,
+    reducedMotion: reducedMotion,
+    countUp: countUp,
+    getViews: getViews,
     getProjects: getProjects,
     getProfile: getProfile,
     getArticles: getArticles,

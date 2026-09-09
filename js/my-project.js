@@ -50,14 +50,15 @@
   }
 
   function load(force) {
-    showState('Loading');
-    WS.$('projectGrid').innerHTML = '';
+    showState('None');
+    WSFx.skeletons(WS.$('projectGrid'), 9);
     WS.getProjects(force === true).then(function (result) {
       all = result.projects;
       WS.sourceBadge(WS.$('projectSource'), result, '保存データ');
       render();
     }).catch(function () {
       all = [];
+      WS.$('projectGrid').innerHTML = '';
       showState('Error');
     });
   }
