@@ -1,22 +1,22 @@
 {
-  "generatedAt": "2026-09-09T23:14:21Z",
+  "generatedAt": "2026-09-10T23:10:05Z",
   "source": "api.scratch.mit.edu",
   "profile": {
     "id": 167246871,
     "username": "weather_sunny",
     "avatar": "https://cdn2.scratch.mit.edu/get_image/user/167246871_90x90.png?v=",
     "bio": "ペンをガチャガチャいじってますぅ \nhttps://weather-sunny.netlify.app/\n↑　自分の公式サイト作ったぜぃ\nただの中1です",
-    "status": "最近めっちゃ浮上してまぁす\n作品:15 閲覧:1.4k 好き:97 星:88\n状態:オフライン\n天気:東京 くもり朝晩雨\n注意:雷注意報・強風注意報\n気温:19.5℃ 降水:50%\n地震:02:11 宮古島近海 震度1 M3.4\n直近のフォロワー:@ria10bokmetuiinkai\n更新:09/10 07:30\npythonによって自動更新されています",
+    "status": "最近めっちゃ浮上してまぁす\n作品:16 閲覧:1.4k 好き:99 星:90\n状態:オフライン\n天気:東京 雨\n注意:雷注意報・強風注意報\n気温:19.0℃ 降水:80%\n雨:約8分後\n地震:02:09 熊本県天草・芦北地方 震度1 M2.5\nフォロワー:29\n24h再生:+8\n更新:09/11 07:21\npythonによって自動更新されています",
     "country": "Japan",
     "joined": "2026-01-30T12:17:37.000Z",
     "scratchteam": false,
     "url": "https://scratch.mit.edu/users/weather_sunny/"
   },
   "totals": {
-    "count": 15,
-    "views": 1379,
-    "loves": 97,
-    "favorites": 88,
+    "count": 16,
+    "views": 1414,
+    "loves": 99,
+    "favorites": 90,
     "remixes": 0
   }
 }

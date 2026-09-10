@@ -1,26 +1,41 @@
 {
-  "generatedAt": "2026-09-09T23:14:21Z",
+  "generatedAt": "2026-09-10T23:10:05Z",
   "source": "api.scratch.mit.edu",
   "username": "weather_sunny",
   "totals": {
-    "count": 15,
-    "views": 1379,
-    "loves": 97,
-    "favorites": 88,
+    "count": 16,
+    "views": 1414,
+    "loves": 99,
+    "favorites": 90,
     "remixes": 0
   },
   "projects": [
     {
+      "id": 1379988858,
+      "title": "Scratch Camera 100ブロック版",
+      "description": "",
+      "instructions": "",
+      "url": "https://scratch.mit.edu/projects/1379988858/",
+      "image": "https://cdn2.scratch.mit.edu/get_image/project/1379988858_282x218.png?v=1789077495",
+      "created": "2026-09-10T21:56:19.000Z",
+      "modified": "2026-09-10T21:58:15.000Z",
+      "shared": "2026-09-10T21:58:15.000Z",
+      "views": 1,
+      "loves": 0,
+      "favorites": 0,
+      "remixes": 0
+    },
+    {
       "id": 1379413331,
       "title": "Scratch Camera",
       "description": "",
-      "instructions": "",
+      "instructions": "新機能\n上の三点マーク　から解像度を変えられます。\n右下の画像をクリックすると画像を見ることができます\nそこのところで三点マークを押し、データURIを押すと、保存用のURLが出てきます",
       "url": "https://scratch.mit.edu/projects/1379413331/",
-      "image": "https://cdn2.scratch.mit.edu/get_image/project/1379413331_282x218.png?v=1788948256",
+      "image": "https://cdn2.scratch.mit.edu/get_image/project/1379413331_282x218.png?v=1789074991",
       "created": "2026-09-09T10:01:59.000Z",
-      "modified": "2026-09-09T10:04:16.000Z",
+      "modified": "2026-09-10T21:16:31.000Z",
       "shared": "2026-09-09T10:04:16.000Z",
-      "views": 1,
+      "views": 8,
       "loves": 0,
       "favorites": 0,
       "remixes": 0
@@ -35,7 +50,7 @@
       "created": "2026-09-08T10:55:50.000Z",
       "modified": "2026-09-08T11:00:06.000Z",
       "shared": "2026-09-08T11:00:05.000Z",
-      "views": 7,
+      "views": 9,
       "loves": 1,
       "favorites": 1,
       "remixes": 0
@@ -50,7 +65,7 @@
       "created": "2026-09-07T07:19:27.000Z",
       "modified": "2026-09-07T11:51:12.000Z",
       "shared": "2026-09-07T07:26:52.000Z",
-      "views": 2,
+      "views": 3,
       "loves": 0,
       "favorites": 0,
       "remixes": 0
@@ -65,7 +80,7 @@
       "created": "2026-09-06T07:09:54.000Z",
       "modified": "2026-09-06T23:47:09.000Z",
       "shared": "2026-09-06T11:29:17.000Z",
-      "views": 6,
+      "views": 7,
       "loves": 0,
       "favorites": 0,
       "remixes": 0
@@ -80,9 +95,9 @@
       "created": "2026-09-06T06:35:49.000Z",
       "modified": "2026-09-06T22:08:09.000Z",
       "shared": "2026-09-06T07:06:12.000Z",
-      "views": 18,
-      "loves": 3,
-      "favorites": 3,
+      "views": 27,
+      "loves": 5,
+      "favorites": 5,
       "remixes": 0
     },
     {
@@ -95,7 +110,7 @@
       "created": "2026-09-02T12:20:51.000Z",
       "modified": "2026-09-02T12:20:53.000Z",
       "shared": "2026-09-02T12:20:53.000Z",
-      "views": 9,
+      "views": 10,
       "loves": 1,
       "favorites": 1,
       "remixes": 0
@@ -185,7 +200,7 @@
       "created": "2026-08-25T11:56:46.000Z",
       "modified": "2026-08-27T07:59:07.000Z",
       "shared": "2026-08-25T11:58:52.000Z",
-      "views": 297,
+      "views": 305,
       "loves": 20,
       "favorites": 18,
       "remixes": 0
@@ -200,7 +215,7 @@
       "created": "2026-08-23T11:02:59.000Z",
       "modified": "2026-08-23T11:19:52.000Z",
       "shared": "2026-08-23T11:18:52.000Z",
-      "views": 42,
+      "views": 44,
       "loves": 8,
       "favorites": 8,
       "remixes": 0
@@ -230,7 +245,7 @@
       "created": "2026-08-17T11:58:46.000Z",
       "modified": "2026-09-06T07:52:17.000Z",
       "shared": "2026-08-20T22:40:06.000Z",
-      "views": 878,
+      "views": 881,
       "loves": 54,
       "favorites": 49,
       "remixes": 0
