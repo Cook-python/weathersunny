@@ -1,12 +1,12 @@
 {
-  "generatedAt": "2026-09-12T23:03:07Z",
+  "generatedAt": "2026-09-13T23:09:52Z",
   "source": "api.scratch.mit.edu",
   "profile": {
     "id": 167246871,
     "username": "weather_sunny",
     "avatar": "https://cdn2.scratch.mit.edu/get_image/user/167246871_90x90.png?v=",
-    "bio": "ペンをガチャガチャいじってますぅ \nhttps://weather-sunny.netlify.app/\n↑　自分の公式サイト作ったぜぃ\nただの中1です\nオリペンをガチャガチャいじってますぅ \nhttps://weather-sunny.netlify.app/\n↑　自分の公式サイト作ったぜぃ\nただの中1です\nオリキャラ作らなきゃ",
-    "status": "最近めっちゃ浮上してまぁす\n作品:19 閲覧:1.5k 好き:112 星:100\n状態:オフライン\n天気:東京 雨昼前からくもり\n注意:雷注意報・強風注意報\n気温:21.3℃ 降水:50%\n地震:05:33 奄美大島北東沖 震度2 M5.1\nフォロワー:37\n24h再生:+91\n更新:09/13 06:51\npythonによって自動更新されています",
+    "bio": "ペンをガチャガチャいじってますぅ \nhttps://weather-sunny.netlify.app/\n↑　自分の公式サイト作ったぜぃ\nただの中1です\nオリキャラ作らなきゃ",
+    "status": "最近めっちゃ浮上してまぁす\n作品:19 閲覧:1.5k 好き:116 星:104\n状態:オフライン\n天気:東京 晴れ夜くもり所により雨\n注意:雷注意報・強風注意報\n気温:24.1℃ 降水:0%\n地震:09/13 20:19 岩手県沖 震度2 M3.7\n月齢:2.0 三日月\n本日の有感地震:0回\n更新:09/14 06:12\npythonによって自動更新されています",
     "country": "Japan",
     "joined": "2026-01-30T12:17:37.000Z",
     "scratchteam": false,
@@ -14,9 +14,9 @@
   },
   "totals": {
     "count": 19,
-    "views": 1503,
-    "loves": 113,
-    "favorites": 101,
+    "views": 1527,
+    "loves": 116,
+    "favorites": 104,
     "remixes": 0
   }
 }
