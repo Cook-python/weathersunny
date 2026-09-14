@@ -1,15 +1,30 @@
 {
-  "generatedAt": "2026-09-13T23:09:52Z",
+  "generatedAt": "2026-09-14T23:51:49Z",
   "source": "api.scratch.mit.edu",
   "username": "weather_sunny",
   "totals": {
-    "count": 19,
-    "views": 1527,
-    "loves": 116,
-    "favorites": 104,
+    "count": 20,
+    "views": 1539,
+    "loves": 118,
+    "favorites": 105,
     "remixes": 0
   },
   "projects": [
+    {
+      "id": 1380911261,
+      "title": "Exit 8 V0.01",
+      "description": "",
+      "instructions": "WASD\nんー来週ぐらいかなー\n予告",
+      "url": "https://scratch.mit.edu/projects/1380911261/",
+      "image": "https://cdn2.scratch.mit.edu/get_image/project/1380911261_282x218.png?v=1789372370",
+      "created": "2026-09-14T07:48:21.000Z",
+      "modified": "2026-09-14T07:52:50.000Z",
+      "shared": "2026-09-14T07:49:25.000Z",
+      "views": 4,
+      "loves": 1,
+      "favorites": 0,
+      "remixes": 0
+    },
     {
       "id": 1380481543,
       "title": "Untitled-16",
@@ -110,7 +125,7 @@
       "created": "2026-09-07T07:19:27.000Z",
       "modified": "2026-09-07T11:51:12.000Z",
       "shared": "2026-09-07T07:26:52.000Z",
-      "views": 4,
+      "views": 5,
       "loves": 0,
       "favorites": 0,
       "remixes": 0
@@ -230,7 +245,7 @@
       "created": "2026-08-28T07:55:13.000Z",
       "modified": "2026-08-28T08:43:32.000Z",
       "shared": "2026-08-28T07:55:37.000Z",
-      "views": 42,
+      "views": 43,
       "loves": 4,
       "favorites": 3,
       "remixes": 0
@@ -245,7 +260,7 @@
       "created": "2026-08-25T11:56:46.000Z",
       "modified": "2026-08-27T07:59:07.000Z",
       "shared": "2026-08-25T11:58:52.000Z",
-      "views": 329,
+      "views": 333,
       "loves": 24,
       "favorites": 22,
       "remixes": 0
@@ -261,8 +276,8 @@
       "modified": "2026-08-23T11:19:52.000Z",
       "shared": "2026-08-23T11:18:52.000Z",
       "views": 45,
-      "loves": 8,
-      "favorites": 8,
+      "loves": 9,
+      "favorites": 9,
       "remixes": 0
     },
     {
@@ -290,7 +305,7 @@
       "created": "2026-08-17T11:58:46.000Z",
       "modified": "2026-09-06T07:52:17.000Z",
       "shared": "2026-08-20T22:40:06.000Z",
-      "views": 886,
+      "views": 888,
       "loves": 54,
       "favorites": 49,
       "remixes": 0
