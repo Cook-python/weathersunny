@@ -1,28 +1,28 @@
 {
-  "generatedAt": "2026-09-15T23:31:28Z",
+  "generatedAt": "2026-09-16T23:38:58Z",
   "source": "api.scratch.mit.edu",
   "username": "weather_sunny",
   "totals": {
     "count": 21,
-    "views": 1559,
-    "loves": 120,
-    "favorites": 106,
+    "views": 1570,
+    "loves": 122,
+    "favorites": 108,
     "remixes": 0
   },
   "projects": [
     {
       "id": 1380964938,
-      "title": "Exit 8",
+      "title": "exit8_v02 (1)",
       "description": "",
       "instructions": "ご案内\n\nこの通路は、地下です。\n出口は8番です。\n\n・異変を見逃さないこと\n・異変を見つけたら、すぐに引き返すこと\n・異変が見つからなかったら、引き返さないこと\n・8番出口から外に出ること\n\n看板の数字を見てください。\nそれが、あなたの番号です。\n\n前に進んでも、数字が増えないことがあります。\nそのときは、何かを見落としています。\n\n一度見た場所でも、\nもう一度確認してください。\n\nおじさんとすれ違います。\nたいていは、ただのおじさんです。\n\n歩き方が不自然かもしれません。\nこちらを見ているかもしれません。\n\n気にしないでください。\n\n──────────\n\nここから下は作った人の話です。\n\nKOTAKE CREATEさんの『8番出口』を、\nScratchのペンだけで作りました。\nコスチュームは1枚も使っていません。\n\n見えているものは全部、\n線と縦線の塗りです。\n\n通路は1列ずつ壁との…",
       "url": "https://scratch.mit.edu/projects/1380964938/",
-      "image": "https://cdn2.scratch.mit.edu/get_image/project/1380964938_282x218.png?v=1789470679",
+      "image": "https://cdn2.scratch.mit.edu/get_image/project/1380964938_282x218.png?v=1789550224",
       "created": "2026-09-14T11:52:31.000Z",
-      "modified": "2026-09-15T11:11:19.000Z",
+      "modified": "2026-09-16T09:17:04.000Z",
       "shared": "2026-09-15T11:11:19.000Z",
-      "views": 5,
-      "loves": 1,
-      "favorites": 1,
+      "views": 9,
+      "loves": 3,
+      "favorites": 3,
       "remixes": 0
     },
     {
@@ -155,7 +155,7 @@
       "created": "2026-09-06T07:09:54.000Z",
       "modified": "2026-09-06T23:47:09.000Z",
       "shared": "2026-09-06T11:29:17.000Z",
-      "views": 8,
+      "views": 9,
       "loves": 1,
       "favorites": 1,
       "remixes": 0
@@ -170,7 +170,7 @@
       "created": "2026-09-06T06:35:49.000Z",
       "modified": "2026-09-06T22:08:09.000Z",
       "shared": "2026-09-06T07:06:12.000Z",
-      "views": 71,
+      "views": 73,
       "loves": 10,
       "favorites": 8,
       "remixes": 0
@@ -275,7 +275,7 @@
       "created": "2026-08-25T11:56:46.000Z",
       "modified": "2026-08-27T07:59:07.000Z",
       "shared": "2026-08-25T11:58:52.000Z",
-      "views": 340,
+      "views": 342,
       "loves": 24,
       "favorites": 22,
       "remixes": 0
@@ -320,7 +320,7 @@
       "created": "2026-08-17T11:58:46.000Z",
       "modified": "2026-09-06T07:52:17.000Z",
       "shared": "2026-08-20T22:40:06.000Z",
-      "views": 888,
+      "views": 890,
       "loves": 54,
       "favorites": 49,
       "remixes": 0
