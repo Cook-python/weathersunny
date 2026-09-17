@@ -1,22 +1,22 @@
 {
-  "generatedAt": "2026-09-16T23:38:58Z",
+  "generatedAt": "2026-09-17T23:33:14Z",
   "source": "api.scratch.mit.edu",
   "profile": {
     "id": 167246871,
     "username": "weather_sunny",
     "avatar": "https://cdn2.scratch.mit.edu/get_image/user/167246871_90x90.png?v=",
     "bio": "ペンをガチャガチャいじってますぅ \nhttps://weather-sunny.netlify.app/\n↑　自分の公式サイト作ったぜぃ\nただの中1です\nオリキャラ作らなきゃ",
-    "status": "最近めっちゃ浮上してまぁす\n作品:21 閲覧:1.6k 好き:121 星:107\n状態:オフライン\n天気:東京 雨昼前からくもり\n注意:雷注意報・強風注意報\n気温:20.3℃ 降水:50%\n地震:06:11 茨城県南部 震度1 M3.1\nフォロワー:39\n24h再生:+8\n更新:09/17 07:54\npythonによって自動更新されています",
+    "status": "最近めっちゃ浮上してまぁす\n作品:24 閲覧:1.6k 好き:122 星:108\n状態:オフライン\n天気:東京 くもり所により夕方から雨\n注意:雷注意報・強風注意報\n気温:20.0℃ 降水:10%\n地震:03:06 沖縄本島近海 震度1 M3.4\n月齢:6.1 上弦\n本日の有感地震:2回\n更新:09/18 07:16\npythonによって自動更新されています",
     "country": "Japan",
     "joined": "2026-01-30T12:17:37.000Z",
     "scratchteam": false,
     "url": "https://scratch.mit.edu/users/weather_sunny/"
   },
   "totals": {
-    "count": 21,
-    "views": 1570,
-    "loves": 122,
-    "favorites": 108,
+    "count": 24,
+    "views": 1602,
+    "loves": 129,
+    "favorites": 115,
     "remixes": 0
   }
 }
