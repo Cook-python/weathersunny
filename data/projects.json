@@ -1,12 +1,12 @@
 {
-  "generatedAt": "2026-09-17T23:33:14Z",
+  "generatedAt": "2026-09-19T23:04:00Z",
   "source": "api.scratch.mit.edu",
   "username": "weather_sunny",
   "totals": {
     "count": 24,
-    "views": 1602,
-    "loves": 129,
-    "favorites": 115,
+    "views": 1697,
+    "loves": 145,
+    "favorites": 128,
     "remixes": 0
   },
   "projects": [
@@ -20,9 +20,9 @@
       "created": "2026-09-17T07:31:16.000Z",
       "modified": "2026-09-17T07:32:47.000Z",
       "shared": "2026-09-17T07:31:58.000Z",
-      "views": 3,
-      "loves": 0,
-      "favorites": 0,
+      "views": 8,
+      "loves": 2,
+      "favorites": 1,
       "remixes": 0
     },
     {
@@ -35,7 +35,7 @@
       "created": "2026-09-17T07:28:55.000Z",
       "modified": "2026-09-17T07:32:39.000Z",
       "shared": "2026-09-17T07:29:52.000Z",
-      "views": 1,
+      "views": 2,
       "loves": 0,
       "favorites": 0,
       "remixes": 0
@@ -50,7 +50,7 @@
       "created": "2026-09-17T07:05:43.000Z",
       "modified": "2026-09-17T07:07:40.000Z",
       "shared": "2026-09-17T07:07:40.000Z",
-      "views": 18,
+      "views": 25,
       "loves": 4,
       "favorites": 4,
       "remixes": 0
@@ -61,13 +61,13 @@
       "description": "",
       "instructions": "English is below.\nご案内\n\nこの通路は、地下です。\n出口は8番です。\n\n・異変を見逃さないこと\n・異変を見つけたら、すぐに引き返すこと\n・異変が見つからなかったら、引き返さないこと\n・8番出口から外に出ること\n\n看板の数字を見てください。\nそれが、あなたの番号です。\n\n前に進んでも、数字が増えないことがあります。\nそのときは、何かを見落としています。\n\n一度見た場所でも、\nもう一度確認してください。\n\nおじさんとすれ違います。\nたいていは、ただのおじさんです。\n\n歩き方が不自然かもしれません。\nこちらを見ているかもしれません。\n\n気にしないでください。\n\n──────────\n\nここから下は作った人の話です。\n\nKOTAKE CREATEさんの『8番出口』を、\nScratchのペンだけで作りました。\nコスチュームは1枚も使っていません。\n\n見えているものは全部、\n線と縦線…",
       "url": "https://scratch.mit.edu/projects/1380964938/",
-      "image": "https://cdn2.scratch.mit.edu/get_image/project/1380964938_282x218.png?v=1789682540",
+      "image": "https://cdn2.scratch.mit.edu/get_image/project/1380964938_282x218.png?v=1789727965",
       "created": "2026-09-14T11:52:31.000Z",
-      "modified": "2026-09-17T22:02:20.000Z",
+      "modified": "2026-09-18T10:39:25.000Z",
       "shared": "2026-09-15T11:11:19.000Z",
-      "views": 15,
-      "loves": 6,
-      "favorites": 6,
+      "views": 38,
+      "loves": 10,
+      "favorites": 11,
       "remixes": 0
     },
     {
@@ -80,7 +80,7 @@
       "created": "2026-09-14T07:48:21.000Z",
       "modified": "2026-09-14T07:52:50.000Z",
       "shared": "2026-09-14T07:49:25.000Z",
-      "views": 5,
+      "views": 6,
       "loves": 1,
       "favorites": 0,
       "remixes": 0
@@ -110,9 +110,9 @@
       "created": "2026-09-12T11:57:30.000Z",
       "modified": "2026-09-12T11:58:32.000Z",
       "shared": "2026-09-12T11:58:32.000Z",
-      "views": 1,
-      "loves": 1,
-      "favorites": 0,
+      "views": 33,
+      "loves": 10,
+      "favorites": 7,
       "remixes": 0
     },
     {
@@ -140,7 +140,7 @@
       "created": "2026-09-10T21:56:19.000Z",
       "modified": "2026-09-10T21:58:15.000Z",
       "shared": "2026-09-10T21:58:15.000Z",
-      "views": 6,
+      "views": 8,
       "loves": 1,
       "favorites": 0,
       "remixes": 0
@@ -170,7 +170,7 @@
       "created": "2026-09-08T10:55:50.000Z",
       "modified": "2026-09-08T11:00:06.000Z",
       "shared": "2026-09-08T11:00:05.000Z",
-      "views": 11,
+      "views": 12,
       "loves": 2,
       "favorites": 2,
       "remixes": 0
@@ -200,7 +200,7 @@
       "created": "2026-09-06T07:09:54.000Z",
       "modified": "2026-09-06T23:47:09.000Z",
       "shared": "2026-09-06T11:29:17.000Z",
-      "views": 9,
+      "views": 10,
       "loves": 1,
       "favorites": 1,
       "remixes": 0
@@ -215,7 +215,7 @@
       "created": "2026-09-06T06:35:49.000Z",
       "modified": "2026-09-06T22:08:09.000Z",
       "shared": "2026-09-06T07:06:12.000Z",
-      "views": 73,
+      "views": 74,
       "loves": 10,
       "favorites": 8,
       "remixes": 0
@@ -275,7 +275,7 @@
       "created": "2026-08-30T10:44:31.000Z",
       "modified": "2026-09-02T10:00:21.000Z",
       "shared": "2026-08-30T10:44:33.000Z",
-      "views": 56,
+      "views": 61,
       "loves": 7,
       "favorites": 7,
       "remixes": 0
@@ -290,7 +290,7 @@
       "created": "2026-08-29T10:35:36.000Z",
       "modified": "2026-09-03T07:33:03.000Z",
       "shared": "2026-08-29T10:38:44.000Z",
-      "views": 8,
+      "views": 10,
       "loves": 1,
       "favorites": 0,
       "remixes": 0
@@ -305,7 +305,7 @@
       "created": "2026-08-28T07:55:13.000Z",
       "modified": "2026-08-28T08:43:32.000Z",
       "shared": "2026-08-28T07:55:37.000Z",
-      "views": 45,
+      "views": 46,
       "loves": 4,
       "favorites": 3,
       "remixes": 0
@@ -314,14 +314,14 @@
       "id": 1375019106,
       "title": "100% pen! Hill Climb Racing v1.0",
       "description": "■ 元にしたもの\nこのプロジェクトは griffpatch さんの「Hill Climb Racing」を、\nペン描画だけで作り直したものです。\n\n\n元ゲームは Fingersoft の Hill Climb Racing です。\n\n■ 何をしたか\n・スプライト17個 → 1個（ペンで描くので分ける必要がない）\n・コスチューム約100枚 → 0枚\n・音声 → 0個\n・変数モニターとリストモニター → 全部ペンで文字を描いて表示\n  （5×7ドットのベクターフォントを53文字ぶん自作しました）\n\n■ しくみのメモ\n・車は「後輪・前輪・頭」の3つの点をバネでつないだだけのモデルです。\n  頭が地面についたら首の骨が折れる判定になります。\n・地形は数値の列 → 3次ベジェ曲線 → 5度きざみに角度を丸めた\n  折れ線、という順番で作られます。丸めているぶん当たり判定が軽いです。\n・地面は縦線を5…",
-      "instructions": "→   アクセル\n←   ブレーキ / 後退\nR   やり直し\nV   車 ⇔ バイク（コースも変わります）\nP   ポーズ（もう一度Pで再開）\nH   操作説明の表示 / 非表示\nSPACE  ゲームオーバー画面から再スタート\n\n・燃料が切れると止まります。赤い缶を拾うと満タンに戻ります\n・コインは 5 / 25 / 100 / 500 点\n・空中に20フレーム以上いるとエアタイム、片輪走行が続くとウィリーでボーナス\n・空中で1回転すると +1000\n・頭から落ちると NECK BROKEN で終わりです\n\n→   Accelerate\n←   Brake / Reverse\nR   Restart\nV   Switch between Car and Motorcycle (changes the course)\nP   Pause (press P again to resume)…",
+      "instructions": "→   アクセル\n←   ブレーキ / 後退\nR   やり直し\nV   車 ⇔ バイク（コースも変わります）\nP   ポーズ（もう一度Pで再開）\nH   操作説明の表示 / 非表示\nSPACE  ゲームオーバー画面から再スタート\n\n・燃料が切れると止まります。赤い缶を拾うと満タンに戻ります\n・コインは 5 / 25 / 100 / 500 点\n・空中に20フレーム以上いるとエアタイム、片輪走行が続くとウィリーでボーナス\n・空中で1回転すると +1000\n・頭から落ちると NECK BROKEN で終わりです\nEnglish is in project\nイントロの中に一つだけ間違いがあります探してみてね",
       "url": "https://scratch.mit.edu/projects/1375019106/",
-      "image": "https://cdn2.scratch.mit.edu/get_image/project/1375019106_282x218.png?v=1787817547",
+      "image": "https://cdn2.scratch.mit.edu/get_image/project/1375019106_282x218.png?v=1789732129",
       "created": "2026-08-25T11:56:46.000Z",
-      "modified": "2026-08-27T07:59:07.000Z",
+      "modified": "2026-09-18T11:48:49.000Z",
       "shared": "2026-08-25T11:58:52.000Z",
-      "views": 342,
-      "loves": 24,
+      "views": 351,
+      "loves": 25,
       "favorites": 22,
       "remixes": 0
     },
@@ -365,7 +365,7 @@
       "created": "2026-08-17T11:58:46.000Z",
       "modified": "2026-09-06T07:52:17.000Z",
       "shared": "2026-08-20T22:40:06.000Z",
-      "views": 893,
+      "views": 897,
       "loves": 54,
       "favorites": 49,
       "remixes": 0
