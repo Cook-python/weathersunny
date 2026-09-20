@@ -1,12 +1,12 @@
 {
-  "generatedAt": "2026-09-19T23:04:00Z",
+  "generatedAt": "2026-09-20T23:14:57Z",
   "source": "api.scratch.mit.edu",
   "username": "weather_sunny",
   "totals": {
     "count": 24,
-    "views": 1697,
-    "loves": 145,
-    "favorites": 128,
+    "views": 1732,
+    "loves": 155,
+    "favorites": 135,
     "remixes": 0
   },
   "projects": [
@@ -50,7 +50,7 @@
       "created": "2026-09-17T07:05:43.000Z",
       "modified": "2026-09-17T07:07:40.000Z",
       "shared": "2026-09-17T07:07:40.000Z",
-      "views": 25,
+      "views": 29,
       "loves": 4,
       "favorites": 4,
       "remixes": 0
@@ -65,9 +65,9 @@
       "created": "2026-09-14T11:52:31.000Z",
       "modified": "2026-09-18T10:39:25.000Z",
       "shared": "2026-09-15T11:11:19.000Z",
-      "views": 38,
-      "loves": 10,
-      "favorites": 11,
+      "views": 46,
+      "loves": 12,
+      "favorites": 13,
       "remixes": 0
     },
     {
@@ -110,9 +110,9 @@
       "created": "2026-09-12T11:57:30.000Z",
       "modified": "2026-09-12T11:58:32.000Z",
       "shared": "2026-09-12T11:58:32.000Z",
-      "views": 33,
-      "loves": 10,
-      "favorites": 7,
+      "views": 53,
+      "loves": 18,
+      "favorites": 12,
       "remixes": 0
     },
     {
@@ -200,7 +200,7 @@
       "created": "2026-09-06T07:09:54.000Z",
       "modified": "2026-09-06T23:47:09.000Z",
       "shared": "2026-09-06T11:29:17.000Z",
-      "views": 10,
+      "views": 11,
       "loves": 1,
       "favorites": 1,
       "remixes": 0
@@ -305,22 +305,22 @@
       "created": "2026-08-28T07:55:13.000Z",
       "modified": "2026-08-28T08:43:32.000Z",
       "shared": "2026-08-28T07:55:37.000Z",
-      "views": 46,
+      "views": 47,
       "loves": 4,
       "favorites": 3,
       "remixes": 0
     },
     {
       "id": 1375019106,
-      "title": "100% pen! Hill Climb Racing v1.0",
+      "title": "100％ pen! Hill Climb Racing 【Mobile Friendly】",
       "description": "■ 元にしたもの\nこのプロジェクトは griffpatch さんの「Hill Climb Racing」を、\nペン描画だけで作り直したものです。\n\n\n元ゲームは Fingersoft の Hill Climb Racing です。\n\n■ 何をしたか\n・スプライト17個 → 1個（ペンで描くので分ける必要がない）\n・コスチューム約100枚 → 0枚\n・音声 → 0個\n・変数モニターとリストモニター → 全部ペンで文字を描いて表示\n  （5×7ドットのベクターフォントを53文字ぶん自作しました）\n\n■ しくみのメモ\n・車は「後輪・前輪・頭」の3つの点をバネでつないだだけのモデルです。\n  頭が地面についたら首の骨が折れる判定になります。\n・地形は数値の列 → 3次ベジェ曲線 → 5度きざみに角度を丸めた\n  折れ線、という順番で作られます。丸めているぶん当たり判定が軽いです。\n・地面は縦線を5…",
-      "instructions": "→   アクセル\n←   ブレーキ / 後退\nR   やり直し\nV   車 ⇔ バイク（コースも変わります）\nP   ポーズ（もう一度Pで再開）\nH   操作説明の表示 / 非表示\nSPACE  ゲームオーバー画面から再スタート\n\n・燃料が切れると止まります。赤い缶を拾うと満タンに戻ります\n・コインは 5 / 25 / 100 / 500 点\n・空中に20フレーム以上いるとエアタイム、片輪走行が続くとウィリーでボーナス\n・空中で1回転すると +1000\n・頭から落ちると NECK BROKEN で終わりです\nEnglish is in project\nイントロの中に一つだけ間違いがあります探してみてね",
+      "instructions": "→      アクセル\n←      ブレーキ / 後退\nR      やり直し\nV      車 ⇔ バイク（コースも変わります）\nP      ポーズ（もう一度Pで再開）\nSPACE  ゲームオーバー画面から再スタート\n\n右下の丸 >     アクセル\n左下の丸 <     ブレーキ / 後退\n下中央 R V P   やり直し / 車⇔バイク / ポーズ\nランキング     リストをドラッグしてスクロール\n               RACE AGAIN を押して再スタート\nイントロ       SKIP を押すと飛ばせます\n\n→ Accelerator\n← Brake / Reverse\nR Restart\nV Car ⇔ Bike (Course changes)\nP Pause (Press P again to resume)\nSPACE Restart from Game…",
       "url": "https://scratch.mit.edu/projects/1375019106/",
-      "image": "https://cdn2.scratch.mit.edu/get_image/project/1375019106_282x218.png?v=1789732129",
+      "image": "https://cdn2.scratch.mit.edu/get_image/project/1375019106_282x218.png?v=1789941460",
       "created": "2026-08-25T11:56:46.000Z",
-      "modified": "2026-09-18T11:48:49.000Z",
+      "modified": "2026-09-20T21:57:40.000Z",
       "shared": "2026-08-25T11:58:52.000Z",
-      "views": 351,
+      "views": 352,
       "loves": 25,
       "favorites": 22,
       "remixes": 0
