@@ -1,15 +1,45 @@
 {
-  "generatedAt": "2026-09-20T23:14:57Z",
+  "generatedAt": "2026-09-22T00:06:26Z",
   "source": "api.scratch.mit.edu",
   "username": "weather_sunny",
   "totals": {
-    "count": 24,
-    "views": 1732,
-    "loves": 155,
-    "favorites": 135,
+    "count": 26,
+    "views": 1796,
+    "loves": 162,
+    "favorites": 140,
     "remixes": 0
   },
   "projects": [
+    {
+      "id": 1383249586,
+      "title": "Shogi Ichiban",
+      "description": "https://www.youtube.com/watch?v=dB8QCac8FSM\n音ズレがひどいなぁ",
+      "instructions": "",
+      "url": "https://scratch.mit.edu/projects/1383249586/",
+      "image": "https://cdn2.scratch.mit.edu/get_image/project/1383249586_282x218.png?v=1790031516",
+      "created": "2026-09-21T05:36:36.000Z",
+      "modified": "2026-09-21T22:58:36.000Z",
+      "shared": "2026-09-21T05:36:38.000Z",
+      "views": 17,
+      "loves": 3,
+      "favorites": 3,
+      "remixes": 0
+    },
+    {
+      "id": 1383185072,
+      "title": "Red Sun in the Sky 天上太陽紅彤彤",
+      "description": "",
+      "instructions": "いい曲ですよねー\n歌詞の意味は知らないですけど\nhttps://www.youtube.com/watch?v=OjNpRbNdR7E\nターボモードお願いね",
+      "url": "https://scratch.mit.edu/projects/1383185072/",
+      "image": "https://cdn2.scratch.mit.edu/get_image/project/1383185072_282x218.png?v=1789951872",
+      "created": "2026-09-21T00:35:35.000Z",
+      "modified": "2026-09-21T00:51:12.000Z",
+      "shared": "2026-09-21T00:37:03.000Z",
+      "views": 5,
+      "loves": 1,
+      "favorites": 0,
+      "remixes": 0
+    },
     {
       "id": 1382062779,
       "title": "因数分解 高速版",
@@ -50,7 +80,7 @@
       "created": "2026-09-17T07:05:43.000Z",
       "modified": "2026-09-17T07:07:40.000Z",
       "shared": "2026-09-17T07:07:40.000Z",
-      "views": 29,
+      "views": 31,
       "loves": 4,
       "favorites": 4,
       "remixes": 0
@@ -65,9 +95,9 @@
       "created": "2026-09-14T11:52:31.000Z",
       "modified": "2026-09-18T10:39:25.000Z",
       "shared": "2026-09-15T11:11:19.000Z",
-      "views": 46,
-      "loves": 12,
-      "favorites": 13,
+      "views": 64,
+      "loves": 13,
+      "favorites": 14,
       "remixes": 0
     },
     {
@@ -110,9 +140,9 @@
       "created": "2026-09-12T11:57:30.000Z",
       "modified": "2026-09-12T11:58:32.000Z",
       "shared": "2026-09-12T11:58:32.000Z",
-      "views": 53,
-      "loves": 18,
-      "favorites": 12,
+      "views": 58,
+      "loves": 20,
+      "favorites": 13,
       "remixes": 0
     },
     {
@@ -275,7 +305,7 @@
       "created": "2026-08-30T10:44:31.000Z",
       "modified": "2026-09-02T10:00:21.000Z",
       "shared": "2026-08-30T10:44:33.000Z",
-      "views": 61,
+      "views": 66,
       "loves": 7,
       "favorites": 7,
       "remixes": 0
@@ -320,7 +350,7 @@
       "created": "2026-08-25T11:56:46.000Z",
       "modified": "2026-09-20T21:57:40.000Z",
       "shared": "2026-08-25T11:58:52.000Z",
-      "views": 352,
+      "views": 361,
       "loves": 25,
       "favorites": 22,
       "remixes": 0
@@ -365,7 +395,7 @@
       "created": "2026-08-17T11:58:46.000Z",
       "modified": "2026-09-06T07:52:17.000Z",
       "shared": "2026-08-20T22:40:06.000Z",
-      "views": 897,
+      "views": 900,
       "loves": 54,
       "favorites": 49,
       "remixes": 0
