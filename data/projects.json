@@ -1,15 +1,30 @@
 {
-  "generatedAt": "2026-09-23T23:41:35Z",
+  "generatedAt": "2026-09-24T23:52:54Z",
   "source": "api.scratch.mit.edu",
   "username": "weather_sunny",
   "totals": {
-    "count": 26,
-    "views": 2092,
-    "loves": 180,
-    "favorites": 154,
+    "count": 27,
+    "views": 2129,
+    "loves": 192,
+    "favorites": 166,
     "remixes": 0
   },
   "projects": [
+    {
+      "id": 1384508264,
+      "title": "Ai Platformer",
+      "description": "",
+      "instructions": "文字のほうが頑張ったかもしれない",
+      "url": "https://scratch.mit.edu/projects/1384508264/",
+      "image": "https://cdn2.scratch.mit.edu/get_image/project/1384508264_282x218.png?v=1790250057",
+      "created": "2026-09-24T09:38:16.000Z",
+      "modified": "2026-09-24T11:40:57.000Z",
+      "shared": "2026-09-24T10:27:01.000Z",
+      "views": 5,
+      "loves": 4,
+      "favorites": 4,
+      "remixes": 0
+    },
     {
       "id": 1383249586,
       "title": "Shogi Ichiban",
@@ -20,9 +35,9 @@
       "created": "2026-09-21T05:36:36.000Z",
       "modified": "2026-09-21T22:58:36.000Z",
       "shared": "2026-09-21T05:36:38.000Z",
-      "views": 39,
-      "loves": 8,
-      "favorites": 7,
+      "views": 43,
+      "loves": 11,
+      "favorites": 10,
       "remixes": 0
     },
     {
@@ -80,7 +95,7 @@
       "created": "2026-09-17T07:05:43.000Z",
       "modified": "2026-09-17T07:07:40.000Z",
       "shared": "2026-09-17T07:07:40.000Z",
-      "views": 220,
+      "views": 224,
       "loves": 8,
       "favorites": 6,
       "remixes": 0
@@ -95,9 +110,9 @@
       "created": "2026-09-14T11:52:31.000Z",
       "modified": "2026-09-18T10:39:25.000Z",
       "shared": "2026-09-15T11:11:19.000Z",
-      "views": 102,
-      "loves": 19,
-      "favorites": 19,
+      "views": 116,
+      "loves": 23,
+      "favorites": 23,
       "remixes": 0
     },
     {
@@ -140,7 +155,7 @@
       "created": "2026-09-12T11:57:30.000Z",
       "modified": "2026-09-12T11:58:32.000Z",
       "shared": "2026-09-12T11:58:32.000Z",
-      "views": 71,
+      "views": 75,
       "loves": 20,
       "favorites": 13,
       "remixes": 0
@@ -200,7 +215,7 @@
       "created": "2026-09-08T10:55:50.000Z",
       "modified": "2026-09-08T11:00:06.000Z",
       "shared": "2026-09-08T11:00:05.000Z",
-      "views": 12,
+      "views": 13,
       "loves": 2,
       "favorites": 2,
       "remixes": 0
@@ -245,7 +260,7 @@
       "created": "2026-09-06T06:35:49.000Z",
       "modified": "2026-09-06T22:08:09.000Z",
       "shared": "2026-09-06T07:06:12.000Z",
-      "views": 75,
+      "views": 76,
       "loves": 10,
       "favorites": 8,
       "remixes": 0
@@ -290,7 +305,7 @@
       "created": "2026-08-31T06:50:18.000Z",
       "modified": "2026-08-31T06:53:19.000Z",
       "shared": "2026-08-31T06:52:04.000Z",
-      "views": 21,
+      "views": 22,
       "loves": 1,
       "favorites": 1,
       "remixes": 0
@@ -335,7 +350,7 @@
       "created": "2026-08-28T07:55:13.000Z",
       "modified": "2026-08-28T08:43:32.000Z",
       "shared": "2026-08-28T07:55:37.000Z",
-      "views": 48,
+      "views": 49,
       "loves": 4,
       "favorites": 3,
       "remixes": 0
@@ -350,7 +365,7 @@
       "created": "2026-08-25T11:56:46.000Z",
       "modified": "2026-09-20T21:57:40.000Z",
       "shared": "2026-08-25T11:58:52.000Z",
-      "views": 372,
+      "views": 373,
       "loves": 26,
       "favorites": 23,
       "remixes": 0
@@ -395,9 +410,9 @@
       "created": "2026-08-17T11:58:46.000Z",
       "modified": "2026-09-06T07:52:17.000Z",
       "shared": "2026-08-20T22:40:06.000Z",
-      "views": 909,
-      "loves": 54,
-      "favorites": 49,
+      "views": 910,
+      "loves": 55,
+      "favorites": 50,
       "remixes": 0
     }
   ]
