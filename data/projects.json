@@ -1,15 +1,45 @@
 {
-  "generatedAt": "2026-09-25T23:56:46Z",
+  "generatedAt": "2026-09-26T23:37:31Z",
   "source": "api.scratch.mit.edu",
   "username": "weather_sunny",
   "totals": {
-    "count": 28,
-    "views": 2172,
-    "loves": 197,
-    "favorites": 170,
+    "count": 30,
+    "views": 2231,
+    "loves": 207,
+    "favorites": 180,
     "remixes": 0
   },
   "projects": [
+    {
+      "id": 1385361282,
+      "title": "黒部峡谷トロッコ電車",
+      "description": "",
+      "instructions": "",
+      "url": "https://scratch.mit.edu/projects/1385361282/",
+      "image": "https://cdn2.scratch.mit.edu/get_image/project/1385361282_282x218.png?v=1790465247",
+      "created": "2026-09-26T23:26:29.000Z",
+      "modified": "2026-09-26T23:27:27.000Z",
+      "shared": "2026-09-26T23:27:26.000Z",
+      "views": 1,
+      "loves": 0,
+      "favorites": 0,
+      "remixes": 0
+    },
+    {
+      "id": 1385197178,
+      "title": "将棋AI 自動学習",
+      "description": "将棋のAIが「自分で強くなっていく過程」を見られるようにした作品です。\n\n■ 仕組み\n・評価関数は「駒の価値」「持ち駒の価値」「駒の前進度」「玉のまわりの守り駒」の36個の重みの足し算です。\n・毎局、学習前の初期AIと先後を入れかえながら対局し、結果から重みを更新します（ロジスティック回帰）。\n・探索は1手読み＋取り返しの罰則。dキーで2手読みにもできます。\n・詰み、二歩、打ち歩詰め、行き所のない駒、王手放置など将棋のルールはひと通り入っています。150手で決着しないときは駒の点数で勝敗を決めます。\n・クラウド変数：重みの保存に2本、通信対局に4本使っています。\n\n■ クレジット\n・盤、駒、背景、メニュー、「成りますか？」「勝利／敗北」などの画像は\n　P-02-Lomさんの「将棋 Pro. ーAdvanceー」から使わせてもらいました。\n・元作品の作者さんの「AI（俊）と仮想OS（玄姫）を…",
+      "instructions": "緑の旗を押すとメニューが出ます。\n\n▼ AIの学習\n　AIが自分で将棋を指して、勝ち負けの結果から駒の価値などを学んでいきます。\n　右のパネルに「対局数」「直近20局の勝率」（学習前の初期AIに対する勝率）と\n　駒ごとの価値のグラフが出るので、だんだん強くなる様子が見えます。\n　スペースキー：高速モード（画面の更新を減らして学習を速くする）\n　rキー：学習をリセット\n　※学習した重みはクラウド変数に保存されるので、次に開いたとき続きから学習します。\n\n▼ AIと対局\n　あなたが先手、学習したAIが後手です。\n　駒をクリック → 行ける場所がピンクで出るので行き先をクリック。\n　持ち駒は盤の下に並びます。成れるときは「成りますか？」が出ます。\n　hキー：候補手を表示／非表示（勝ちやすい順に5手。線と番号で盤に出ます）\n　dキー：AIの読みの深さを1手／2手で切替（2手はTurboWarp向け…",
+      "url": "https://scratch.mit.edu/projects/1385197178/",
+      "image": "https://cdn2.scratch.mit.edu/get_image/project/1385197178_282x218.png?v=1790419314",
+      "created": "2026-09-26T07:04:22.000Z",
+      "modified": "2026-09-26T10:41:54.000Z",
+      "shared": "2026-09-26T09:43:43.000Z",
+      "views": 12,
+      "loves": 3,
+      "favorites": 3,
+      "remixes": 0
+    },
     {
       "id": 1384904472,
       "title": "品詞分解",
@@ -20,7 +50,7 @@
       "created": "2026-09-25T10:28:19.000Z",
       "modified": "2026-09-25T11:14:16.000Z",
       "shared": "2026-09-25T11:14:16.000Z",
-      "views": 5,
+      "views": 8,
       "loves": 2,
       "favorites": 1,
       "remixes": 0
@@ -35,7 +65,7 @@
       "created": "2026-09-24T09:38:16.000Z",
       "modified": "2026-09-25T11:34:16.000Z",
       "shared": "2026-09-24T10:27:01.000Z",
-      "views": 18,
+      "views": 20,
       "loves": 5,
       "favorites": 5,
       "remixes": 0
@@ -50,9 +80,9 @@
       "created": "2026-09-21T05:36:36.000Z",
       "modified": "2026-09-21T22:58:36.000Z",
       "shared": "2026-09-21T05:36:38.000Z",
-      "views": 44,
-      "loves": 11,
-      "favorites": 10,
+      "views": 47,
+      "loves": 13,
+      "favorites": 12,
       "remixes": 0
     },
     {
@@ -110,7 +140,7 @@
       "created": "2026-09-17T07:05:43.000Z",
       "modified": "2026-09-17T07:07:40.000Z",
       "shared": "2026-09-17T07:07:40.000Z",
-      "views": 225,
+      "views": 230,
       "loves": 8,
       "favorites": 6,
       "remixes": 0
@@ -125,9 +155,9 @@
       "created": "2026-09-14T11:52:31.000Z",
       "modified": "2026-09-18T10:39:25.000Z",
       "shared": "2026-09-15T11:11:19.000Z",
-      "views": 130,
-      "loves": 23,
-      "favorites": 23,
+      "views": 143,
+      "loves": 25,
+      "favorites": 25,
       "remixes": 0
     },
     {
@@ -155,7 +185,7 @@
       "created": "2026-09-12T12:27:04.000Z",
       "modified": "2026-09-12T12:28:48.000Z",
       "shared": "2026-09-12T12:28:30.000Z",
-      "views": 7,
+      "views": 8,
       "loves": 1,
       "favorites": 1,
       "remixes": 0
@@ -170,7 +200,7 @@
       "created": "2026-09-12T11:57:30.000Z",
       "modified": "2026-09-12T11:58:32.000Z",
       "shared": "2026-09-12T11:58:32.000Z",
-      "views": 76,
+      "views": 80,
       "loves": 20,
       "favorites": 13,
       "remixes": 0
@@ -215,9 +245,9 @@
       "created": "2026-09-09T10:01:59.000Z",
       "modified": "2026-09-10T21:16:31.000Z",
       "shared": "2026-09-09T10:04:16.000Z",
-      "views": 20,
-      "loves": 1,
-      "favorites": 1,
+      "views": 21,
+      "loves": 3,
+      "favorites": 3,
       "remixes": 0
     },
     {
@@ -230,7 +260,7 @@
       "created": "2026-09-08T10:55:50.000Z",
       "modified": "2026-09-08T11:00:06.000Z",
       "shared": "2026-09-08T11:00:05.000Z",
-      "views": 13,
+      "views": 14,
       "loves": 2,
       "favorites": 2,
       "remixes": 0
@@ -245,7 +275,7 @@
       "created": "2026-09-07T07:19:27.000Z",
       "modified": "2026-09-07T11:51:12.000Z",
       "shared": "2026-09-07T07:26:52.000Z",
-      "views": 5,
+      "views": 6,
       "loves": 0,
       "favorites": 0,
       "remixes": 0
@@ -275,7 +305,7 @@
       "created": "2026-09-06T06:35:49.000Z",
       "modified": "2026-09-06T22:08:09.000Z",
       "shared": "2026-09-06T07:06:12.000Z",
-      "views": 76,
+      "views": 77,
       "loves": 10,
       "favorites": 8,
       "remixes": 0
@@ -290,7 +320,7 @@
       "created": "2026-09-02T12:20:51.000Z",
       "modified": "2026-09-02T12:20:53.000Z",
       "shared": "2026-09-02T12:20:53.000Z",
-      "views": 12,
+      "views": 13,
       "loves": 1,
       "favorites": 1,
       "remixes": 0
@@ -365,7 +395,7 @@
       "created": "2026-08-28T07:55:13.000Z",
       "modified": "2026-08-28T08:43:32.000Z",
       "shared": "2026-08-28T07:55:37.000Z",
-      "views": 49,
+      "views": 53,
       "loves": 4,
       "favorites": 3,
       "remixes": 0
@@ -380,9 +410,9 @@
       "created": "2026-08-25T11:56:46.000Z",
       "modified": "2026-09-20T21:57:40.000Z",
       "shared": "2026-08-25T11:58:52.000Z",
-      "views": 374,
-      "loves": 26,
-      "favorites": 23,
+      "views": 378,
+      "loves": 27,
+      "favorites": 24,
       "remixes": 0
     },
     {
@@ -425,7 +455,7 @@
       "created": "2026-08-17T11:58:46.000Z",
       "modified": "2026-09-06T07:52:17.000Z",
       "shared": "2026-08-20T22:40:06.000Z",
-      "views": 912,
+      "views": 914,
       "loves": 55,
       "favorites": 50,
       "remixes": 0
