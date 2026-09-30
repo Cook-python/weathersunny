@@ -1,28 +1,28 @@
 {
-  "generatedAt": "2026-09-29T00:59:03Z",
+  "generatedAt": "2026-09-30T00:26:52Z",
   "source": "api.scratch.mit.edu",
   "username": "weather_sunny",
   "totals": {
-    "count": 32,
-    "views": 2528,
-    "loves": 257,
-    "favorites": 225,
+    "count": 30,
+    "views": 2565,
+    "loves": 258,
+    "favorites": 226,
     "remixes": 0
   },
   "projects": [
     {
       "id": 1385461739,
-      "title": "Minecraft　３D",
+      "title": "Minecraft 3D",
       "description": "ペンだけで3Dを描いています。四角形を台形ごとに線で塗りつぶし、奥のものから順に重ねる方式です。\n\n■ 中身のメモ\n・ワールドは64×64×32。地形は値ノイズ、洞窟は2種類のノイズを重ねた蛇行トンネル、鉱石は深さごとに分布を変えています。\n・ワールドを16個のチャンクに分けて管理し、掘ったり置いたりしたチャンクだけを1フレームに1つずつ作り直します。\n・上下の面はグリーディーメッシュで結合。側面は結合していません。結合すると奥行きの順番が壊れて、手前の面が奥の面に塗りつぶされてしまうためです。代わりに層ごとの分割とマンハッタン距離の並べ替えで正しい順番を保証しています。\n・テクスチャは16×16のドット絵を自作し、同じ色の連続に圧縮してリストに入れてあります。近くの面だけ、1行ずつペンの太さを変えた線で描いています。遠くは単色と市松模様です。\n・明るさは空の光と松明の光を別々に持たせて、…",
       "instructions": "100%ペンで描いた3Dのマインクラフト風ゲームです。コスチュームは1枚も使っていません。\n\n■ はじめかた\n旗を押すと言語選択（日本語 / English / 中文 / 한국어）が出ます。\nシングルプレイ → ワールド新規作成 → 「ワールド新規作成」で生成開始。\n「ゲーム」タブでモード（サバイバル・ハードコア・クリエイティブ・アドベンチャー・スペクテイター）と難易度、「ワールド」タブでワールドタイプ（デフォルト / スーパーフラット）とシード値を選べます。\nシード値の欄をクリックすると入力ボックスが出ます。空欄ならランダム、数字ならその数、文字を入れると文字から計算した値になります。\n\n■ 操作\nW A S D ： 移動\n矢印キー ： 視点\nスペース ： ジャンプ（クリエイティブは2回押しで飛行の切り替え）\nQ ： 飛行中に下降\nクリック長押し ： ブロックを壊す / モブを攻撃\nE…",
       "url": "https://scratch.mit.edu/projects/1385461739/",
-      "image": "https://cdn2.scratch.mit.edu/get_image/project/1385461739_282x218.png?v=1790594325",
+      "image": "https://cdn2.scratch.mit.edu/get_image/project/1385461739_282x218.png?v=1790671251",
       "created": "2026-09-27T11:32:04.000Z",
-      "modified": "2026-09-28T11:18:45.000Z",
+      "modified": "2026-09-29T08:40:51.000Z",
       "shared": "2026-09-27T11:55:56.000Z",
-      "views": 63,
-      "loves": 16,
-      "favorites": 16,
+      "views": 87,
+      "loves": 19,
+      "favorites": 19,
       "remixes": 0
     },
     {
@@ -35,24 +35,9 @@
       "created": "2026-09-27T03:51:12.000Z",
       "modified": "2026-09-27T05:59:20.000Z",
       "shared": "2026-09-27T04:11:06.000Z",
-      "views": 30,
+      "views": 31,
       "loves": 4,
       "favorites": 2,
-      "remixes": 0
-    },
-    {
-      "id": 1385361282,
-      "title": "黒部峡谷トロッコ電車",
-      "description": "",
-      "instructions": "",
-      "url": "https://scratch.mit.edu/projects/1385361282/",
-      "image": "https://cdn2.scratch.mit.edu/get_image/project/1385361282_282x218.png?v=1790465247",
-      "created": "2026-09-26T23:26:29.000Z",
-      "modified": "2026-09-26T23:27:27.000Z",
-      "shared": "2026-09-26T23:27:26.000Z",
-      "views": 8,
-      "loves": 0,
-      "favorites": 0,
       "remixes": 0
     },
     {
@@ -65,24 +50,9 @@
       "created": "2026-09-26T07:04:22.000Z",
       "modified": "2026-09-26T10:41:54.000Z",
       "shared": "2026-09-26T09:43:43.000Z",
-      "views": 27,
+      "views": 31,
       "loves": 4,
       "favorites": 4,
-      "remixes": 0
-    },
-    {
-      "id": 1384904472,
-      "title": "品詞分解",
-      "description": "",
-      "instructions": "",
-      "url": "https://scratch.mit.edu/projects/1384904472/",
-      "image": "https://cdn2.scratch.mit.edu/get_image/project/1384904472_282x218.png?v=1790334856",
-      "created": "2026-09-25T10:28:19.000Z",
-      "modified": "2026-09-25T11:14:16.000Z",
-      "shared": "2026-09-25T11:14:16.000Z",
-      "views": 12,
-      "loves": 4,
-      "favorites": 3,
       "remixes": 0
     },
     {
@@ -95,9 +65,9 @@
       "created": "2026-09-24T09:38:16.000Z",
       "modified": "2026-09-25T11:34:16.000Z",
       "shared": "2026-09-24T10:27:01.000Z",
-      "views": 30,
-      "loves": 8,
-      "favorites": 7,
+      "views": 34,
+      "loves": 9,
+      "favorites": 8,
       "remixes": 0
     },
     {
@@ -110,7 +80,7 @@
       "created": "2026-09-21T05:36:36.000Z",
       "modified": "2026-09-21T22:58:36.000Z",
       "shared": "2026-09-21T05:36:38.000Z",
-      "views": 62,
+      "views": 67,
       "loves": 14,
       "favorites": 13,
       "remixes": 0
@@ -185,7 +155,7 @@
       "created": "2026-09-14T11:52:31.000Z",
       "modified": "2026-09-18T10:39:25.000Z",
       "shared": "2026-09-15T11:11:19.000Z",
-      "views": 205,
+      "views": 215,
       "loves": 40,
       "favorites": 38,
       "remixes": 0
@@ -230,7 +200,7 @@
       "created": "2026-09-12T11:57:30.000Z",
       "modified": "2026-09-12T11:58:32.000Z",
       "shared": "2026-09-12T11:58:32.000Z",
-      "views": 85,
+      "views": 87,
       "loves": 20,
       "favorites": 13,
       "remixes": 0
@@ -305,7 +275,7 @@
       "created": "2026-09-07T07:19:27.000Z",
       "modified": "2026-09-07T11:51:12.000Z",
       "shared": "2026-09-07T07:26:52.000Z",
-      "views": 7,
+      "views": 8,
       "loves": 1,
       "favorites": 1,
       "remixes": 0
@@ -335,7 +305,7 @@
       "created": "2026-09-06T06:35:49.000Z",
       "modified": "2026-09-06T22:08:09.000Z",
       "shared": "2026-09-06T07:06:12.000Z",
-      "views": 79,
+      "views": 81,
       "loves": 10,
       "favorites": 8,
       "remixes": 0
@@ -395,7 +365,7 @@
       "created": "2026-08-30T10:44:31.000Z",
       "modified": "2026-09-02T10:00:21.000Z",
       "shared": "2026-08-30T10:44:33.000Z",
-      "views": 79,
+      "views": 80,
       "loves": 11,
       "favorites": 12,
       "remixes": 0
@@ -425,7 +395,7 @@
       "created": "2026-08-28T07:55:13.000Z",
       "modified": "2026-08-28T08:43:32.000Z",
       "shared": "2026-08-28T07:55:37.000Z",
-      "views": 59,
+      "views": 60,
       "loves": 5,
       "favorites": 4,
       "remixes": 0
@@ -440,7 +410,7 @@
       "created": "2026-08-25T11:56:46.000Z",
       "modified": "2026-09-20T21:57:40.000Z",
       "shared": "2026-08-25T11:58:52.000Z",
-      "views": 388,
+      "views": 390,
       "loves": 28,
       "favorites": 25,
       "remixes": 0
@@ -486,7 +456,7 @@
       "modified": "2026-09-06T07:52:17.000Z",
       "shared": "2026-08-20T22:40:06.000Z",
       "views": 917,
-      "loves": 55,
+      "loves": 56,
       "favorites": 50,
       "remixes": 0
     }
