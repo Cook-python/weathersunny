@@ -1,28 +1,58 @@
 {
-  "generatedAt": "2026-10-01T00:33:05Z",
+  "generatedAt": "2026-10-02T00:47:06Z",
   "source": "api.scratch.mit.edu",
   "username": "weather_sunny",
   "totals": {
-    "count": 31,
-    "views": 2643,
-    "loves": 266,
-    "favorites": 234,
+    "count": 33,
+    "views": 2728,
+    "loves": 273,
+    "favorites": 241,
     "remixes": 0
   },
   "projects": [
     {
+      "id": 1387209694,
+      "title": "Fortnite 2D",
+      "description": "",
+      "instructions": "【操作方法 / How to Play】\n\n■ タイトル画面 / Title Screen\n「CPU対戦」か「オンライン対戦」を選ぶ / Pick \"CPU Battle\" or \"Online Battle\"\nCPU対戦はソロ・デュオ・スクワッド、建築あり・ゼロビルドも選べる / In CPU Battle you can also choose Solo, Duos, Squads and Build or Zero Build\nPC操作かタッチ操作を選んで「スタート」 / Pick PC or Touch controls, then press Start\n\n■ PC（2D）/ PC (2D)\nWASD / 矢印キー … 移動 / WASD or Arrow keys ... Move\nマウス … 狙う / Mouse ... Aim\nクリック … 撃つ（建築モード中は設置）/ C…",
+      "url": "https://scratch.mit.edu/projects/1387209694/",
+      "image": "https://cdn2.scratch.mit.edu/get_image/project/1387209694_282x218.png?v=1790896660",
+      "created": "2026-10-01T22:48:35.000Z",
+      "modified": "2026-10-01T23:17:40.000Z",
+      "shared": "2026-10-01T23:11:38.000Z",
+      "views": 1,
+      "loves": 0,
+      "favorites": 0,
+      "remixes": 0
+    },
+    {
+      "id": 1386994180,
+      "title": "Untitled 【予告】",
+      "description": "",
+      "instructions": "フォートナイト\n2026年10月2日　8:00 (JST）\n今回は珍しくこのエディタで作ってみました\nガバガバ翻訳も健在です",
+      "url": "https://scratch.mit.edu/projects/1386994180/",
+      "image": "https://cdn2.scratch.mit.edu/get_image/project/1386994180_282x218.png?v=1790858646",
+      "created": "2026-10-01T12:19:10.000Z",
+      "modified": "2026-10-01T12:44:06.000Z",
+      "shared": "2026-10-01T12:21:20.000Z",
+      "views": 3,
+      "loves": 0,
+      "favorites": 0,
+      "remixes": 0
+    },
+    {
       "id": 1386785300,
       "title": "Minecraft 100Blockｓ",
       "description": "",
-      "instructions": "arrow key",
+      "instructions": "arrow key\nクリエイティブぅ",
       "url": "https://scratch.mit.edu/projects/1386785300/",
-      "image": "https://cdn2.scratch.mit.edu/get_image/project/1386785300_282x218.png?v=1790807244",
+      "image": "https://cdn2.scratch.mit.edu/get_image/project/1386785300_282x218.png?v=1790845062",
       "created": "2026-09-30T22:26:23.000Z",
-      "modified": "2026-09-30T22:27:24.000Z",
+      "modified": "2026-10-01T08:57:42.000Z",
       "shared": "2026-09-30T22:27:15.000Z",
-      "views": 3,
-      "loves": 1,
-      "favorites": 1,
+      "views": 21,
+      "loves": 2,
+      "favorites": 2,
       "remixes": 0
     },
     {
@@ -35,9 +65,9 @@
       "created": "2026-09-27T11:32:04.000Z",
       "modified": "2026-09-30T06:17:58.000Z",
       "shared": "2026-09-27T11:55:56.000Z",
-      "views": 118,
-      "loves": 20,
-      "favorites": 20,
+      "views": 136,
+      "loves": 23,
+      "favorites": 23,
       "remixes": 0
     },
     {
@@ -65,7 +95,7 @@
       "created": "2026-09-26T07:04:22.000Z",
       "modified": "2026-09-26T10:41:54.000Z",
       "shared": "2026-09-26T09:43:43.000Z",
-      "views": 36,
+      "views": 41,
       "loves": 4,
       "favorites": 4,
       "remixes": 0
@@ -80,9 +110,9 @@
       "created": "2026-09-24T09:38:16.000Z",
       "modified": "2026-09-25T11:34:16.000Z",
       "shared": "2026-09-24T10:27:01.000Z",
-      "views": 42,
-      "loves": 11,
-      "favorites": 10,
+      "views": 45,
+      "loves": 12,
+      "favorites": 11,
       "remixes": 0
     },
     {
@@ -95,9 +125,9 @@
       "created": "2026-09-21T05:36:36.000Z",
       "modified": "2026-09-21T22:58:36.000Z",
       "shared": "2026-09-21T05:36:38.000Z",
-      "views": 70,
-      "loves": 15,
-      "favorites": 14,
+      "views": 77,
+      "loves": 16,
+      "favorites": 15,
       "remixes": 0
     },
     {
@@ -155,7 +185,7 @@
       "created": "2026-09-17T07:05:43.000Z",
       "modified": "2026-09-30T22:14:36.000Z",
       "shared": "2026-09-17T07:07:40.000Z",
-      "views": 274,
+      "views": 279,
       "loves": 12,
       "favorites": 9,
       "remixes": 0
@@ -170,9 +200,9 @@
       "created": "2026-09-14T11:52:31.000Z",
       "modified": "2026-09-18T10:39:25.000Z",
       "shared": "2026-09-15T11:11:19.000Z",
-      "views": 225,
-      "loves": 43,
-      "favorites": 41,
+      "views": 234,
+      "loves": 44,
+      "favorites": 42,
       "remixes": 0
     },
     {
@@ -215,7 +245,7 @@
       "created": "2026-09-12T11:57:30.000Z",
       "modified": "2026-09-12T11:58:32.000Z",
       "shared": "2026-09-12T11:58:32.000Z",
-      "views": 88,
+      "views": 90,
       "loves": 20,
       "favorites": 13,
       "remixes": 0
@@ -275,7 +305,7 @@
       "created": "2026-09-08T10:55:50.000Z",
       "modified": "2026-09-08T11:00:06.000Z",
       "shared": "2026-09-08T11:00:05.000Z",
-      "views": 14,
+      "views": 17,
       "loves": 2,
       "favorites": 2,
       "remixes": 0
@@ -290,7 +320,7 @@
       "created": "2026-09-07T07:19:27.000Z",
       "modified": "2026-09-07T11:51:12.000Z",
       "shared": "2026-09-07T07:26:52.000Z",
-      "views": 9,
+      "views": 11,
       "loves": 1,
       "favorites": 1,
       "remixes": 0
@@ -320,7 +350,7 @@
       "created": "2026-09-06T06:35:49.000Z",
       "modified": "2026-09-06T22:08:09.000Z",
       "shared": "2026-09-06T07:06:12.000Z",
-      "views": 82,
+      "views": 83,
       "loves": 10,
       "favorites": 8,
       "remixes": 0
@@ -395,7 +425,7 @@
       "created": "2026-08-29T10:35:36.000Z",
       "modified": "2026-09-03T07:33:03.000Z",
       "shared": "2026-08-29T10:38:44.000Z",
-      "views": 11,
+      "views": 13,
       "loves": 1,
       "favorites": 0,
       "remixes": 0
@@ -410,7 +440,7 @@
       "created": "2026-08-28T07:55:13.000Z",
       "modified": "2026-08-28T08:43:32.000Z",
       "shared": "2026-08-28T07:55:37.000Z",
-      "views": 60,
+      "views": 62,
       "loves": 5,
       "favorites": 4,
       "remixes": 0
@@ -425,7 +455,7 @@
       "created": "2026-08-25T11:56:46.000Z",
       "modified": "2026-09-20T21:57:40.000Z",
       "shared": "2026-08-25T11:58:52.000Z",
-      "views": 395,
+      "views": 397,
       "loves": 28,
       "favorites": 25,
       "remixes": 0
@@ -470,7 +500,7 @@
       "created": "2026-08-17T11:58:46.000Z",
       "modified": "2026-09-06T07:52:17.000Z",
       "shared": "2026-08-20T22:40:06.000Z",
-      "views": 919,
+      "views": 921,
       "loves": 56,
       "favorites": 50,
       "remixes": 0
