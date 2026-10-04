@@ -1,15 +1,30 @@
 {
-  "generatedAt": "2026-10-03T23:46:20Z",
+  "generatedAt": "2026-10-04T23:56:54Z",
   "source": "api.scratch.mit.edu",
   "username": "weather_sunny",
   "totals": {
-    "count": 37,
-    "views": 2929,
-    "loves": 308,
-    "favorites": 271,
+    "count": 38,
+    "views": 3026,
+    "loves": 321,
+    "favorites": 284,
     "remixes": 0
   },
   "projects": [
+    {
+      "id": 1387843089,
+      "title": "INMU KING スクリプト演奏",
+      "description": "",
+      "instructions": "これを耳コピしてスクラッチに上げたら面白いんじゃね？と思った時の私の心境\n・まずいですよ！\n\nぜったいに、いんむちゅうなんかじゃないんだからね！",
+      "url": "https://scratch.mit.edu/projects/1387843089/",
+      "image": "https://cdn2.scratch.mit.edu/get_image/project/1387843089_282x218.png?v=1791081981",
+      "created": "2026-10-04T00:15:52.000Z",
+      "modified": "2026-10-04T02:46:21.000Z",
+      "shared": "2026-10-04T02:45:40.000Z",
+      "views": 9,
+      "loves": 2,
+      "favorites": 2,
+      "remixes": 0
+    },
     {
       "id": 1387828351,
       "title": "moji ai",
@@ -20,9 +35,9 @@
       "created": "2026-10-03T22:26:58.000Z",
       "modified": "2026-10-03T22:49:59.000Z",
       "shared": "2026-10-03T22:49:41.000Z",
-      "views": 3,
-      "loves": 2,
-      "favorites": 2,
+      "views": 13,
+      "loves": 4,
+      "favorites": 4,
       "remixes": 0
     },
     {
@@ -35,7 +50,7 @@
       "created": "2026-10-03T10:13:40.000Z",
       "modified": "2026-10-03T10:17:09.000Z",
       "shared": "2026-10-03T10:16:52.000Z",
-      "views": 9,
+      "views": 15,
       "loves": 4,
       "favorites": 4,
       "remixes": 0
@@ -50,7 +65,7 @@
       "created": "2026-10-03T09:05:50.000Z",
       "modified": "2026-10-03T09:09:09.000Z",
       "shared": "2026-10-03T09:06:59.000Z",
-      "views": 7,
+      "views": 11,
       "loves": 1,
       "favorites": 0,
       "remixes": 0
@@ -65,7 +80,7 @@
       "created": "2026-10-03T06:27:07.000Z",
       "modified": "2026-10-03T07:36:17.000Z",
       "shared": "2026-10-03T06:29:18.000Z",
-      "views": 4,
+      "views": 6,
       "loves": 1,
       "favorites": 1,
       "remixes": 0
@@ -80,9 +95,9 @@
       "created": "2026-10-01T22:48:35.000Z",
       "modified": "2026-10-02T03:54:45.000Z",
       "shared": "2026-10-01T23:11:38.000Z",
-      "views": 40,
-      "loves": 5,
-      "favorites": 5,
+      "views": 50,
+      "loves": 6,
+      "favorites": 6,
       "remixes": 0
     },
     {
@@ -110,7 +125,7 @@
       "created": "2026-09-30T22:26:23.000Z",
       "modified": "2026-10-01T08:57:42.000Z",
       "shared": "2026-09-30T22:27:15.000Z",
-      "views": 30,
+      "views": 31,
       "loves": 2,
       "favorites": 2,
       "remixes": 0
@@ -125,9 +140,9 @@
       "created": "2026-09-27T11:32:04.000Z",
       "modified": "2026-09-30T06:17:58.000Z",
       "shared": "2026-09-27T11:55:56.000Z",
-      "views": 213,
-      "loves": 41,
-      "favorites": 37,
+      "views": 247,
+      "loves": 49,
+      "favorites": 45,
       "remixes": 0
     },
     {
@@ -140,7 +155,7 @@
       "created": "2026-09-27T03:51:12.000Z",
       "modified": "2026-09-27T05:59:20.000Z",
       "shared": "2026-09-27T04:11:06.000Z",
-      "views": 37,
+      "views": 38,
       "loves": 4,
       "favorites": 2,
       "remixes": 0
@@ -155,7 +170,7 @@
       "created": "2026-09-26T07:04:22.000Z",
       "modified": "2026-09-26T10:41:54.000Z",
       "shared": "2026-09-26T09:43:43.000Z",
-      "views": 45,
+      "views": 49,
       "loves": 4,
       "favorites": 4,
       "remixes": 0
@@ -170,7 +185,7 @@
       "created": "2026-09-24T09:38:16.000Z",
       "modified": "2026-09-25T11:34:16.000Z",
       "shared": "2026-09-24T10:27:01.000Z",
-      "views": 57,
+      "views": 59,
       "loves": 16,
       "favorites": 15,
       "remixes": 0
@@ -185,7 +200,7 @@
       "created": "2026-09-21T05:36:36.000Z",
       "modified": "2026-09-21T22:58:36.000Z",
       "shared": "2026-09-21T05:36:38.000Z",
-      "views": 86,
+      "views": 89,
       "loves": 16,
       "favorites": 15,
       "remixes": 0
@@ -260,7 +275,7 @@
       "created": "2026-09-14T11:52:31.000Z",
       "modified": "2026-09-18T10:39:25.000Z",
       "shared": "2026-09-15T11:11:19.000Z",
-      "views": 245,
+      "views": 250,
       "loves": 44,
       "favorites": 42,
       "remixes": 0
@@ -470,7 +485,7 @@
       "created": "2026-08-30T10:44:31.000Z",
       "modified": "2026-09-02T10:00:21.000Z",
       "shared": "2026-08-30T10:44:33.000Z",
-      "views": 83,
+      "views": 86,
       "loves": 11,
       "favorites": 12,
       "remixes": 0
@@ -515,7 +530,7 @@
       "created": "2026-08-25T11:56:46.000Z",
       "modified": "2026-09-20T21:57:40.000Z",
       "shared": "2026-08-25T11:58:52.000Z",
-      "views": 397,
+      "views": 399,
       "loves": 28,
       "favorites": 25,
       "remixes": 0
@@ -530,7 +545,7 @@
       "created": "2026-08-23T11:02:59.000Z",
       "modified": "2026-08-23T11:19:52.000Z",
       "shared": "2026-08-23T11:18:52.000Z",
-      "views": 48,
+      "views": 49,
       "loves": 9,
       "favorites": 9,
       "remixes": 0
