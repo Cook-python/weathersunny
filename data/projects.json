@@ -1,28 +1,28 @@
 {
-  "generatedAt": "2026-10-08T00:59:51Z",
+  "generatedAt": "2026-10-09T01:13:08Z",
   "source": "api.scratch.mit.edu",
   "username": "weather_sunny",
   "totals": {
     "count": 38,
-    "views": 3252,
-    "loves": 363,
-    "favorites": 319,
+    "views": 3302,
+    "loves": 368,
+    "favorites": 323,
     "remixes": 0
   },
   "projects": [
     {
       "id": 1388639810,
-      "title": "あつまれねこの島",
+      "title": "Welcome to Cat Island あつまれねこの島",
       "description": "■メモ\n「あつまれ どうぶつの森」のルールを参考にした、ファンメイドの作品です。\n任天堂とは関係ありません。キャラクターの名前や絵は、すべてオリジナルかScratchのライブラリのものです。\n\n全部ペンとスタンプで描いています。\n3D表示は、島のタイルを奥から順にペンでぬって、木やキャラをスタンプで重ねています。\n\n更新\n・天気、流れ星、離島ツアー、道具の強化、木を植える、収納、マップを追加\n・日本語／English／中文／한국어 に対応\n・島の共有（クラウド）に対応\n\n■クレジット\nキャラクター・虫・魚など\n　Scratchのライブラリ（Scratchキャット、Gobo、Pico、Nano、Giga、Bear、Owl、Monkey、Hedgehog、Penguin、Dog2、Frog、Duck、Chick、Fox、Butterfly、Beetle、Ladybug、Dragonfly、Gr…",
       "instructions": "■そうさ\n矢印キー / WASD … 移動\nZ（押したまま） … 走る\nスペース … 話す・調べる・道具を使う\nE … 道具を持ちかえる\nB … ポケット\nM … スマホ（マップ・マイル・レシピ・共有など）\nV または右上のボタン … 3D / 2D 切りかえ\nX … キャンセル\n\n■はじめかた\n最初に言語をえらんで、「はじめから」で名前と島の名前を入れます。\nまずは熊五郎に話しかけてみてください。\n\n■あそびかた\n・木をゆらすと枝が落ちてきます。広場の作業台でつりざおやあみを作れます\n・魚や虫はお店（8:00〜22:00）で売るとベルになります\n・ローンを返すと家が大きくなります。工事はたのんだ次の日に完成します\n・化石はスコップで掘って、博物館で鑑定してもらえます\n・日曜の朝はカブ売りが来ます。1週間で腐るので注意\n・マイルがたまると、熊五郎のところで旅行券などと交換できます\n・夜は地…",
       "url": "https://scratch.mit.edu/projects/1388639810/",
-      "image": "https://cdn2.scratch.mit.edu/get_image/project/1388639810_282x218.png?v=1791367283",
+      "image": "https://cdn2.scratch.mit.edu/get_image/project/1388639810_282x218.png?v=1791465410",
       "created": "2026-10-06T11:44:34.000Z",
-      "modified": "2026-10-07T10:01:23.000Z",
+      "modified": "2026-10-08T13:16:50.000Z",
       "shared": "2026-10-06T11:49:46.000Z",
-      "views": 14,
-      "loves": 6,
-      "favorites": 5,
+      "views": 21,
+      "loves": 9,
+      "favorites": 7,
       "remixes": 0
     },
     {
@@ -50,7 +50,7 @@
       "created": "2026-10-03T10:13:40.000Z",
       "modified": "2026-10-06T21:28:48.000Z",
       "shared": "2026-10-03T10:16:52.000Z",
-      "views": 15,
+      "views": 17,
       "loves": 4,
       "favorites": 4,
       "remixes": 0
@@ -80,7 +80,7 @@
       "created": "2026-10-03T06:27:07.000Z",
       "modified": "2026-10-03T07:36:17.000Z",
       "shared": "2026-10-03T06:29:18.000Z",
-      "views": 12,
+      "views": 13,
       "loves": 2,
       "favorites": 2,
       "remixes": 0
@@ -95,7 +95,7 @@
       "created": "2026-10-01T22:48:35.000Z",
       "modified": "2026-10-02T03:54:45.000Z",
       "shared": "2026-10-01T23:11:38.000Z",
-      "views": 73,
+      "views": 83,
       "loves": 8,
       "favorites": 8,
       "remixes": 0
@@ -140,9 +140,9 @@
       "created": "2026-09-27T11:32:04.000Z",
       "modified": "2026-09-30T06:17:58.000Z",
       "shared": "2026-09-27T11:55:56.000Z",
-      "views": 350,
-      "loves": 71,
-      "favorites": 63,
+      "views": 368,
+      "loves": 72,
+      "favorites": 64,
       "remixes": 0
     },
     {
@@ -170,7 +170,7 @@
       "created": "2026-09-26T07:04:22.000Z",
       "modified": "2026-09-26T10:41:54.000Z",
       "shared": "2026-09-26T09:43:43.000Z",
-      "views": 62,
+      "views": 63,
       "loves": 6,
       "favorites": 6,
       "remixes": 0
@@ -185,7 +185,7 @@
       "created": "2026-09-24T09:38:16.000Z",
       "modified": "2026-09-25T11:34:16.000Z",
       "shared": "2026-09-24T10:27:01.000Z",
-      "views": 64,
+      "views": 66,
       "loves": 17,
       "favorites": 16,
       "remixes": 0
@@ -275,9 +275,9 @@
       "created": "2026-09-14T11:52:31.000Z",
       "modified": "2026-09-18T10:39:25.000Z",
       "shared": "2026-09-15T11:11:19.000Z",
-      "views": 263,
-      "loves": 45,
-      "favorites": 43,
+      "views": 266,
+      "loves": 46,
+      "favorites": 44,
       "remixes": 0
     },
     {
@@ -530,7 +530,7 @@
       "created": "2026-08-25T11:56:46.000Z",
       "modified": "2026-09-20T21:57:40.000Z",
       "shared": "2026-08-25T11:58:52.000Z",
-      "views": 402,
+      "views": 403,
       "loves": 28,
       "favorites": 25,
       "remixes": 0
@@ -575,7 +575,7 @@
       "created": "2026-08-17T11:58:46.000Z",
       "modified": "2026-09-06T07:52:17.000Z",
       "shared": "2026-08-20T22:40:06.000Z",
-      "views": 921,
+      "views": 926,
       "loves": 56,
       "favorites": 50,
       "remixes": 0
