@@ -1,26 +1,41 @@
 {
-  "generatedAt": "2026-10-11T00:14:07Z",
+  "generatedAt": "2026-10-12T00:31:53Z",
   "source": "api.scratch.mit.edu",
   "username": "weather_sunny",
   "totals": {
-    "count": 35,
-    "views": 3475,
-    "loves": 401,
-    "favorites": 357,
+    "count": 36,
+    "views": 3722,
+    "loves": 435,
+    "favorites": 382,
     "remixes": 0
   },
   "projects": [
+    {
+      "id": 1390431094,
+      "title": "インクバトル",
+      "description": "なんかダサいなぁ\nスプラトゥーンを参考にしました",
+      "instructions": "【そうさ】\nWASD / 矢印キー：いどう\nマウス：ねらう　クリック：うつ\nスペース：イカになる（自分のインクの上で速く進めて、インクも回復）\nE：サブウェポン\nQ：スペシャル（ゲージがたまったら）\n1・2・3：味方のところへジャンプ　0：スタート地点へもどる\nP：ポーズ\n\nチャージャー・スピナー・ストリンガーは長押しでためて、はなすと撃てます。\n相手のインクの上は遅くなり、少しずつダメージを受けます。\n\n【モード】\n陣取りバトル：3分間で、床を多くぬったチームの勝ち\nランクマッチ：エリア・タワー・クリスタル・パールのルールで戦ってウデマエを上げる。カウントを先に0にすると勝ち。ルールは2時間ごとに変わります\n協力ミッション：魚をたおして金のタマゴをカゴへ運ぶ（Eで投げる）。やられた仲間はうって復活\nストーリー：3つのステージ\nフェス：チームをえらんで対戦。トリカラバトルもあります\nカード…",
+      "url": "https://scratch.mit.edu/projects/1390431094/",
+      "image": "https://cdn2.scratch.mit.edu/get_image/project/1390431094_282x218.png?v=1791719856",
+      "created": "2026-10-11T11:50:47.000Z",
+      "modified": "2026-10-11T11:57:36.000Z",
+      "shared": "2026-10-11T11:57:36.000Z",
+      "views": 10,
+      "loves": 4,
+      "favorites": 3,
+      "remixes": 0
+    },
     {
       "id": 1390313347,
       "title": "new icon",
       "description": "",
       "instructions": "クリックしてみて",
       "url": "https://scratch.mit.edu/projects/1390313347/",
-      "image": "https://cdn2.scratch.mit.edu/get_image/project/1390313347_282x218.png?v=1791668521",
+      "image": "https://cdn2.scratch.mit.edu/get_image/project/1390313347_282x218.png?v=1791692270",
       "created": "2026-10-10T21:40:31.000Z",
-      "modified": "2026-10-10T21:42:01.000Z",
+      "modified": "2026-10-11T04:17:50.000Z",
       "shared": "2026-10-10T21:41:50.000Z",
-      "views": 5,
+      "views": 11,
       "loves": 1,
       "favorites": 0,
       "remixes": 0
@@ -35,9 +50,9 @@
       "created": "2026-10-10T10:40:04.000Z",
       "modified": "2026-10-10T10:46:12.000Z",
       "shared": "2026-10-10T10:44:06.000Z",
-      "views": 15,
-      "loves": 8,
-      "favorites": 7,
+      "views": 44,
+      "loves": 13,
+      "favorites": 12,
       "remixes": 0
     },
     {
@@ -50,24 +65,24 @@
       "created": "2026-10-10T02:50:54.000Z",
       "modified": "2026-10-10T03:29:40.000Z",
       "shared": "2026-10-10T03:29:40.000Z",
-      "views": 21,
-      "loves": 3,
-      "favorites": 3,
+      "views": 42,
+      "loves": 6,
+      "favorites": 6,
       "remixes": 0
     },
     {
       "id": 1388639810,
-      "title": "Welcome to Cat Island あつまれねこの島",
+      "title": "あつまれねこの島",
       "description": "■メモ\n「あつまれ どうぶつの森」のルールを参考にした、ファンメイドの作品です。\n任天堂とは関係ありません。キャラクターの名前や絵は、すべてオリジナルかScratchのライブラリのものです。\n\n全部ペンとスタンプで描いています。\n3D表示は、島のタイルを奥から順にペンでぬって、木やキャラをスタンプで重ねています。\n\n更新\n・天気、流れ星、離島ツアー、道具の強化、木を植える、収納、マップを追加\n・日本語／English／中文／한국어 に対応\n・島の共有（クラウド）に対応\n\n■クレジット\nキャラクター・虫・魚など\n　Scratchのライブラリ（Scratchキャット、Gobo、Pico、Nano、Giga、Bear、Owl、Monkey、Hedgehog、Penguin、Dog2、Frog、Duck、Chick、Fox、Butterfly、Beetle、Ladybug、Dragonfly、Gr…",
       "instructions": "あつ森のルールを参考にした、島暮らしのゲームです。\n釣り・虫とり・化石ほり・家のローン返済・日曜のカブまで入っています。\n絵は全部ペンとスタンプで描いていて、Vキーで3Dと2Dを切りかえられます。\n日本語 / English / 中文 / 한국어\n\n■そうさ\n矢印キー / WASD … 移動\nZ（押したまま） … 走る\nスペース … 話す・調べる・道具を使う\nE … 道具を持ちかえる\nB … ポケット\nM … スマホ（マップ・マイル・レシピ・共有など）\nV または右上のボタン … 3D / 2D 切りかえ\nX … キャンセル\n\n■はじめかた\n最初に言語をえらんで、「はじめから」で名前と島の名前を入れます。\nまずは熊五郎に話しかけてみてください。\n\n■あそびかた\n・木をゆらすと枝が落ちてきます。広場の作業台でつりざおやあみを作れます\n・魚や虫はお店（8:00〜22:00）で売るとベルになりま…",
       "url": "https://scratch.mit.edu/projects/1388639810/",
-      "image": "https://cdn2.scratch.mit.edu/get_image/project/1388639810_282x218.png?v=1791616511",
+      "image": "https://cdn2.scratch.mit.edu/get_image/project/1388639810_282x218.png?v=1791716493",
       "created": "2026-10-06T11:44:34.000Z",
-      "modified": "2026-10-10T07:15:11.000Z",
+      "modified": "2026-10-11T11:01:33.000Z",
       "shared": "2026-10-06T11:49:46.000Z",
-      "views": 45,
-      "loves": 16,
-      "favorites": 15,
+      "views": 64,
+      "loves": 19,
+      "favorites": 17,
       "remixes": 0
     },
     {
@@ -80,9 +95,9 @@
       "created": "2026-10-03T22:26:58.000Z",
       "modified": "2026-10-03T22:49:59.000Z",
       "shared": "2026-10-03T22:49:41.000Z",
-      "views": 30,
-      "loves": 9,
-      "favorites": 8,
+      "views": 41,
+      "loves": 11,
+      "favorites": 10,
       "remixes": 0
     },
     {
@@ -95,9 +110,9 @@
       "created": "2026-10-03T10:13:40.000Z",
       "modified": "2026-10-10T05:25:32.000Z",
       "shared": "2026-10-03T10:16:52.000Z",
-      "views": 19,
-      "loves": 6,
-      "favorites": 6,
+      "views": 24,
+      "loves": 7,
+      "favorites": 7,
       "remixes": 0
     },
     {
@@ -110,8 +125,8 @@
       "created": "2026-10-03T09:05:50.000Z",
       "modified": "2026-10-10T05:25:06.000Z",
       "shared": "2026-10-03T09:06:59.000Z",
-      "views": 14,
-      "loves": 2,
+      "views": 17,
+      "loves": 3,
       "favorites": 1,
       "remixes": 0
     },
@@ -125,8 +140,8 @@
       "created": "2026-10-03T06:27:07.000Z",
       "modified": "2026-10-03T07:36:17.000Z",
       "shared": "2026-10-03T06:29:18.000Z",
-      "views": 17,
-      "loves": 2,
+      "views": 23,
+      "loves": 3,
       "favorites": 2,
       "remixes": 0
     },
@@ -140,9 +155,9 @@
       "created": "2026-10-01T22:48:35.000Z",
       "modified": "2026-10-02T03:54:45.000Z",
       "shared": "2026-10-01T23:11:38.000Z",
-      "views": 96,
-      "loves": 8,
-      "favorites": 8,
+      "views": 115,
+      "loves": 11,
+      "favorites": 10,
       "remixes": 0
     },
     {
@@ -155,7 +170,7 @@
       "created": "2026-09-30T22:26:23.000Z",
       "modified": "2026-10-10T05:25:30.000Z",
       "shared": "2026-09-30T22:27:15.000Z",
-      "views": 37,
+      "views": 41,
       "loves": 3,
       "favorites": 3,
       "remixes": 0
@@ -163,16 +178,16 @@
     {
       "id": 1385461739,
       "title": "Minecraft 3D",
-      "description": "ペンだけで3Dを描いています。四角形を台形ごとに線で塗りつぶし、奥のものから順に重ねる方式です。\n\n■ 中身のメモ\n・ワールドは64×64×32。地形は値ノイズ、洞窟は2種類のノイズを重ねた蛇行トンネル、鉱石は深さごとに分布を変えています。\n・ワールドを16個のチャンクに分けて管理し、掘ったり置いたりしたチャンクだけを1フレームに1つずつ作り直します。\n・上下の面はグリーディーメッシュで結合。側面は結合していません。結合すると奥行きの順番が壊れて、手前の面が奥の面に塗りつぶされてしまうためです。代わりに層ごとの分割とマンハッタン距離の並べ替えで正しい順番を保証しています。\n・テクスチャは16×16のドット絵を自作し、同じ色の連続に圧縮してリストに入れてあります。近くの面だけ、1行ずつペンの太さを変えた線で描いています。遠くは単色と市松模様です。\n・明るさは空の光と松明の光を別々に持たせて、…",
+      "description": "Minecraft は Mojang Studios の作品です。これは非公式のファン作品で、Mojang とは関係ありません。\nテクスチャ・モデル・地形生成・UIは全部自分で作りました。本家の画像データは使っていません。",
       "instructions": "100%ペンで描いた3Dのマインクラフト風ゲームです。コスチュームは1枚も使っていません。\n\n■ はじめかた\n旗を押すと言語選択（日本語 / English / 中文 / 한국어）が出ます。\nシングルプレイ → ワールド新規作成 → 「ワールド新規作成」で生成開始。\n「ゲーム」タブでモード（サバイバル・ハードコア・クリエイティブ・アドベンチャー・スペクテイター）と難易度、「ワールド」タブでワールドタイプ（デフォルト / スーパーフラット）とシード値を選べます。\nシード値の欄をクリックすると入力ボックスが出ます。空欄ならランダム、数字ならその数、文字を入れると文字から計算した値になります。\n\n■ 操作\nW A S D ： 移動\n矢印キー ： 視点\nスペース ： ジャンプ（クリエイティブは2回押しで飛行の切り替え）\nQ ： 飛行中に下降\nクリック長押し ： ブロックを壊す / モブを攻撃\nE…",
       "url": "https://scratch.mit.edu/projects/1385461739/",
-      "image": "https://cdn2.scratch.mit.edu/get_image/project/1385461739_282x218.png?v=1790749078",
+      "image": "https://cdn2.scratch.mit.edu/get_image/project/1385461739_282x218.png?v=1791717445",
       "created": "2026-09-27T11:32:04.000Z",
-      "modified": "2026-09-30T06:17:58.000Z",
+      "modified": "2026-10-11T11:17:25.000Z",
       "shared": "2026-09-27T11:55:56.000Z",
-      "views": 419,
-      "loves": 78,
-      "favorites": 70,
+      "views": 442,
+      "loves": 80,
+      "favorites": 72,
       "remixes": 0
     },
     {
@@ -200,7 +215,7 @@
       "created": "2026-09-26T07:04:22.000Z",
       "modified": "2026-09-26T10:41:54.000Z",
       "shared": "2026-09-26T09:43:43.000Z",
-      "views": 64,
+      "views": 66,
       "loves": 6,
       "favorites": 6,
       "remixes": 0
@@ -215,9 +230,9 @@
       "created": "2026-09-24T09:38:16.000Z",
       "modified": "2026-09-25T11:34:16.000Z",
       "shared": "2026-09-24T10:27:01.000Z",
-      "views": 82,
-      "loves": 18,
-      "favorites": 17,
+      "views": 98,
+      "loves": 21,
+      "favorites": 18,
       "remixes": 0
     },
     {
@@ -230,7 +245,7 @@
       "created": "2026-09-21T05:36:36.000Z",
       "modified": "2026-09-21T22:58:36.000Z",
       "shared": "2026-09-21T05:36:38.000Z",
-      "views": 107,
+      "views": 110,
       "loves": 20,
       "favorites": 19,
       "remixes": 0
@@ -290,9 +305,9 @@
       "created": "2026-09-17T07:05:43.000Z",
       "modified": "2026-09-30T22:14:36.000Z",
       "shared": "2026-09-17T07:07:40.000Z",
-      "views": 281,
-      "loves": 12,
-      "favorites": 9,
+      "views": 292,
+      "loves": 13,
+      "favorites": 10,
       "remixes": 0
     },
     {
@@ -305,9 +320,9 @@
       "created": "2026-09-14T11:52:31.000Z",
       "modified": "2026-09-18T10:39:25.000Z",
       "shared": "2026-09-15T11:11:19.000Z",
-      "views": 280,
-      "loves": 48,
-      "favorites": 46,
+      "views": 318,
+      "loves": 52,
+      "favorites": 49,
       "remixes": 0
     },
     {
@@ -350,7 +365,7 @@
       "created": "2026-09-09T10:01:59.000Z",
       "modified": "2026-09-10T21:16:31.000Z",
       "shared": "2026-09-09T10:04:16.000Z",
-      "views": 26,
+      "views": 28,
       "loves": 3,
       "favorites": 3,
       "remixes": 0
@@ -410,7 +425,7 @@
       "created": "2026-09-06T06:35:49.000Z",
       "modified": "2026-09-06T22:08:09.000Z",
       "shared": "2026-09-06T07:06:12.000Z",
-      "views": 87,
+      "views": 88,
       "loves": 11,
       "favorites": 9,
       "remixes": 0
@@ -425,7 +440,7 @@
       "created": "2026-09-02T12:20:51.000Z",
       "modified": "2026-09-02T12:20:53.000Z",
       "shared": "2026-09-02T12:20:53.000Z",
-      "views": 16,
+      "views": 17,
       "loves": 1,
       "favorites": 1,
       "remixes": 0
@@ -455,7 +470,7 @@
       "created": "2026-08-30T10:44:31.000Z",
       "modified": "2026-10-10T05:25:26.000Z",
       "shared": "2026-08-30T10:44:33.000Z",
-      "views": 92,
+      "views": 93,
       "loves": 12,
       "favorites": 13,
       "remixes": 0
@@ -470,7 +485,7 @@
       "created": "2026-08-28T07:55:13.000Z",
       "modified": "2026-10-10T05:25:28.000Z",
       "shared": "2026-08-28T07:55:37.000Z",
-      "views": 75,
+      "views": 77,
       "loves": 6,
       "favorites": 5,
       "remixes": 0
@@ -485,7 +500,7 @@
       "created": "2026-08-25T11:56:46.000Z",
       "modified": "2026-10-10T05:25:22.000Z",
       "shared": "2026-08-25T11:58:52.000Z",
-      "views": 411,
+      "views": 416,
       "loves": 28,
       "favorites": 25,
       "remixes": 0
@@ -500,7 +515,7 @@
       "created": "2026-08-23T11:02:59.000Z",
       "modified": "2026-08-23T11:19:52.000Z",
       "shared": "2026-08-23T11:18:52.000Z",
-      "views": 51,
+      "views": 52,
       "loves": 9,
       "favorites": 9,
       "remixes": 0
@@ -530,8 +545,8 @@
       "created": "2026-08-17T11:58:46.000Z",
       "modified": "2026-10-10T05:25:34.000Z",
       "shared": "2026-08-20T22:40:06.000Z",
-      "views": 929,
-      "loves": 56,
+      "views": 937,
+      "loves": 57,
       "favorites": 50,
       "remixes": 0
     }
