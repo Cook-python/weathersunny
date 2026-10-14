@@ -1,28 +1,58 @@
 {
-  "generatedAt": "2026-10-14T00:17:31Z",
+  "generatedAt": "2026-10-14T23:54:40Z",
   "source": "api.scratch.mit.edu",
   "username": "weather_sunny",
   "totals": {
-    "count": 41,
-    "views": 4394,
-    "loves": 510,
-    "favorites": 451,
+    "count": 43,
+    "views": 4714,
+    "loves": 533,
+    "favorites": 474,
     "remixes": 0
   },
   "projects": [
+    {
+      "id": 1391705652,
+      "title": "言の葉タイピング",
+      "description": "",
+      "instructions": "【使い方】\nお題の札をクリックすると、三・二・一のあとに始まります。\nひらがなの下に出るローマ字を打ってください。\nし=si/shi、ち=ti/chi、つ=tu/tsu、ん=n/nn、っ=次の子音を重ねる/xtu など、いろいろな打ち方に対応しています。\n打ち方を変えると、下のローマ字の見本も自動で変わります。\n\n※日本語入力（IME）はオフ（半角英数）にしてください。オンのままだとキーが届きません。\n※右上の「＜」でメニューに戻れます。\n\n【お題】\n徒然草（三段）／百人一首（五首・全百首から）／ことわざ（十題）／早口言葉（八題）／四季めぐり（五題・オリジナル）\n\n【結果】\nスコア＝打鍵/分 × 正確率² 。極・雅・秀・良・可 の五段階。ミスの多かったキーを「苦手」に表示します。\n\n【番付（ランキング）】\nお題ごとに上位10位まで。Scratch にログインして遊ぶと、ユーザー名とスコアが…",
+      "url": "https://scratch.mit.edu/projects/1391705652/",
+      "image": "https://cdn2.scratch.mit.edu/get_image/project/1391705652_282x218.png?v=1792013978",
+      "created": "2026-10-14T21:11:15.000Z",
+      "modified": "2026-10-14T21:39:38.000Z",
+      "shared": "2026-10-14T21:35:39.000Z",
+      "views": 1,
+      "loves": 0,
+      "favorites": 0,
+      "remixes": 0
+    },
+    {
+      "id": 1391392510,
+      "title": "なかよし島ぐらし",
+      "description": "文字のもとにしたフォント：M PLUS Rounded 1c（SIL Open Font License）\n声：音声合成拡張機能、音：音楽拡張機能\nトモダチコレクションは任天堂の作品です。この作品はファンによるオマージュで、公式とは関係ありません。",
+      "instructions": "ペンで描いた、住人たちの暮らしを見守る島ぐらしゲームです。トモダチコレクションのオマージュです。\nあなたは島の管理人。最初に島の大きさ（小・中・大）を選び、顔・髪型・服・性格・声を決めて住人を作ります（大きい島は12人まで）。\n\n▼遊び方\n・住人をクリック → 悩みを聞く／詳しく見る（相談は住人の部屋の中で、声つきでしゃべります）\n・住人をドラッグして他の住人に会わせる → 仲良くなるかも？\n・吹き出しの色で悩みがわかります（黄：ほしい物・模様替え・お宝・オブジェ、オレンジ：友達・ケンカ・紹介、ピンク：恋・誕生日、青：落ち込み、緑：ミニゲーム）\n・市場で食べ物・服・インテリア・道具を買ってプレゼント。朝市・夕市・夜市で安くなる物が変わります\n・食べ物屋に連れて行くと大好物がわかることも。写真館で1日1回、みんなの記念写真\n・噴水で1日1回募金を受け取り、気持ち玉をためて願いをかなえるとラン…",
+      "url": "https://scratch.mit.edu/projects/1391392510/",
+      "image": "https://cdn2.scratch.mit.edu/get_image/project/1391392510_282x218.png?v=1791960502",
+      "created": "2026-10-14T05:27:40.000Z",
+      "modified": "2026-10-14T06:48:22.000Z",
+      "shared": "2026-10-14T05:50:35.000Z",
+      "views": 19,
+      "loves": 5,
+      "favorites": 5,
+      "remixes": 0
+    },
     {
       "id": 1391059841,
       "title": "関数アートメーカー",
       "description": "頑張って書いたけど最初の使い方いらない気がしてきた",
       "instructions": "数式でグラフを描いて、絵を作れます。最初はスクラッチキャットが入っています（フォルダの ▶ を押すと中の式が見られます）。\n\n■ 式を書く\n・左の行をクリックして入力（キーボードは半角英数モードで）\n・下のキーボードでも入力できます。「関数」で sin や abs などのページに切りかわります\n・Enter で次の行、↑↓ でとなりの行へ\n・1文字消すのは下のキーボードの ⌫（TurboWarp ならキーボードの Backspace も使えます）\n・日本語・全角の文字やコピペで入れたいときは「あ」\n・行を消すときは、その行をクリックして右の ×\n\n■ 書ける式\ny=x^2　… ふつうのグラフ\nx=sin(y)　… 横向きのグラフ\nx^2+y^2=4　… x と y がまざった式\nx^2+y^2<4　… 不等式（中がぬられます）\ny=sin(x){0<x<3}　… { } で範囲をしぼる\n(…",
       "url": "https://scratch.mit.edu/projects/1391059841/",
-      "image": "https://cdn2.scratch.mit.edu/get_image/project/1391059841_282x218.png?v=1791894575",
+      "image": "https://cdn2.scratch.mit.edu/get_image/project/1391059841_282x218.png?v=1791955681",
       "created": "2026-10-13T10:35:30.000Z",
-      "modified": "2026-10-13T12:29:35.000Z",
+      "modified": "2026-10-14T05:28:01.000Z",
       "shared": "2026-10-13T11:45:31.000Z",
-      "views": 17,
-      "loves": 3,
-      "favorites": 3,
+      "views": 34,
+      "loves": 4,
+      "favorites": 4,
       "remixes": 0
     },
     {
@@ -31,13 +61,13 @@
       "description": "",
       "instructions": "クリック　　長押し",
       "url": "https://scratch.mit.edu/projects/1390712289/",
-      "image": "https://cdn2.scratch.mit.edu/get_image/project/1390712289_282x218.png?v=1791887862",
+      "image": "https://cdn2.scratch.mit.edu/get_image/project/1390712289_282x218.png?v=1791948465",
       "created": "2026-10-12T11:45:23.000Z",
-      "modified": "2026-10-13T10:37:42.000Z",
+      "modified": "2026-10-14T03:27:45.000Z",
       "shared": "2026-10-12T11:51:56.000Z",
-      "views": 44,
-      "loves": 9,
-      "favorites": 9,
+      "views": 54,
+      "loves": 14,
+      "favorites": 14,
       "remixes": 0
     },
     {
@@ -50,7 +80,7 @@
       "created": "2026-10-12T04:47:43.000Z",
       "modified": "2026-10-12T04:48:45.000Z",
       "shared": "2026-10-12T04:48:45.000Z",
-      "views": 23,
+      "views": 25,
       "loves": 4,
       "favorites": 4,
       "remixes": 0
@@ -61,11 +91,11 @@
       "description": "",
       "instructions": "【あそびかた】\n・マウス（スマホは指）で青いマレットを動かして、パックを相手のゴールに入れよう\n・キーボードなら ←↑↓→ か WASD でも動かせます\n・最初に EASY / NORMAL / HARD を選びます（スペースで前と同じ強さで開始）\n・先に7点取ったほうの勝ち\n\nTurboWarp なら 60fps でなめらかに動きます\nhttps://turbowarp.org/1390615378\n\n---- English ----\nMove the blue mallet with your mouse (or finger on mobile) and shoot the puck into the CPU's goal.\nArrow keys / WASD also work. Pick EASY, NORMAL or HARD. First to 7 wins.\nRuns a…",
       "url": "https://scratch.mit.edu/projects/1390615378/",
-      "image": "https://cdn2.scratch.mit.edu/get_image/project/1390615378_282x218.png?v=1791792976",
+      "image": "https://cdn2.scratch.mit.edu/get_image/project/1390615378_282x218.png?v=1791967371",
       "created": "2026-10-12T04:47:34.000Z",
-      "modified": "2026-10-12T08:16:16.000Z",
+      "modified": "2026-10-14T08:42:51.000Z",
       "shared": "2026-10-12T04:48:42.000Z",
-      "views": 18,
+      "views": 22,
       "loves": 3,
       "favorites": 2,
       "remixes": 0
@@ -80,7 +110,7 @@
       "created": "2026-10-12T00:31:28.000Z",
       "modified": "2026-10-12T02:25:30.000Z",
       "shared": "2026-10-12T02:25:30.000Z",
-      "views": 42,
+      "views": 50,
       "loves": 9,
       "favorites": 9,
       "remixes": 0
@@ -95,7 +125,7 @@
       "created": "2026-10-11T11:50:47.000Z",
       "modified": "2026-10-12T08:16:11.000Z",
       "shared": "2026-10-11T11:57:36.000Z",
-      "views": 24,
+      "views": 31,
       "loves": 6,
       "favorites": 5,
       "remixes": 0
@@ -110,7 +140,7 @@
       "created": "2026-10-10T21:40:31.000Z",
       "modified": "2026-10-11T04:17:50.000Z",
       "shared": "2026-10-10T21:41:50.000Z",
-      "views": 19,
+      "views": 21,
       "loves": 1,
       "favorites": 0,
       "remixes": 0
@@ -119,15 +149,15 @@
       "id": 1390197324,
       "title": "文字ブレード",
       "description": "ブラウザゲームの「文字ブレード」（tsukuruumさん）をScratchにしたものです。本家とは別物なので、オンライン対戦とランキングはありません。\n\n100%ペンで、コスチュームもスプライトの絵も使ってないです。\n文字の形は Noto Sans CJK JP と Noto Serif CJK JP（SIL Open Font License）から取り出して、24×24のデータにしてリストに入れてます。3503文字。\n当たり判定は文字の輪郭を36方向の半径にしたものなんで、「一」はよく飛ぶし「鉄」は飛ばないです。\nバチクソ疲れた",
-      "instructions": "旗を押して、左の箱をクリックすると文字を聞かれるので一文字入れてください。かなでも英数字でも常用漢字でも㍿とか①みたいな記号でも大丈夫です。入ってない文字だとランダムになります。\n書体はゴシックと明朝体、右がCOMの文字で、強さは弱・普・強。\n\nモードは3つ。\nVS COM　COMと1戦\nVS 2P　1台で2人。1Pが発射したら2Pが引っ張る番\n連勝チャレンジ　同じ文字でCOMに何連勝できるか。負けたら終わり\n\n発射は画面を引っ張って離すだけで、引っ張った分だけ強く飛びます。下の「左回転」を押すと右回転に変わります。\n\n文字の形でコマの性能が決まります。面積が多い字は重くて遅いけど飛ばされにくい、丸い字はバランスがよくて長く回る、尖った字は速く回ってるときに先が当たるとクリティカルで相手がぐらつく、って感じです。\n回転の向きも大事で、同じ向き同士だとぶつかるたびに回転を削り合います。逆向き…",
+      "instructions": "旗を押して、左の箱をクリックすると文字を聞かれるので一文字入れてください。かなでも英数字でも常用漢字でも㍿とか①みたいな記号でも大丈夫です。入ってない文字だとランダムになります。\n書体はゴシックと明朝体、右がCOMの文字で、強さは弱・普・強。\n\nモードは3つ。\nVS COM　COMと1戦\nVS 2P　1台で2人。1Pが発射したら2Pが引っ張る番\n連勝チャレンジ　同じ文字でCOMに何連勝できるか。負けたら終わり\n\n発射は画面を引っ張って離すだけで、引っ張った分だけ強く飛びます。キーボードは ←→ で向き、↑↓ で強さ、スペースかEnterで発射です。下の「左回転」を押すと右回転に変わります。\n\n文字の形でコマの性能が決まります。面積が多い字は重くて遅いけど飛ばされにくい、丸い字はバランスがよくて長く回る、尖った字は速く回ってるときに先が当たるとクリティカルで相手がぐらつく、って感じです。\n回…",
       "url": "https://scratch.mit.edu/projects/1390197324/",
-      "image": "https://cdn2.scratch.mit.edu/get_image/project/1390197324_282x218.png?v=1791886126",
+      "image": "https://cdn2.scratch.mit.edu/get_image/project/1390197324_282x218.png?v=1791970299",
       "created": "2026-10-10T10:40:04.000Z",
-      "modified": "2026-10-13T10:08:46.000Z",
+      "modified": "2026-10-14T09:31:39.000Z",
       "shared": "2026-10-10T10:44:06.000Z",
-      "views": 225,
-      "loves": 34,
-      "favorites": 31,
+      "views": 321,
+      "loves": 40,
+      "favorites": 37,
       "remixes": 0
     },
     {
@@ -140,7 +170,7 @@
       "created": "2026-10-10T02:50:54.000Z",
       "modified": "2026-10-10T03:29:40.000Z",
       "shared": "2026-10-10T03:29:40.000Z",
-      "views": 51,
+      "views": 54,
       "loves": 7,
       "favorites": 7,
       "remixes": 0
@@ -155,7 +185,7 @@
       "created": "2026-10-06T11:44:34.000Z",
       "modified": "2026-10-13T10:33:04.000Z",
       "shared": "2026-10-06T11:49:46.000Z",
-      "views": 104,
+      "views": 118,
       "loves": 20,
       "favorites": 18,
       "remixes": 0
@@ -170,7 +200,7 @@
       "created": "2026-10-03T22:26:58.000Z",
       "modified": "2026-10-03T22:49:59.000Z",
       "shared": "2026-10-03T22:49:41.000Z",
-      "views": 60,
+      "views": 66,
       "loves": 12,
       "favorites": 10,
       "remixes": 0
@@ -185,7 +215,7 @@
       "created": "2026-10-03T10:13:40.000Z",
       "modified": "2026-10-10T05:25:32.000Z",
       "shared": "2026-10-03T10:16:52.000Z",
-      "views": 30,
+      "views": 32,
       "loves": 7,
       "favorites": 7,
       "remixes": 0
@@ -200,7 +230,7 @@
       "created": "2026-10-03T09:05:50.000Z",
       "modified": "2026-10-10T05:25:06.000Z",
       "shared": "2026-10-03T09:06:59.000Z",
-      "views": 23,
+      "views": 25,
       "loves": 3,
       "favorites": 1,
       "remixes": 0
@@ -215,9 +245,9 @@
       "created": "2026-10-03T06:27:07.000Z",
       "modified": "2026-10-03T07:36:17.000Z",
       "shared": "2026-10-03T06:29:18.000Z",
-      "views": 44,
-      "loves": 5,
-      "favorites": 4,
+      "views": 57,
+      "loves": 6,
+      "favorites": 5,
       "remixes": 0
     },
     {
@@ -230,7 +260,7 @@
       "created": "2026-10-01T22:48:35.000Z",
       "modified": "2026-10-02T03:54:45.000Z",
       "shared": "2026-10-01T23:11:38.000Z",
-      "views": 154,
+      "views": 171,
       "loves": 12,
       "favorites": 11,
       "remixes": 0
@@ -245,7 +275,7 @@
       "created": "2026-09-30T22:26:23.000Z",
       "modified": "2026-10-10T05:25:30.000Z",
       "shared": "2026-09-30T22:27:15.000Z",
-      "views": 48,
+      "views": 50,
       "loves": 3,
       "favorites": 3,
       "remixes": 0
@@ -260,9 +290,9 @@
       "created": "2026-09-27T11:32:04.000Z",
       "modified": "2026-10-13T11:17:55.000Z",
       "shared": "2026-09-27T11:55:56.000Z",
-      "views": 511,
-      "loves": 88,
-      "favorites": 80,
+      "views": 547,
+      "loves": 90,
+      "favorites": 82,
       "remixes": 0
     },
     {
@@ -275,7 +305,7 @@
       "created": "2026-09-27T03:51:12.000Z",
       "modified": "2026-10-10T05:25:38.000Z",
       "shared": "2026-09-27T04:11:06.000Z",
-      "views": 46,
+      "views": 47,
       "loves": 4,
       "favorites": 2,
       "remixes": 0
@@ -290,7 +320,7 @@
       "created": "2026-09-26T07:04:22.000Z",
       "modified": "2026-09-26T10:41:54.000Z",
       "shared": "2026-09-26T09:43:43.000Z",
-      "views": 71,
+      "views": 74,
       "loves": 7,
       "favorites": 7,
       "remixes": 0
@@ -305,7 +335,7 @@
       "created": "2026-09-24T09:38:16.000Z",
       "modified": "2026-09-25T11:34:16.000Z",
       "shared": "2026-09-24T10:27:01.000Z",
-      "views": 110,
+      "views": 112,
       "loves": 21,
       "favorites": 18,
       "remixes": 0
@@ -320,9 +350,9 @@
       "created": "2026-09-21T05:36:36.000Z",
       "modified": "2026-09-21T22:58:36.000Z",
       "shared": "2026-09-21T05:36:38.000Z",
-      "views": 115,
-      "loves": 20,
-      "favorites": 19,
+      "views": 117,
+      "loves": 21,
+      "favorites": 20,
       "remixes": 0
     },
     {
@@ -395,7 +425,7 @@
       "created": "2026-09-14T11:52:31.000Z",
       "modified": "2026-10-13T10:08:45.000Z",
       "shared": "2026-09-15T11:11:19.000Z",
-      "views": 364,
+      "views": 391,
       "loves": 54,
       "favorites": 51,
       "remixes": 0
@@ -410,7 +440,7 @@
       "created": "2026-09-12T11:57:30.000Z",
       "modified": "2026-10-13T10:08:45.000Z",
       "shared": "2026-09-12T11:58:32.000Z",
-      "views": 102,
+      "views": 106,
       "loves": 20,
       "favorites": 13,
       "remixes": 0
@@ -425,7 +455,7 @@
       "created": "2026-09-10T21:56:19.000Z",
       "modified": "2026-10-10T05:25:11.000Z",
       "shared": "2026-09-10T21:58:15.000Z",
-      "views": 11,
+      "views": 12,
       "loves": 1,
       "favorites": 0,
       "remixes": 0
@@ -455,7 +485,7 @@
       "created": "2026-09-08T10:55:50.000Z",
       "modified": "2026-10-10T05:25:09.000Z",
       "shared": "2026-09-08T11:00:05.000Z",
-      "views": 22,
+      "views": 23,
       "loves": 2,
       "favorites": 2,
       "remixes": 0
@@ -470,7 +500,7 @@
       "created": "2026-09-07T07:19:27.000Z",
       "modified": "2026-09-07T11:51:12.000Z",
       "shared": "2026-09-07T07:26:52.000Z",
-      "views": 12,
+      "views": 13,
       "loves": 1,
       "favorites": 1,
       "remixes": 0
@@ -485,7 +515,7 @@
       "created": "2026-09-06T07:09:54.000Z",
       "modified": "2026-09-06T23:47:09.000Z",
       "shared": "2026-09-06T11:29:17.000Z",
-      "views": 19,
+      "views": 20,
       "loves": 2,
       "favorites": 1,
       "remixes": 0
@@ -500,7 +530,7 @@
       "created": "2026-09-06T06:35:49.000Z",
       "modified": "2026-09-06T22:08:09.000Z",
       "shared": "2026-09-06T07:06:12.000Z",
-      "views": 89,
+      "views": 90,
       "loves": 11,
       "favorites": 9,
       "remixes": 0
@@ -515,9 +545,9 @@
       "created": "2026-09-02T12:20:51.000Z",
       "modified": "2026-09-02T12:20:53.000Z",
       "shared": "2026-09-02T12:20:53.000Z",
-      "views": 18,
-      "loves": 2,
-      "favorites": 2,
+      "views": 20,
+      "loves": 4,
+      "favorites": 4,
       "remixes": 0
     },
     {
@@ -530,7 +560,7 @@
       "created": "2026-08-31T06:50:18.000Z",
       "modified": "2026-10-10T05:25:24.000Z",
       "shared": "2026-08-31T06:52:04.000Z",
-      "views": 24,
+      "views": 25,
       "loves": 1,
       "favorites": 1,
       "remixes": 0
@@ -545,7 +575,7 @@
       "created": "2026-08-30T10:44:31.000Z",
       "modified": "2026-10-10T05:25:26.000Z",
       "shared": "2026-08-30T10:44:33.000Z",
-      "views": 96,
+      "views": 99,
       "loves": 14,
       "favorites": 15,
       "remixes": 0
@@ -560,7 +590,7 @@
       "created": "2026-08-28T07:55:13.000Z",
       "modified": "2026-10-10T05:25:28.000Z",
       "shared": "2026-08-28T07:55:37.000Z",
-      "views": 82,
+      "views": 83,
       "loves": 7,
       "favorites": 6,
       "remixes": 0
@@ -575,7 +605,7 @@
       "created": "2026-08-25T11:56:46.000Z",
       "modified": "2026-10-10T05:25:22.000Z",
       "shared": "2026-08-25T11:58:52.000Z",
-      "views": 424,
+      "views": 426,
       "loves": 29,
       "favorites": 26,
       "remixes": 0
@@ -590,7 +620,7 @@
       "created": "2026-08-23T11:02:59.000Z",
       "modified": "2026-08-23T11:19:52.000Z",
       "shared": "2026-08-23T11:18:52.000Z",
-      "views": 52,
+      "views": 55,
       "loves": 9,
       "favorites": 9,
       "remixes": 0
@@ -620,7 +650,7 @@
       "created": "2026-08-17T11:58:46.000Z",
       "modified": "2026-10-10T05:25:34.000Z",
       "shared": "2026-08-20T22:40:06.000Z",
-      "views": 950,
+      "views": 953,
       "loves": 59,
       "favorites": 51,
       "remixes": 0
