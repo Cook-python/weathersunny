@@ -1,12 +1,12 @@
 {
-  "generatedAt": "2026-10-16T23:34:51Z",
+  "generatedAt": "2026-10-18T23:11:20Z",
   "source": "api.scratch.mit.edu",
   "username": "weather_sunny",
   "totals": {
-    "count": 43,
-    "views": 5279,
-    "loves": 559,
-    "favorites": 498,
+    "count": 37,
+    "views": 5337,
+    "loves": 563,
+    "favorites": 503,
     "remixes": 0
   },
   "projects": [
@@ -20,9 +20,9 @@
       "created": "2026-10-14T21:11:15.000Z",
       "modified": "2026-10-16T08:13:09.000Z",
       "shared": "2026-10-14T21:35:39.000Z",
-      "views": 16,
-      "loves": 0,
-      "favorites": 0,
+      "views": 18,
+      "loves": 1,
+      "favorites": 1,
       "remixes": 0
     },
     {
@@ -35,9 +35,9 @@
       "created": "2026-10-14T05:27:40.000Z",
       "modified": "2026-10-14T22:42:19.000Z",
       "shared": "2026-10-14T05:50:35.000Z",
-      "views": 32,
-      "loves": 5,
-      "favorites": 5,
+      "views": 34,
+      "loves": 6,
+      "favorites": 6,
       "remixes": 0
     },
     {
@@ -50,7 +50,7 @@
       "created": "2026-10-13T10:35:30.000Z",
       "modified": "2026-10-15T10:59:58.000Z",
       "shared": "2026-10-13T11:45:31.000Z",
-      "views": 48,
+      "views": 52,
       "loves": 4,
       "favorites": 4,
       "remixes": 0
@@ -65,9 +65,9 @@
       "created": "2026-10-12T11:45:23.000Z",
       "modified": "2026-10-15T10:57:34.000Z",
       "shared": "2026-10-12T11:51:56.000Z",
-      "views": 97,
-      "loves": 21,
-      "favorites": 19,
+      "views": 116,
+      "loves": 22,
+      "favorites": 20,
       "remixes": 0
     },
     {
@@ -80,9 +80,9 @@
       "created": "2026-10-12T04:47:43.000Z",
       "modified": "2026-10-12T04:48:45.000Z",
       "shared": "2026-10-12T04:48:45.000Z",
-      "views": 39,
-      "loves": 4,
-      "favorites": 4,
+      "views": 41,
+      "loves": 5,
+      "favorites": 5,
       "remixes": 0
     },
     {
@@ -95,7 +95,7 @@
       "created": "2026-10-12T04:47:34.000Z",
       "modified": "2026-10-14T08:42:51.000Z",
       "shared": "2026-10-12T04:48:42.000Z",
-      "views": 26,
+      "views": 28,
       "loves": 4,
       "favorites": 3,
       "remixes": 0
@@ -110,9 +110,9 @@
       "created": "2026-10-12T00:31:28.000Z",
       "modified": "2026-10-12T02:25:30.000Z",
       "shared": "2026-10-12T02:25:30.000Z",
-      "views": 80,
-      "loves": 12,
-      "favorites": 12,
+      "views": 94,
+      "loves": 13,
+      "favorites": 13,
       "remixes": 0
     },
     {
@@ -125,24 +125,9 @@
       "created": "2026-10-11T11:50:47.000Z",
       "modified": "2026-10-12T08:16:11.000Z",
       "shared": "2026-10-11T11:57:36.000Z",
-      "views": 36,
+      "views": 37,
       "loves": 6,
       "favorites": 5,
-      "remixes": 0
-    },
-    {
-      "id": 1390313347,
-      "title": "new icon",
-      "description": "",
-      "instructions": "クリックしてみて",
-      "url": "https://scratch.mit.edu/projects/1390313347/",
-      "image": "https://cdn2.scratch.mit.edu/get_image/project/1390313347_282x218.png?v=1791692270",
-      "created": "2026-10-10T21:40:31.000Z",
-      "modified": "2026-10-11T04:17:50.000Z",
-      "shared": "2026-10-10T21:41:50.000Z",
-      "views": 21,
-      "loves": 1,
-      "favorites": 0,
       "remixes": 0
     },
     {
@@ -155,9 +140,9 @@
       "created": "2026-10-10T10:40:04.000Z",
       "modified": "2026-10-15T03:35:52.000Z",
       "shared": "2026-10-10T10:44:06.000Z",
-      "views": 482,
-      "loves": 44,
-      "favorites": 41,
+      "views": 519,
+      "loves": 46,
+      "favorites": 43,
       "remixes": 0
     },
     {
@@ -170,7 +155,7 @@
       "created": "2026-10-10T02:50:54.000Z",
       "modified": "2026-10-10T03:29:40.000Z",
       "shared": "2026-10-10T03:29:40.000Z",
-      "views": 64,
+      "views": 66,
       "loves": 8,
       "favorites": 8,
       "remixes": 0
@@ -185,7 +170,7 @@
       "created": "2026-10-06T11:44:34.000Z",
       "modified": "2026-10-16T10:00:54.000Z",
       "shared": "2026-10-06T11:49:46.000Z",
-      "views": 147,
+      "views": 163,
       "loves": 25,
       "favorites": 23,
       "remixes": 0
@@ -200,9 +185,9 @@
       "created": "2026-10-03T22:26:58.000Z",
       "modified": "2026-10-03T22:49:59.000Z",
       "shared": "2026-10-03T22:49:41.000Z",
-      "views": 74,
-      "loves": 12,
-      "favorites": 10,
+      "views": 77,
+      "loves": 13,
+      "favorites": 11,
       "remixes": 0
     },
     {
@@ -215,7 +200,7 @@
       "created": "2026-10-03T10:13:40.000Z",
       "modified": "2026-10-10T05:25:32.000Z",
       "shared": "2026-10-03T10:16:52.000Z",
-      "views": 39,
+      "views": 40,
       "loves": 7,
       "favorites": 7,
       "remixes": 0
@@ -230,7 +215,7 @@
       "created": "2026-10-03T09:05:50.000Z",
       "modified": "2026-10-10T05:25:06.000Z",
       "shared": "2026-10-03T09:06:59.000Z",
-      "views": 27,
+      "views": 29,
       "loves": 3,
       "favorites": 1,
       "remixes": 0
@@ -245,7 +230,7 @@
       "created": "2026-10-03T06:27:07.000Z",
       "modified": "2026-10-03T07:36:17.000Z",
       "shared": "2026-10-03T06:29:18.000Z",
-      "views": 71,
+      "views": 75,
       "loves": 6,
       "favorites": 5,
       "remixes": 0
@@ -260,7 +245,7 @@
       "created": "2026-10-01T22:48:35.000Z",
       "modified": "2026-10-02T03:54:45.000Z",
       "shared": "2026-10-01T23:11:38.000Z",
-      "views": 199,
+      "views": 207,
       "loves": 12,
       "favorites": 11,
       "remixes": 0
@@ -286,13 +271,13 @@
       "description": "Minecraft は Mojang Studios の作品です。これは非公式のファン作品で、Mojang とは関係ありません。\nテクスチャ・モデル・地形生成・UIは全部自分で作りました。本家の画像データは使っていません。",
       "instructions": "100%ペンで描いた3Dのマインクラフト風ゲームです。コスチュームは1枚も使っていません。\n\n■ はじめかた\n旗を押すと言語選択（日本語 / English / 中文 / 한국어）が出ます。\nシングルプレイ → ワールド新規作成 → 「ワールド新規作成」で生成開始。\n「ゲーム」タブでモード（サバイバル・ハードコア・クリエイティブ・アドベンチャー・スペクテイター）と難易度、「ワールド」タブでワールドタイプ（デフォルト / スーパーフラット）とシード値を選べます。\nシード値の欄をクリックすると入力ボックスが出ます。空欄ならランダム、数字ならその数、文字を入れると文字から計算した値になります。\n\n■ 操作\nW A S D ： 移動\n矢印キー ： 視点\nスペース ： ジャンプ（クリエイティブは2回押しで飛行の切り替え）\nQ ： 飛行中に下降\nクリック長押し ： ブロックを壊す / モブを攻撃\nE…",
       "url": "https://scratch.mit.edu/projects/1385461739/",
-      "image": "https://cdn2.scratch.mit.edu/get_image/project/1385461739_282x218.png?v=1792017762",
+      "image": "https://cdn2.scratch.mit.edu/get_image/project/1385461739_282x218.png?v=1792227214",
       "created": "2026-09-27T11:32:04.000Z",
-      "modified": "2026-10-14T22:42:42.000Z",
+      "modified": "2026-10-17T08:53:34.000Z",
       "shared": "2026-09-27T11:55:56.000Z",
-      "views": 615,
-      "loves": 93,
-      "favorites": 85,
+      "views": 649,
+      "loves": 99,
+      "favorites": 90,
       "remixes": 0
     },
     {
@@ -305,7 +290,7 @@
       "created": "2026-09-27T03:51:12.000Z",
       "modified": "2026-10-10T05:25:38.000Z",
       "shared": "2026-09-27T04:11:06.000Z",
-      "views": 48,
+      "views": 50,
       "loves": 4,
       "favorites": 2,
       "remixes": 0
@@ -320,7 +305,7 @@
       "created": "2026-09-26T07:04:22.000Z",
       "modified": "2026-09-26T10:41:54.000Z",
       "shared": "2026-09-26T09:43:43.000Z",
-      "views": 81,
+      "views": 83,
       "loves": 7,
       "favorites": 7,
       "remixes": 0
@@ -335,7 +320,7 @@
       "created": "2026-09-24T09:38:16.000Z",
       "modified": "2026-09-25T11:34:16.000Z",
       "shared": "2026-09-24T10:27:01.000Z",
-      "views": 114,
+      "views": 115,
       "loves": 21,
       "favorites": 18,
       "remixes": 0
@@ -350,7 +335,7 @@
       "created": "2026-09-21T05:36:36.000Z",
       "modified": "2026-09-21T22:58:36.000Z",
       "shared": "2026-09-21T05:36:38.000Z",
-      "views": 118,
+      "views": 121,
       "loves": 21,
       "favorites": 20,
       "remixes": 0
@@ -425,7 +410,7 @@
       "created": "2026-09-14T11:52:31.000Z",
       "modified": "2026-10-13T10:08:45.000Z",
       "shared": "2026-09-15T11:11:19.000Z",
-      "views": 421,
+      "views": 429,
       "loves": 55,
       "favorites": 52,
       "remixes": 0
@@ -440,7 +425,7 @@
       "created": "2026-09-12T11:57:30.000Z",
       "modified": "2026-10-13T10:08:45.000Z",
       "shared": "2026-09-12T11:58:32.000Z",
-      "views": 110,
+      "views": 112,
       "loves": 20,
       "favorites": 13,
       "remixes": 0
@@ -476,51 +461,6 @@
       "remixes": 0
     },
     {
-      "id": 1379063867,
-      "title": "100%pen オーディオリング",
-      "description": "■仕組み\n・音量を少しずつならして（平滑化）、急な跳ねを抑えています\n・過去の値をリストに残し、波が輪の外側へ流れるようにしています\n・サインとコサインで円周上の点を出し、ペンの色相を時間でずらしています\n\n全部で65ブロックです",
-      "instructions": "マイクの音に反応して輪が波打ちます。ペンだけで描いています。\n\n旗を押すとマイクの使用許可を聞かれるので、許可してください。\n音を出すほど輪が大きく揺れます。",
-      "url": "https://scratch.mit.edu/projects/1379063867/",
-      "image": "https://cdn2.scratch.mit.edu/get_image/project/1379063867_282x218.png?v=1791609909",
-      "created": "2026-09-08T10:55:50.000Z",
-      "modified": "2026-10-10T05:25:09.000Z",
-      "shared": "2026-09-08T11:00:05.000Z",
-      "views": 23,
-      "loves": 2,
-      "favorites": 2,
-      "remixes": 0
-    },
-    {
-      "id": 1378724679,
-      "title": "顔認証（簡易）",
-      "description": "",
-      "instructions": "くらうどへんすうがつかえないよぉ",
-      "url": "https://scratch.mit.edu/projects/1378724679/",
-      "image": "https://cdn2.scratch.mit.edu/get_image/project/1378724679_282x218.png?v=1788781872",
-      "created": "2026-09-07T07:19:27.000Z",
-      "modified": "2026-09-07T11:51:12.000Z",
-      "shared": "2026-09-07T07:26:52.000Z",
-      "views": 13,
-      "loves": 1,
-      "favorites": 1,
-      "remixes": 0
-    },
-    {
-      "id": 1378483877,
-      "title": "HatHop",
-      "description": "@blicear 's character\n久しぶりに意味わかんないやつ作ったわ",
-      "instructions": "Hat hop \nPress space",
-      "url": "https://scratch.mit.edu/projects/1378483877/",
-      "image": "https://cdn2.scratch.mit.edu/get_image/project/1378483877_282x218.png?v=1788738429",
-      "created": "2026-09-06T07:09:54.000Z",
-      "modified": "2026-09-06T23:47:09.000Z",
-      "shared": "2026-09-06T11:29:17.000Z",
-      "views": 21,
-      "loves": 2,
-      "favorites": 1,
-      "remixes": 0
-    },
-    {
       "id": 1378479821,
       "title": "Online Pen_Plaza",
       "description": "✦ CREDITS / クレジット ─────────\n\n  Game design & code\n  企画・プログラム\n    @weather_sunny\n\n  Graphics / グラフィック\n    All visuals drawn at runtime with\n    the Pen extension. No costumes,\n    no imported images.\n    画面は全てペン拡張機能によるリアル\n    タイム描画。コスチューム・画像素材は\n    一切使用していません。\n    Vector stroke font (64 chars) —\n    original / 4×6ストロークフォント自作\n\n  Sound effects & BGM\n  効果音・BGM\n    All 13 SFX and 2 BGM tracks were…",
@@ -536,36 +476,6 @@
       "remixes": 0
     },
     {
-      "id": 1377245962,
-      "title": "100%pen Get down!!",
-      "description": "",
-      "instructions": "名の通り100%penです。\n作り方は、ディスカッションフォーラムの100%penについて話し合うところっていうところにあります",
-      "url": "https://scratch.mit.edu/projects/1377245962/",
-      "image": "https://cdn2.scratch.mit.edu/get_image/project/1377245962_282x218.png?v=1788351653",
-      "created": "2026-09-02T12:20:51.000Z",
-      "modified": "2026-09-02T12:20:53.000Z",
-      "shared": "2026-09-02T12:20:53.000Z",
-      "views": 20,
-      "loves": 4,
-      "favorites": 4,
-      "remixes": 0
-    },
-    {
-      "id": 1376539354,
-      "title": "72%pen スイカゲーム",
-      "description": "バチクソバグ多い\n原作作ったのは @SMEcreator さんですよ！",
-      "instructions": "スイカゲームペン版\nまぁ　なんか色々",
-      "url": "https://scratch.mit.edu/projects/1376539354/",
-      "image": "https://cdn2.scratch.mit.edu/get_image/project/1376539354_282x218.png?v=1791609924",
-      "created": "2026-08-31T06:50:18.000Z",
-      "modified": "2026-10-10T05:25:24.000Z",
-      "shared": "2026-08-31T06:52:04.000Z",
-      "views": 26,
-      "loves": 1,
-      "favorites": 1,
-      "remixes": 0
-    },
-    {
       "id": 1376349464,
       "title": "100%pen Bad Apple",
       "description": "出典\nhttps://www.google.com/goto?url=CAESYwHrOzAVryQ6NKSY732XoD4pS62PzG3i4yasSx3A749hRS7LyU71iHQ0zd-5qTYC7svAD4ldUFVGl59s-q7ZPxtQu7X2t0cOJYHmp1cRBWTf4H--cFnXqF4ayQsgCZI-yO2ioA",
@@ -575,7 +485,7 @@
       "created": "2026-08-30T10:44:31.000Z",
       "modified": "2026-10-10T05:25:26.000Z",
       "shared": "2026-08-30T10:44:33.000Z",
-      "views": 101,
+      "views": 103,
       "loves": 14,
       "favorites": 15,
       "remixes": 0
@@ -590,7 +500,7 @@
       "created": "2026-08-28T07:55:13.000Z",
       "modified": "2026-10-10T05:25:28.000Z",
       "shared": "2026-08-28T07:55:37.000Z",
-      "views": 88,
+      "views": 91,
       "loves": 7,
       "favorites": 6,
       "remixes": 0
@@ -605,9 +515,9 @@
       "created": "2026-08-25T11:56:46.000Z",
       "modified": "2026-10-10T05:25:22.000Z",
       "shared": "2026-08-25T11:58:52.000Z",
-      "views": 431,
-      "loves": 29,
-      "favorites": 26,
+      "views": 436,
+      "loves": 30,
+      "favorites": 27,
       "remixes": 0
     },
     {
@@ -620,7 +530,7 @@
       "created": "2026-08-23T11:02:59.000Z",
       "modified": "2026-08-23T11:19:52.000Z",
       "shared": "2026-08-23T11:18:52.000Z",
-      "views": 55,
+      "views": 56,
       "loves": 9,
       "favorites": 9,
       "remixes": 0
