@@ -1,12 +1,12 @@
 {
-  "generatedAt": "2026-10-23T23:51:20Z",
+  "generatedAt": "2026-10-24T23:13:28Z",
   "source": "api.scratch.mit.edu",
   "profile": {
     "id": 167246871,
     "username": "weather_sunny",
     "avatar": "https://cdn2.scratch.mit.edu/get_image/user/167246871_90x90.png?v=",
-    "bio": "疲れたからです\nアイコン変えた\n主に3Dやゲーム\n男で、中学一年生でっす\n代表作：Minecraft 3D / 100%pen Hill Climb Racing / Exit 8\n\n公式サイト\nhttps://weather-sunny.netlify.app/\n\nリア友 @ngupi\nサブ垢 @weather_cloudy",
-    "status": "最近めっちゃ浮上してまぁす\n作品:41 閲覧:6.5k 好き:633 星:568\n状態:オンライン\n天気:東京 雨\n注意:雷注意報・強風注意報\n気温:15.2℃ 降水:60%\n地震:02:31 浦河沖 震度1 M3.7\n日出:05:55 日入:16:56\n月齢:12.5 十三夜\n更新:10/24 07:08\npythonによって自動更新されています",
+    "bio": "最近やってるやつは猫改造　クソ楽しい\n\n公式サイト\nhttps://weather-sunny.netlify.app/\n\nリア友 @ngupi\nサブ垢 @weather_cloudy",
+    "status": "最近めっちゃ浮上してまぁす\n作品:41 閲覧:6.5k 好き:633 星:568\n状態:オフライン\n天気:東京 くもり昼過ぎから雨所により昼\n注意:雷注意報・強風注意報\n気温:17.8℃ 降水:10%\n地震:10/24 21:08 薩摩半島西方沖 震度1 M3.6\n新しくフォローされました\n更新:10/25 06:37\npythonによって自動更新されています",
     "country": "Japan",
     "joined": "2026-01-30T12:17:37.000Z",
     "scratchteam": false,
@@ -14,9 +14,9 @@
   },
   "totals": {
     "count": 41,
-    "views": 6463,
-    "loves": 633,
-    "favorites": 568,
+    "views": 6715,
+    "loves": 648,
+    "favorites": 580,
     "remixes": 0
   }
 }
