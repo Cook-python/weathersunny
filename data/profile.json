@@ -1,12 +1,12 @@
 {
-  "generatedAt": "2026-10-25T23:15:59Z",
+  "generatedAt": "2026-10-27T00:25:18Z",
   "source": "api.scratch.mit.edu",
   "profile": {
     "id": 167246871,
     "username": "weather_sunny",
     "avatar": "https://cdn2.scratch.mit.edu/get_image/user/167246871_90x90.png?v=",
     "bio": "好きなもの　クリスマスに便乗してものを売りつけようとするセールスマンの執念\n好きな本　幸福な食卓（瀬尾まいこ）\n嫌いなもの　AI\n嫌いなもの　クリスマスにお前友達いないだろとか言う図書室の司書、好きに図書館のパソコンを触らせてくれない司書\n公式サイト\nhttps://weather-sunny.netlify.app/\nリア友 @ngupi\nサブ垢 @weather_cloudy",
-    "status": "最近めっちゃ浮上してまぁす\n作品:42 閲覧:6.8k 好き:655 星:586\n状態:オフライン\n天気:東京 雨\n注意:雷注意報・強風注意報\n気温:18.2℃ 降水:90%\n雨:約7分後\n地震:06:46 福島県会津 震度2 M3.2\n月齢:14.5 満月\n本日の有感地震:1回\n更新:10/26 06:52\npythonによって自動更新されています",
+    "status": "最近めっちゃ浮上してまぁす\n作品:42 閲覧:7.1k 好き:662 星:593\n状態:オフライン\n天気:東京 くもり昼過ぎから時々晴れ所に\n注意:雷注意報・強風注意報\n気温:16.6℃ 降水:30%\n地震:04:49 熊本県熊本地方 震度1 M1.8\n本日の有感地震:3回\nフォロワー:158\n更新:10/27 08:38\npythonによって自動更新されています",
     "country": "Japan",
     "joined": "2026-01-30T12:17:37.000Z",
     "scratchteam": false,
@@ -14,9 +14,9 @@
   },
   "totals": {
     "count": 42,
-    "views": 6798,
-    "loves": 654,
-    "favorites": 585,
+    "views": 7119,
+    "loves": 665,
+    "favorites": 595,
     "remixes": 0
   }
 }
