@@ -1,12 +1,12 @@
 {
-  "generatedAt": "2026-10-28T00:30:57Z",
+  "generatedAt": "2026-10-29T00:55:18Z",
   "source": "api.scratch.mit.edu",
   "profile": {
     "id": 167246871,
     "username": "weather_sunny",
     "avatar": "https://cdn2.scratch.mit.edu/get_image/user/167246871_90x90.png?v=",
-    "bio": "好きなもの　クリスマスに便乗してものを売りつけようとするセールスマンの執念\n好きな本　幸福な食卓（瀬尾まいこ）\n嫌いなもの　セールス\n嫌いなもの　クリスマスにお前友達いないだろとか言う図書室の司書、好きに図書館のパソコンを触らせてくれない司書\n公式サイト\nhttps://weather-sunny.netlify.app/\nリア友 @ngupi\nサブ垢 @weather_cloudy",
-    "status": "最近めっちゃ浮上してまぁす\n作品:42 閲覧:7.3k 好き:678 星:608\n状態:オフライン\n天気:東京 晴れ夜くもり\n注意:雷注意報・強風注意報\n気温:15.5℃ 降水:0%\n地震:03:32 熊本県天草・芦北地方 震度2 M2.2\n月齢:16.6 満月\n本日の有感地震:2回\n更新:10/28 08:09\npythonによって自動更新されています",
+    "bio": "好きなもの　クリスマスに便乗してものを売りつけようとするセールスマンの執念\n好きな本　幸福な食卓（瀬尾まいこ）\n嫌いなもの　セールス\n好きなアニメ　ヤニねこ\n公式サイト\nhttps://weather-sunny.netlify.app/\nリア友 @ngupi\nヤニねこが巣\nサブ垢 @weather_cloudy",
+    "status": "最近めっちゃ浮上してまぁす\n作品:42 閲覧:7.6k 好き:695 星:625\n状態:オフライン\n天気:東京 くもり所により夕方から雨\n注意:雷注意報・強風注意報\n気温:13.0℃ 降水:10%\n地震:08:14 釧路地方中南部 震度2 M4.4\n日出:06:00 日入:16:51\n月齢:17.6 寝待月\n更新:10/29 09:18\npythonによって自動更新されています",
     "country": "Japan",
     "joined": "2026-01-30T12:17:37.000Z",
     "scratchteam": false,
@@ -14,9 +14,9 @@
   },
   "totals": {
     "count": 42,
-    "views": 7362,
-    "loves": 682,
-    "favorites": 612,
+    "views": 7640,
+    "loves": 697,
+    "favorites": 627,
     "remixes": 0
   }
 }
