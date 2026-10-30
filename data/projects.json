@@ -1,15 +1,30 @@
 {
-  "generatedAt": "2026-10-29T00:55:18Z",
+  "generatedAt": "2026-10-30T00:58:21Z",
   "source": "api.scratch.mit.edu",
   "username": "weather_sunny",
   "totals": {
-    "count": 42,
-    "views": 7640,
-    "loves": 697,
-    "favorites": 627,
+    "count": 43,
+    "views": 8066,
+    "loves": 729,
+    "favorites": 657,
     "remixes": 0
   },
   "projects": [
+    {
+      "id": 1397124129,
+      "title": "一条ゆう I Wanna Fall in Love by the Tama River...♡",
+      "description": "",
+      "instructions": "",
+      "url": "https://scratch.mit.edu/projects/1397124129/",
+      "image": "https://cdn2.scratch.mit.edu/get_image/project/1397124129_282x218.png?v=1793263771",
+      "created": "2026-10-29T08:46:57.000Z",
+      "modified": "2026-10-29T08:49:31.000Z",
+      "shared": "2026-10-29T08:49:31.000Z",
+      "views": 8,
+      "loves": 2,
+      "favorites": 2,
+      "remixes": 0
+    },
     {
       "id": 1396204559,
       "title": "コメント欄",
@@ -20,7 +35,7 @@
       "created": "2026-10-27T07:53:39.000Z",
       "modified": "2026-10-27T07:55:23.000Z",
       "shared": "2026-10-27T07:53:48.000Z",
-      "views": 12,
+      "views": 15,
       "loves": 0,
       "favorites": 0,
       "remixes": 0
@@ -35,7 +50,7 @@
       "created": "2026-10-25T04:31:43.000Z",
       "modified": "2026-10-25T08:13:28.000Z",
       "shared": "2026-10-25T04:33:58.000Z",
-      "views": 30,
+      "views": 33,
       "loves": 2,
       "favorites": 2,
       "remixes": 0
@@ -50,9 +65,9 @@
       "created": "2026-10-23T21:58:53.000Z",
       "modified": "2026-10-24T09:25:37.000Z",
       "shared": "2026-10-23T22:00:22.000Z",
-      "views": 83,
-      "loves": 9,
-      "favorites": 8,
+      "views": 115,
+      "loves": 10,
+      "favorites": 9,
       "remixes": 0
     },
     {
@@ -65,7 +80,7 @@
       "created": "2026-10-21T10:26:54.000Z",
       "modified": "2026-10-21T22:42:38.000Z",
       "shared": "2026-10-21T11:06:37.000Z",
-      "views": 45,
+      "views": 48,
       "loves": 5,
       "favorites": 4,
       "remixes": 0
@@ -80,7 +95,7 @@
       "created": "2026-10-21T07:24:01.000Z",
       "modified": "2026-10-21T22:51:53.000Z",
       "shared": "2026-10-21T07:24:42.000Z",
-      "views": 106,
+      "views": 111,
       "loves": 20,
       "favorites": 12,
       "remixes": 0
@@ -95,7 +110,7 @@
       "created": "2026-10-14T21:11:15.000Z",
       "modified": "2026-10-16T08:13:09.000Z",
       "shared": "2026-10-14T21:35:39.000Z",
-      "views": 32,
+      "views": 35,
       "loves": 2,
       "favorites": 1,
       "remixes": 0
@@ -110,9 +125,9 @@
       "created": "2026-10-14T05:27:40.000Z",
       "modified": "2026-10-14T22:42:19.000Z",
       "shared": "2026-10-14T05:50:35.000Z",
-      "views": 44,
-      "loves": 8,
-      "favorites": 8,
+      "views": 48,
+      "loves": 9,
+      "favorites": 9,
       "remixes": 0
     },
     {
@@ -125,9 +140,9 @@
       "created": "2026-10-13T10:35:30.000Z",
       "modified": "2026-10-27T08:42:41.000Z",
       "shared": "2026-10-13T11:45:31.000Z",
-      "views": 79,
-      "loves": 6,
-      "favorites": 7,
+      "views": 90,
+      "loves": 9,
+      "favorites": 11,
       "remixes": 0
     },
     {
@@ -140,9 +155,9 @@
       "created": "2026-10-12T11:45:23.000Z",
       "modified": "2026-10-15T10:57:34.000Z",
       "shared": "2026-10-12T11:51:56.000Z",
-      "views": 246,
-      "loves": 32,
-      "favorites": 30,
+      "views": 263,
+      "loves": 33,
+      "favorites": 31,
       "remixes": 0
     },
     {
@@ -155,9 +170,9 @@
       "created": "2026-10-12T04:47:43.000Z",
       "modified": "2026-10-12T04:48:45.000Z",
       "shared": "2026-10-12T04:48:45.000Z",
-      "views": 64,
-      "loves": 6,
-      "favorites": 6,
+      "views": 69,
+      "loves": 7,
+      "favorites": 7,
       "remixes": 0
     },
     {
@@ -170,9 +185,9 @@
       "created": "2026-10-12T04:47:34.000Z",
       "modified": "2026-10-14T08:42:51.000Z",
       "shared": "2026-10-12T04:48:42.000Z",
-      "views": 51,
-      "loves": 4,
-      "favorites": 3,
+      "views": 59,
+      "loves": 5,
+      "favorites": 4,
       "remixes": 0
     },
     {
@@ -185,9 +200,9 @@
       "created": "2026-10-12T00:31:28.000Z",
       "modified": "2026-10-12T02:25:30.000Z",
       "shared": "2026-10-12T02:25:30.000Z",
-      "views": 188,
-      "loves": 18,
-      "favorites": 18,
+      "views": 221,
+      "loves": 22,
+      "favorites": 20,
       "remixes": 0
     },
     {
@@ -200,7 +215,7 @@
       "created": "2026-10-11T11:50:47.000Z",
       "modified": "2026-10-12T08:16:11.000Z",
       "shared": "2026-10-11T11:57:36.000Z",
-      "views": 51,
+      "views": 55,
       "loves": 6,
       "favorites": 5,
       "remixes": 0
@@ -208,16 +223,16 @@
     {
       "id": 1390197324,
       "title": "文字ブレード",
-      "description": "ブラウザゲームの「文字ブレード」（tsukuruumさん）をScratchにしたものです。本家とは別物なので、オンライン対戦とランキングはありません。←オンライン対戦実装しました\n\n100%ペンで、コスチュームもスプライトの絵も使ってないです。\n文字の形は Noto Sans CJK JP と Noto Serif CJK JP（SIL Open Font License）から取り出して、24×24のデータにしてリストに入れてます。3503文字。\n当たり判定は文字の輪郭を36方向の半径にしたものなんで、「一」はよく飛ぶし「鉄」は飛ばないです。\nバチクソ疲れた",
+      "description": "おんらいんつくｔったああああああああああああああああああああああああああああああああああああああああああああああああああああああ\n自動マッチ方式です\n\nブラウザゲームの「文字ブレード」（tsukuruumさん）をScratchにしたものです。本家とは別物なので、オンライン対戦とランキングはありません。←オンライン対戦実装しました\n\n100%ペンで、コスチュームもスプライトの絵も使ってないです。\n文字の形は Noto Sans CJK JP と Noto Serif CJK JP（SIL Open Font License）から取り出して、24×24のデータにしてリストに入れてます。3503文字。\n当たり判定は文字の輪郭を36方向の半径にしたものなんで、「一」はよく飛ぶし「鉄」は飛ばないです。\nバチクソ疲れた",
       "instructions": "旗を押して、左の箱をクリックすると文字を聞かれるので一文字入れてください。かなでも英数字でも常用漢字でも㍿とか①みたいな記号でも大丈夫です。入ってない文字だとランダムになります。\n書体はゴシックと明朝体、右がCOMの文字で、強さは弱・普・強。\n\nモードは3つ。\nVS COM　COMと1戦\nVS 2P　1台で2人。1Pが発射したら2Pが引っ張る番\n連勝チャレンジ　同じ文字でCOMに何連勝できるか。負けたら終わり\n\n発射は画面を引っ張って離すだけで、引っ張った分だけ強く飛びます。キーボードは ←→ で向き、↑↓ で強さ、スペースかEnterで発射です。下の「左回転」を押すと右回転に変わります。\n\n文字の形でコマの性能が決まります。面積が多い字は重くて遅いけど飛ばされにくい、丸い字はバランスがよくて長く回る、尖った字は速く回ってるときに先が当たるとクリティカルで相手がぐらつく、って感じです。\n回…",
       "url": "https://scratch.mit.edu/projects/1390197324/",
-      "image": "https://cdn2.scratch.mit.edu/get_image/project/1390197324_282x218.png?v=1792995808",
+      "image": "https://cdn2.scratch.mit.edu/get_image/project/1390197324_282x218.png?v=1793275318",
       "created": "2026-10-10T10:40:04.000Z",
-      "modified": "2026-10-26T06:23:28.000Z",
+      "modified": "2026-10-29T12:01:58.000Z",
       "shared": "2026-10-10T10:44:06.000Z",
-      "views": 1272,
-      "loves": 64,
-      "favorites": 60,
+      "views": 1412,
+      "loves": 65,
+      "favorites": 61,
       "remixes": 0
     },
     {
@@ -230,9 +245,9 @@
       "created": "2026-10-10T02:50:54.000Z",
       "modified": "2026-10-10T03:29:40.000Z",
       "shared": "2026-10-10T03:29:40.000Z",
-      "views": 101,
-      "loves": 9,
-      "favorites": 9,
+      "views": 104,
+      "loves": 10,
+      "favorites": 10,
       "remixes": 0
     },
     {
@@ -245,9 +260,9 @@
       "created": "2026-10-06T11:44:34.000Z",
       "modified": "2026-10-16T10:00:54.000Z",
       "shared": "2026-10-06T11:49:46.000Z",
-      "views": 402,
-      "loves": 44,
-      "favorites": 43,
+      "views": 431,
+      "loves": 45,
+      "favorites": 44,
       "remixes": 0
     },
     {
@@ -260,7 +275,7 @@
       "created": "2026-10-03T22:26:58.000Z",
       "modified": "2026-10-03T22:49:59.000Z",
       "shared": "2026-10-03T22:49:41.000Z",
-      "views": 100,
+      "views": 102,
       "loves": 14,
       "favorites": 12,
       "remixes": 0
@@ -275,7 +290,7 @@
       "created": "2026-10-03T10:13:40.000Z",
       "modified": "2026-10-10T05:25:32.000Z",
       "shared": "2026-10-03T10:16:52.000Z",
-      "views": 56,
+      "views": 57,
       "loves": 7,
       "favorites": 7,
       "remixes": 0
@@ -290,7 +305,7 @@
       "created": "2026-10-03T09:05:50.000Z",
       "modified": "2026-10-10T05:25:06.000Z",
       "shared": "2026-10-03T09:06:59.000Z",
-      "views": 35,
+      "views": 36,
       "loves": 3,
       "favorites": 1,
       "remixes": 0
@@ -305,7 +320,7 @@
       "created": "2026-10-03T06:27:07.000Z",
       "modified": "2026-10-03T07:36:17.000Z",
       "shared": "2026-10-03T06:29:18.000Z",
-      "views": 118,
+      "views": 127,
       "loves": 13,
       "favorites": 12,
       "remixes": 0
@@ -320,7 +335,7 @@
       "created": "2026-10-01T22:48:35.000Z",
       "modified": "2026-10-02T03:54:45.000Z",
       "shared": "2026-10-01T23:11:38.000Z",
-      "views": 287,
+      "views": 298,
       "loves": 13,
       "favorites": 12,
       "remixes": 0
@@ -335,9 +350,9 @@
       "created": "2026-09-30T22:26:23.000Z",
       "modified": "2026-10-10T05:25:30.000Z",
       "shared": "2026-09-30T22:27:15.000Z",
-      "views": 66,
-      "loves": 3,
-      "favorites": 3,
+      "views": 70,
+      "loves": 4,
+      "favorites": 4,
       "remixes": 0
     },
     {
@@ -350,9 +365,9 @@
       "created": "2026-09-27T11:32:04.000Z",
       "modified": "2026-10-17T08:53:34.000Z",
       "shared": "2026-09-27T11:55:56.000Z",
-      "views": 872,
-      "loves": 116,
-      "favorites": 107,
+      "views": 910,
+      "loves": 118,
+      "favorites": 109,
       "remixes": 0
     },
     {
@@ -365,7 +380,7 @@
       "created": "2026-09-27T03:51:12.000Z",
       "modified": "2026-10-10T05:25:38.000Z",
       "shared": "2026-09-27T04:11:06.000Z",
-      "views": 52,
+      "views": 54,
       "loves": 4,
       "favorites": 2,
       "remixes": 0
@@ -380,9 +395,9 @@
       "created": "2026-09-26T07:04:22.000Z",
       "modified": "2026-09-26T10:41:54.000Z",
       "shared": "2026-09-26T09:43:43.000Z",
-      "views": 109,
-      "loves": 9,
-      "favorites": 9,
+      "views": 112,
+      "loves": 10,
+      "favorites": 10,
       "remixes": 0
     },
     {
@@ -395,7 +410,7 @@
       "created": "2026-09-24T09:38:16.000Z",
       "modified": "2026-09-25T11:34:16.000Z",
       "shared": "2026-09-24T10:27:01.000Z",
-      "views": 126,
+      "views": 132,
       "loves": 22,
       "favorites": 18,
       "remixes": 0
@@ -410,7 +425,7 @@
       "created": "2026-09-21T05:36:36.000Z",
       "modified": "2026-09-21T22:58:36.000Z",
       "shared": "2026-09-21T05:36:38.000Z",
-      "views": 141,
+      "views": 142,
       "loves": 21,
       "favorites": 20,
       "remixes": 0
@@ -485,9 +500,9 @@
       "created": "2026-09-14T11:52:31.000Z",
       "modified": "2026-10-13T10:08:45.000Z",
       "shared": "2026-09-15T11:11:19.000Z",
-      "views": 499,
-      "loves": 56,
-      "favorites": 53,
+      "views": 510,
+      "loves": 57,
+      "favorites": 54,
       "remixes": 0
     },
     {
@@ -500,9 +515,9 @@
       "created": "2026-09-12T11:57:30.000Z",
       "modified": "2026-10-13T10:08:45.000Z",
       "shared": "2026-09-12T11:58:32.000Z",
-      "views": 126,
-      "loves": 21,
-      "favorites": 14,
+      "views": 128,
+      "loves": 22,
+      "favorites": 15,
       "remixes": 0
     },
     {
@@ -515,9 +530,9 @@
       "created": "2026-09-10T21:56:19.000Z",
       "modified": "2026-10-10T05:25:11.000Z",
       "shared": "2026-09-10T21:58:15.000Z",
-      "views": 12,
-      "loves": 1,
-      "favorites": 0,
+      "views": 13,
+      "loves": 2,
+      "favorites": 1,
       "remixes": 0
     },
     {
@@ -530,9 +545,9 @@
       "created": "2026-09-09T10:01:59.000Z",
       "modified": "2026-09-10T21:16:31.000Z",
       "shared": "2026-09-09T10:04:16.000Z",
-      "views": 34,
-      "loves": 4,
-      "favorites": 4,
+      "views": 37,
+      "loves": 5,
+      "favorites": 5,
       "remixes": 0
     },
     {
@@ -560,9 +575,9 @@
       "created": "2026-08-30T10:44:31.000Z",
       "modified": "2026-10-10T05:25:26.000Z",
       "shared": "2026-08-30T10:44:33.000Z",
-      "views": 115,
-      "loves": 15,
-      "favorites": 17,
+      "views": 117,
+      "loves": 16,
+      "favorites": 18,
       "remixes": 0
     },
     {
@@ -575,9 +590,9 @@
       "created": "2026-08-28T07:55:13.000Z",
       "modified": "2026-10-10T05:25:28.000Z",
       "shared": "2026-08-28T07:55:37.000Z",
-      "views": 108,
-      "loves": 8,
-      "favorites": 7,
+      "views": 113,
+      "loves": 10,
+      "favorites": 8,
       "remixes": 0
     },
     {
@@ -590,9 +605,9 @@
       "created": "2026-08-25T11:56:46.000Z",
       "modified": "2026-10-10T05:25:22.000Z",
       "shared": "2026-08-25T11:58:52.000Z",
-      "views": 459,
-      "loves": 31,
-      "favorites": 28,
+      "views": 465,
+      "loves": 32,
+      "favorites": 29,
       "remixes": 0
     },
     {
@@ -605,9 +620,9 @@
       "created": "2026-08-23T11:02:59.000Z",
       "modified": "2026-08-23T11:19:52.000Z",
       "shared": "2026-08-23T11:18:52.000Z",
-      "views": 64,
-      "loves": 10,
-      "favorites": 10,
+      "views": 65,
+      "loves": 11,
+      "favorites": 11,
       "remixes": 0
     },
     {
@@ -620,9 +635,9 @@
       "created": "2026-08-22T02:22:22.000Z",
       "modified": "2026-10-10T05:25:13.000Z",
       "shared": "2026-08-23T11:18:30.000Z",
-      "views": 6,
-      "loves": 1,
-      "favorites": 1,
+      "views": 7,
+      "loves": 2,
+      "favorites": 2,
       "remixes": 0
     },
     {
@@ -635,9 +650,9 @@
       "created": "2026-08-17T11:58:46.000Z",
       "modified": "2026-10-10T05:25:34.000Z",
       "shared": "2026-08-20T22:40:06.000Z",
-      "views": 995,
-      "loves": 60,
-      "favorites": 52,
+      "views": 1000,
+      "loves": 61,
+      "favorites": 53,
       "remixes": 0
     }
   ]
