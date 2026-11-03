@@ -1,12 +1,12 @@
 {
-  "generatedAt": "2026-11-02T00:43:54Z",
+  "generatedAt": "2026-11-03T02:54:56Z",
   "source": "api.scratch.mit.edu",
   "username": "weather_sunny",
   "totals": {
     "count": 44,
-    "views": 8579,
-    "loves": 759,
-    "favorites": 683,
+    "views": 8850,
+    "loves": 770,
+    "favorites": 694,
     "remixes": 0
   },
   "projects": [
@@ -20,7 +20,7 @@
       "created": "2026-10-30T23:17:19.000Z",
       "modified": "2026-10-31T23:31:16.000Z",
       "shared": "2026-10-30T23:17:31.000Z",
-      "views": 23,
+      "views": 30,
       "loves": 3,
       "favorites": 1,
       "remixes": 0
@@ -35,22 +35,22 @@
       "created": "2026-10-29T08:46:57.000Z",
       "modified": "2026-10-29T08:49:31.000Z",
       "shared": "2026-10-29T08:49:31.000Z",
-      "views": 23,
-      "loves": 2,
-      "favorites": 2,
+      "views": 28,
+      "loves": 3,
+      "favorites": 3,
       "remixes": 0
     },
     {
       "id": 1396204559,
       "title": "コメント欄",
       "description": "期待してた？何も動かんよ",
-      "instructions": "こめんてぃんぐ（？）\nUrei0\nどのaiを使っていますか？Claud？goboscript？ですか？\nabout an hour ago\n\nweather_sunny\n@Urei0 Claudeっす　圧縮のために使いました　入れるの忘れてました　すみません\n19 minutes ago\n\nUrei0\n@weather_sunny ？入れなくてもよくない？謝らなくていいのに、それよりもClaudを使ったとしてもなんでこんなに意図した作品にできるのかが気になるの。\n17 minutes ago\n\nweather_sunny\n@Urei0 あとなんか公開されてました　これは試験用のはずだったんですけどね\n17 minutes ago\n\nUrei0\n@weather_sunny 関数アートメーカーは、何のaiを一部使用してる？またmdはどこから取り寄せました？\n15 minutes ago\n\nw…",
+      "instructions": "こめんてぃんぐ（？）\n頑張ります",
       "url": "https://scratch.mit.edu/projects/1396204559/",
-      "image": "https://cdn2.scratch.mit.edu/get_image/project/1396204559_282x218.png?v=1793087723",
+      "image": "https://cdn2.scratch.mit.edu/get_image/project/1396204559_282x218.png?v=1793604470",
       "created": "2026-10-27T07:53:39.000Z",
-      "modified": "2026-10-27T07:55:23.000Z",
+      "modified": "2026-11-02T07:27:50.000Z",
       "shared": "2026-10-27T07:53:48.000Z",
-      "views": 22,
+      "views": 25,
       "loves": 0,
       "favorites": 0,
       "remixes": 0
@@ -65,7 +65,7 @@
       "created": "2026-10-25T04:31:43.000Z",
       "modified": "2026-10-25T08:13:28.000Z",
       "shared": "2026-10-25T04:33:58.000Z",
-      "views": 36,
+      "views": 39,
       "loves": 2,
       "favorites": 2,
       "remixes": 0
@@ -80,9 +80,9 @@
       "created": "2026-10-23T21:58:53.000Z",
       "modified": "2026-10-24T09:25:37.000Z",
       "shared": "2026-10-23T22:00:22.000Z",
-      "views": 142,
-      "loves": 12,
-      "favorites": 11,
+      "views": 160,
+      "loves": 14,
+      "favorites": 13,
       "remixes": 0
     },
     {
@@ -95,7 +95,7 @@
       "created": "2026-10-21T10:26:54.000Z",
       "modified": "2026-10-21T22:42:38.000Z",
       "shared": "2026-10-21T11:06:37.000Z",
-      "views": 51,
+      "views": 60,
       "loves": 5,
       "favorites": 4,
       "remixes": 0
@@ -110,7 +110,7 @@
       "created": "2026-10-21T07:24:01.000Z",
       "modified": "2026-10-21T22:51:53.000Z",
       "shared": "2026-10-21T07:24:42.000Z",
-      "views": 119,
+      "views": 121,
       "loves": 20,
       "favorites": 12,
       "remixes": 0
@@ -125,9 +125,9 @@
       "created": "2026-10-14T21:11:15.000Z",
       "modified": "2026-10-16T08:13:09.000Z",
       "shared": "2026-10-14T21:35:39.000Z",
-      "views": 37,
-      "loves": 2,
-      "favorites": 1,
+      "views": 41,
+      "loves": 4,
+      "favorites": 3,
       "remixes": 0
     },
     {
@@ -140,7 +140,7 @@
       "created": "2026-10-14T05:27:40.000Z",
       "modified": "2026-10-14T22:42:19.000Z",
       "shared": "2026-10-14T05:50:35.000Z",
-      "views": 48,
+      "views": 51,
       "loves": 9,
       "favorites": 9,
       "remixes": 0
@@ -155,7 +155,7 @@
       "created": "2026-10-13T10:35:30.000Z",
       "modified": "2026-10-27T08:42:41.000Z",
       "shared": "2026-10-13T11:45:31.000Z",
-      "views": 93,
+      "views": 95,
       "loves": 10,
       "favorites": 12,
       "remixes": 0
@@ -170,7 +170,7 @@
       "created": "2026-10-12T11:45:23.000Z",
       "modified": "2026-10-15T10:57:34.000Z",
       "shared": "2026-10-12T11:51:56.000Z",
-      "views": 299,
+      "views": 329,
       "loves": 35,
       "favorites": 33,
       "remixes": 0
@@ -185,7 +185,7 @@
       "created": "2026-10-12T04:47:43.000Z",
       "modified": "2026-10-12T04:48:45.000Z",
       "shared": "2026-10-12T04:48:45.000Z",
-      "views": 78,
+      "views": 83,
       "loves": 9,
       "favorites": 9,
       "remixes": 0
@@ -200,7 +200,7 @@
       "created": "2026-10-12T04:47:34.000Z",
       "modified": "2026-10-14T08:42:51.000Z",
       "shared": "2026-10-12T04:48:42.000Z",
-      "views": 62,
+      "views": 68,
       "loves": 5,
       "favorites": 4,
       "remixes": 0
@@ -215,8 +215,8 @@
       "created": "2026-10-12T00:31:28.000Z",
       "modified": "2026-10-12T02:25:30.000Z",
       "shared": "2026-10-12T02:25:30.000Z",
-      "views": 238,
-      "loves": 22,
+      "views": 251,
+      "loves": 23,
       "favorites": 20,
       "remixes": 0
     },
@@ -230,7 +230,7 @@
       "created": "2026-10-11T11:50:47.000Z",
       "modified": "2026-10-12T08:16:11.000Z",
       "shared": "2026-10-11T11:57:36.000Z",
-      "views": 57,
+      "views": 65,
       "loves": 6,
       "favorites": 5,
       "remixes": 0
@@ -238,16 +238,16 @@
     {
       "id": 1390197324,
       "title": "文字ブレード",
-      "description": "?みんな好きですね　４８ｘ４８に対応してと言われましたが一回作ってみたんですよ。そしたら保存ができなくなったので無理です\nおんらいんつくｔったああああああああああああああああああああああああああああああああああああああああああああああああああああああ\n自動マッチ方式です\n\nブラウザゲームの「文字ブレード」（tsukuruumさん）をScratchにしたものです。本家とは別物なので、オンライン対戦とランキングはありません。←オンライン対戦実装しました\n\n100%ペンで、コスチュームもスプライトの絵も使ってないです。\n文字の形は Noto Sans CJK JP と Noto Serif CJK JP（SIL Open Font License）から取り出して、24×24のデータにしてリストに入れてます。3503文字。\n当たり判定は文字の輪郭を36方向の半径にしたものなんで、「一」はよく飛ぶし…",
+      "description": "４８ｘ４８に対応してと言われましたが一回作ってみたんですよ。そしたら保存ができなくなったので無理です\nおんらいんつくｔったああああああああああああああああああああああああああああああああああああああああああああああああああああああ\n自動マッチ方式です\n\nブラウザゲームの「文字ブレード」（tsukuruumさん）をScratchにしたものです。本家とは別物なので、オンライン対戦とランキングはありません。←オンライン対戦実装しました\n\n100%ペンで、コスチュームもスプライトの絵も使ってないです。\n文字の形は Noto Sans CJK JP と Noto Serif CJK JP（SIL Open Font License）から取り出して、24×24のデータにしてリストに入れてます。3503文字。\n当たり判定は文字の輪郭を36方向の半径にしたものなんで、「一」はよく飛ぶし「鉄」は飛ばないです…",
       "instructions": "旗を押して、左の箱をクリックすると文字を聞かれるので一文字入れてください。かなでも英数字でも常用漢字でも㍿とか①みたいな記号でも大丈夫です。入ってない文字だとランダムになります。\n書体はゴシックと明朝体、右がCOMの文字で、強さは弱・普・強。\n\nモードは3つ。\nVS COM　COMと1戦\nVS 2P　1台で2人。1Pが発射したら2Pが引っ張る番\n連勝チャレンジ　同じ文字でCOMに何連勝できるか。負けたら終わり\n\n発射は画面を引っ張って離すだけで、引っ張った分だけ強く飛びます。キーボードは ←→ で向き、↑↓ で強さ、スペースかEnterで発射です。下の「左回転」を押すと右回転に変わります。\n\n文字の形でコマの性能が決まります。面積が多い字は重くて遅いけど飛ばされにくい、丸い字はバランスがよくて長く回る、尖った字は速く回ってるときに先が当たるとクリティカルで相手がぐらつく、って感じです。\n回…",
       "url": "https://scratch.mit.edu/projects/1390197324/",
-      "image": "https://cdn2.scratch.mit.edu/get_image/project/1390197324_282x218.png?v=1793489614",
+      "image": "https://cdn2.scratch.mit.edu/get_image/project/1390197324_282x218.png?v=1793608999",
       "created": "2026-10-10T10:40:04.000Z",
-      "modified": "2026-10-31T23:33:34.000Z",
+      "modified": "2026-11-02T08:43:19.000Z",
       "shared": "2026-10-10T10:44:06.000Z",
-      "views": 1594,
-      "loves": 75,
-      "favorites": 70,
+      "views": 1677,
+      "loves": 77,
+      "favorites": 73,
       "remixes": 0
     },
     {
@@ -260,7 +260,7 @@
       "created": "2026-10-10T02:50:54.000Z",
       "modified": "2026-10-10T03:29:40.000Z",
       "shared": "2026-10-10T03:29:40.000Z",
-      "views": 118,
+      "views": 128,
       "loves": 11,
       "favorites": 11,
       "remixes": 0
@@ -275,9 +275,9 @@
       "created": "2026-10-06T11:44:34.000Z",
       "modified": "2026-10-16T10:00:54.000Z",
       "shared": "2026-10-06T11:49:46.000Z",
-      "views": 486,
-      "loves": 50,
-      "favorites": 48,
+      "views": 509,
+      "loves": 52,
+      "favorites": 50,
       "remixes": 0
     },
     {
@@ -290,7 +290,7 @@
       "created": "2026-10-03T22:26:58.000Z",
       "modified": "2026-10-03T22:49:59.000Z",
       "shared": "2026-10-03T22:49:41.000Z",
-      "views": 107,
+      "views": 108,
       "loves": 15,
       "favorites": 13,
       "remixes": 0
@@ -335,7 +335,7 @@
       "created": "2026-10-03T06:27:07.000Z",
       "modified": "2026-10-03T07:36:17.000Z",
       "shared": "2026-10-03T06:29:18.000Z",
-      "views": 138,
+      "views": 139,
       "loves": 13,
       "favorites": 12,
       "remixes": 0
@@ -350,7 +350,7 @@
       "created": "2026-10-01T22:48:35.000Z",
       "modified": "2026-10-02T03:54:45.000Z",
       "shared": "2026-10-01T23:11:38.000Z",
-      "views": 306,
+      "views": 307,
       "loves": 13,
       "favorites": 12,
       "remixes": 0
@@ -365,7 +365,7 @@
       "created": "2026-09-30T22:26:23.000Z",
       "modified": "2026-10-10T05:25:30.000Z",
       "shared": "2026-09-30T22:27:15.000Z",
-      "views": 73,
+      "views": 75,
       "loves": 4,
       "favorites": 4,
       "remixes": 0
@@ -380,7 +380,7 @@
       "created": "2026-09-27T11:32:04.000Z",
       "modified": "2026-10-17T08:53:34.000Z",
       "shared": "2026-09-27T11:55:56.000Z",
-      "views": 932,
+      "views": 942,
       "loves": 119,
       "favorites": 110,
       "remixes": 0
@@ -410,7 +410,7 @@
       "created": "2026-09-26T07:04:22.000Z",
       "modified": "2026-09-26T10:41:54.000Z",
       "shared": "2026-09-26T09:43:43.000Z",
-      "views": 121,
+      "views": 125,
       "loves": 10,
       "favorites": 10,
       "remixes": 0
@@ -425,7 +425,7 @@
       "created": "2026-09-24T09:38:16.000Z",
       "modified": "2026-09-25T11:34:16.000Z",
       "shared": "2026-09-24T10:27:01.000Z",
-      "views": 133,
+      "views": 134,
       "loves": 22,
       "favorites": 18,
       "remixes": 0
@@ -440,7 +440,7 @@
       "created": "2026-09-21T05:36:36.000Z",
       "modified": "2026-09-21T22:58:36.000Z",
       "shared": "2026-09-21T05:36:38.000Z",
-      "views": 145,
+      "views": 146,
       "loves": 22,
       "favorites": 21,
       "remixes": 0
@@ -515,9 +515,9 @@
       "created": "2026-09-14T11:52:31.000Z",
       "modified": "2026-10-13T10:08:45.000Z",
       "shared": "2026-09-15T11:11:19.000Z",
-      "views": 531,
-      "loves": 57,
-      "favorites": 54,
+      "views": 535,
+      "loves": 58,
+      "favorites": 55,
       "remixes": 0
     },
     {
@@ -530,7 +530,7 @@
       "created": "2026-09-12T11:57:30.000Z",
       "modified": "2026-10-13T10:08:45.000Z",
       "shared": "2026-09-12T11:58:32.000Z",
-      "views": 130,
+      "views": 131,
       "loves": 22,
       "favorites": 15,
       "remixes": 0
@@ -575,7 +575,7 @@
       "created": "2026-09-06T06:35:49.000Z",
       "modified": "2026-09-06T22:08:09.000Z",
       "shared": "2026-09-06T07:06:12.000Z",
-      "views": 91,
+      "views": 92,
       "loves": 11,
       "favorites": 9,
       "remixes": 0
@@ -605,7 +605,7 @@
       "created": "2026-08-28T07:55:13.000Z",
       "modified": "2026-10-10T05:25:28.000Z",
       "shared": "2026-08-28T07:55:37.000Z",
-      "views": 114,
+      "views": 115,
       "loves": 10,
       "favorites": 8,
       "remixes": 0
@@ -620,7 +620,7 @@
       "created": "2026-08-25T11:56:46.000Z",
       "modified": "2026-10-10T05:25:22.000Z",
       "shared": "2026-08-25T11:58:52.000Z",
-      "views": 468,
+      "views": 471,
       "loves": 33,
       "favorites": 30,
       "remixes": 0
@@ -635,7 +635,7 @@
       "created": "2026-08-23T11:02:59.000Z",
       "modified": "2026-08-23T11:19:52.000Z",
       "shared": "2026-08-23T11:18:52.000Z",
-      "views": 66,
+      "views": 68,
       "loves": 11,
       "favorites": 11,
       "remixes": 0
@@ -650,7 +650,7 @@
       "created": "2026-08-22T02:22:22.000Z",
       "modified": "2026-10-10T05:25:13.000Z",
       "shared": "2026-08-23T11:18:30.000Z",
-      "views": 8,
+      "views": 9,
       "loves": 2,
       "favorites": 2,
       "remixes": 0
@@ -665,7 +665,7 @@
       "created": "2026-08-17T11:58:46.000Z",
       "modified": "2026-10-10T05:25:34.000Z",
       "shared": "2026-08-20T22:40:06.000Z",
-      "views": 1002,
+      "views": 1005,
       "loves": 61,
       "favorites": 53,
       "remixes": 0
