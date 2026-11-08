@@ -1,12 +1,12 @@
 {
-  "generatedAt": "2026-11-07T00:56:15Z",
+  "generatedAt": "2026-11-08T00:34:52Z",
   "source": "api.scratch.mit.edu",
   "profile": {
     "id": 167246871,
     "username": "weather_sunny",
     "avatar": "https://cdn2.scratch.mit.edu/get_image/user/167246871_90x90.png?v=",
     "bio": "今作っているもの　Scratch3.pエミュレーター\nYoutubeとTiktokやってます　よかったらフォローしてねどっちも下で検索すりゃ出てくるよ\n@weathersunnyoffical\n憧れ @TW-ils\n公式サイト\nhttps://weather-sunny.netlify.app/\nリア友 @ngupi\nサブ垢 @weather_cloudy",
-    "status": "最近めっちゃ浮上してまぁす\n作品:45 閲覧:9.6k 好き:808 星:731\n状態:オフライン\n天気:東京 晴れ夜のはじめ頃くもり\n注意:雷注意報・強風注意報\n気温:15.2℃ 降水:10%\n地震:11/06 22:43 淡路島付近 震度1 M3.1\n新しくフォローされました\n更新:11/07 02:57\npythonによって自動更新されています",
+    "status": "最近めっちゃ浮上してまぁす\n作品:45 閲覧:9.7k 好き:825 星:745\n状態:オフライン\n天気:東京 晴れ夜くもり\n注意:雷注意報・強風注意報\n気温:11.0℃ 降水:0%\n地震:07:38 福島県沖 震度2 M3.9\n日出:06:10 日入:16:41\n月齢:27.6 有明月\n更新:11/08 08:00\npythonによって自動更新されています",
     "country": "Japan",
     "joined": "2026-01-30T12:17:37.000Z",
     "scratchteam": false,
@@ -14,9 +14,9 @@
   },
   "totals": {
     "count": 45,
-    "views": 9454,
-    "loves": 795,
-    "favorites": 718,
+    "views": 9728,
+    "loves": 821,
+    "favorites": 744,
     "remixes": 0
   }
 }

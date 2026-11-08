@@ -1,12 +1,12 @@
 {
-  "generatedAt": "2026-11-06T01:31:37Z",
+  "generatedAt": "2026-11-08T00:34:52Z",
   "source": "api.scratch.mit.edu",
   "username": "weather_sunny",
   "totals": {
     "count": 45,
-    "views": 9454,
-    "loves": 795,
-    "favorites": 718,
+    "views": 9728,
+    "loves": 821,
+    "favorites": 744,
     "remixes": 0
   },
   "projects": [
@@ -14,15 +14,15 @@
       "id": 1399075563,
       "title": "しゃぼん玉",
       "description": "",
-      "instructions": "花を狙う　クリックで膨らむ",
+      "instructions": "花を狙う　クリックで膨らむ\nタイミングゲーム\nしゃぼん玉が出た状態でタップするとブーストできます",
       "url": "https://scratch.mit.edu/projects/1399075563/",
-      "image": "https://cdn2.scratch.mit.edu/get_image/project/1399075563_282x218.png?v=1793920313",
+      "image": "https://cdn2.scratch.mit.edu/get_image/project/1399075563_282x218.png?v=1793960885",
       "created": "2026-11-03T21:56:58.000Z",
-      "modified": "2026-11-05T23:11:53.000Z",
+      "modified": "2026-11-06T10:28:05.000Z",
       "shared": "2026-11-05T12:54:17.000Z",
-      "views": 8,
-      "loves": 1,
-      "favorites": 1,
+      "views": 20,
+      "loves": 2,
+      "favorites": 2,
       "remixes": 0
     },
     {
@@ -35,7 +35,7 @@
       "created": "2026-10-30T23:17:19.000Z",
       "modified": "2026-10-31T23:31:16.000Z",
       "shared": "2026-10-30T23:17:31.000Z",
-      "views": 43,
+      "views": 46,
       "loves": 3,
       "favorites": 1,
       "remixes": 0
@@ -50,9 +50,9 @@
       "created": "2026-10-29T08:46:57.000Z",
       "modified": "2026-10-29T08:49:31.000Z",
       "shared": "2026-10-29T08:49:31.000Z",
-      "views": 37,
-      "loves": 5,
-      "favorites": 5,
+      "views": 42,
+      "loves": 6,
+      "favorites": 6,
       "remixes": 0
     },
     {
@@ -65,7 +65,7 @@
       "created": "2026-10-27T07:53:39.000Z",
       "modified": "2026-11-02T07:27:50.000Z",
       "shared": "2026-10-27T07:53:48.000Z",
-      "views": 28,
+      "views": 30,
       "loves": 0,
       "favorites": 0,
       "remixes": 0
@@ -80,7 +80,7 @@
       "created": "2026-10-25T04:31:43.000Z",
       "modified": "2026-10-25T08:13:28.000Z",
       "shared": "2026-10-25T04:33:58.000Z",
-      "views": 41,
+      "views": 42,
       "loves": 2,
       "favorites": 2,
       "remixes": 0
@@ -95,7 +95,7 @@
       "created": "2026-10-23T21:58:53.000Z",
       "modified": "2026-10-24T09:25:37.000Z",
       "shared": "2026-10-23T22:00:22.000Z",
-      "views": 178,
+      "views": 181,
       "loves": 14,
       "favorites": 13,
       "remixes": 0
@@ -110,9 +110,9 @@
       "created": "2026-10-21T10:26:54.000Z",
       "modified": "2026-10-21T22:42:38.000Z",
       "shared": "2026-10-21T11:06:37.000Z",
-      "views": 68,
-      "loves": 5,
-      "favorites": 4,
+      "views": 70,
+      "loves": 6,
+      "favorites": 5,
       "remixes": 0
     },
     {
@@ -125,7 +125,7 @@
       "created": "2026-10-21T07:24:01.000Z",
       "modified": "2026-10-21T22:51:53.000Z",
       "shared": "2026-10-21T07:24:42.000Z",
-      "views": 126,
+      "views": 127,
       "loves": 20,
       "favorites": 12,
       "remixes": 0
@@ -140,7 +140,7 @@
       "created": "2026-10-14T21:11:15.000Z",
       "modified": "2026-10-16T08:13:09.000Z",
       "shared": "2026-10-14T21:35:39.000Z",
-      "views": 48,
+      "views": 49,
       "loves": 4,
       "favorites": 3,
       "remixes": 0
@@ -155,7 +155,7 @@
       "created": "2026-10-14T05:27:40.000Z",
       "modified": "2026-10-14T22:42:19.000Z",
       "shared": "2026-10-14T05:50:35.000Z",
-      "views": 54,
+      "views": 58,
       "loves": 9,
       "favorites": 9,
       "remixes": 0
@@ -170,7 +170,7 @@
       "created": "2026-10-13T10:35:30.000Z",
       "modified": "2026-10-27T08:42:41.000Z",
       "shared": "2026-10-13T11:45:31.000Z",
-      "views": 98,
+      "views": 101,
       "loves": 10,
       "favorites": 12,
       "remixes": 0
@@ -185,9 +185,9 @@
       "created": "2026-10-12T11:45:23.000Z",
       "modified": "2026-10-15T10:57:34.000Z",
       "shared": "2026-10-12T11:51:56.000Z",
-      "views": 378,
-      "loves": 37,
-      "favorites": 36,
+      "views": 406,
+      "loves": 39,
+      "favorites": 38,
       "remixes": 0
     },
     {
@@ -200,7 +200,7 @@
       "created": "2026-10-12T04:47:43.000Z",
       "modified": "2026-10-12T04:48:45.000Z",
       "shared": "2026-10-12T04:48:45.000Z",
-      "views": 92,
+      "views": 93,
       "loves": 10,
       "favorites": 9,
       "remixes": 0
@@ -215,7 +215,7 @@
       "created": "2026-10-12T04:47:34.000Z",
       "modified": "2026-10-14T08:42:51.000Z",
       "shared": "2026-10-12T04:48:42.000Z",
-      "views": 75,
+      "views": 76,
       "loves": 5,
       "favorites": 4,
       "remixes": 0
@@ -230,9 +230,9 @@
       "created": "2026-10-12T00:31:28.000Z",
       "modified": "2026-10-12T02:25:30.000Z",
       "shared": "2026-10-12T02:25:30.000Z",
-      "views": 287,
-      "loves": 25,
-      "favorites": 22,
+      "views": 298,
+      "loves": 27,
+      "favorites": 24,
       "remixes": 0
     },
     {
@@ -245,7 +245,7 @@
       "created": "2026-10-11T11:50:47.000Z",
       "modified": "2026-10-12T08:16:11.000Z",
       "shared": "2026-10-11T11:57:36.000Z",
-      "views": 73,
+      "views": 75,
       "loves": 6,
       "favorites": 5,
       "remixes": 0
@@ -253,16 +253,16 @@
     {
       "id": 1390197324,
       "title": "文字ブレード",
-      "description": "４８ｘ４８に対応してと言われましたが一回作ってみたんですよ。そしたら保存ができなくなったので無理です\nおんらいんつくｔったああああああああああああああああああああああああああああああああああああああああああああああああああああああ\n自動マッチ方式です\n\nブラウザゲームの「文字ブレード」（tsukuruumさん）をScratchにしたものです。本家とは別物なので、オンライン対戦とランキングはありません。←オンライン対戦実装しました\n\n100%ペンで、コスチュームもスプライトの絵も使ってないです。\n文字の形は Noto Sans CJK JP と Noto Serif CJK JP（SIL Open Font License）から取り出して、24×24のデータにしてリストに入れてます。3503文字。\n当たり判定は文字の輪郭を36方向の半径にしたものなんで、「一」はよく飛ぶし「鉄」は飛ばないです…",
+      "description": "2000回ありがとう\nおんらいんつくｔったああああああああああああああああああああああああああああああああああああああああああああああああああああああ\n自動マッチ方式です\n\nブラウザゲームの「文字ブレード」（tsukuruumさん）をScratchにしたものです。本家とは別物なので、オンライン対戦とランキングはありません。←オンライン対戦実装しました\n\n100%ペンで、コスチュームもスプライトの絵も使ってないです。\n文字の形は Noto Sans CJK JP と Noto Serif CJK JP（SIL Open Font License）から取り出して、24×24のデータにしてリストに入れてます。3503文字。\n当たり判定は文字の輪郭を36方向の半径にしたものなんで、「一」はよく飛ぶし「鉄」は飛ばないです。\nバチクソ疲れた",
       "instructions": "旗を押して、左の箱をクリックすると文字を聞かれるので一文字入れてください。かなでも英数字でも常用漢字でも㍿とか①みたいな記号でも大丈夫です。入ってない文字だとランダムになります。\n書体はゴシックと明朝体、右がCOMの文字で、強さは弱・普・強。\n\nモードは3つ。\nVS COM　COMと1戦\nVS 2P　1台で2人。1Pが発射したら2Pが引っ張る番\n連勝チャレンジ　同じ文字でCOMに何連勝できるか。負けたら終わり\n\n発射は画面を引っ張って離すだけで、引っ張った分だけ強く飛びます。キーボードは ←→ で向き、↑↓ で強さ、スペースかEnterで発射です。下の「左回転」を押すと右回転に変わります。\n\n文字の形でコマの性能が決まります。面積が多い字は重くて遅いけど飛ばされにくい、丸い字はバランスがよくて長く回る、尖った字は速く回ってるときに先が当たるとクリティカルで相手がぐらつく、って感じです。\n回…",
       "url": "https://scratch.mit.edu/projects/1390197324/",
-      "image": "https://cdn2.scratch.mit.edu/get_image/project/1390197324_282x218.png?v=1793608999",
+      "image": "https://cdn2.scratch.mit.edu/get_image/project/1390197324_282x218.png?v=1794049244",
       "created": "2026-10-10T10:40:04.000Z",
-      "modified": "2026-11-02T08:43:19.000Z",
+      "modified": "2026-11-07T11:00:44.000Z",
       "shared": "2026-10-10T10:44:06.000Z",
-      "views": 1905,
-      "loves": 86,
-      "favorites": 82,
+      "views": 2003,
+      "loves": 96,
+      "favorites": 92,
       "remixes": 0
     },
     {
@@ -275,7 +275,7 @@
       "created": "2026-10-10T02:50:54.000Z",
       "modified": "2026-10-10T03:29:40.000Z",
       "shared": "2026-10-10T03:29:40.000Z",
-      "views": 140,
+      "views": 143,
       "loves": 11,
       "favorites": 11,
       "remixes": 0
@@ -283,16 +283,16 @@
     {
       "id": 1388639810,
       "title": "あつまれねこの島",
-      "description": "■メモ\n「あつまれ どうぶつの森」のルールを参考にした、ファンメイドの作品です。\n任天堂とは関係ありません。キャラクターの名前や絵は、すべてオリジナルかScratchのライブラリのものです。\n\n全部ペンとスタンプで描いています。\n3D表示は、島のタイルを奥から順にペンでぬって、木やキャラをスタンプで重ねています。\n\n更新\n・天気、流れ星、離島ツアー、道具の強化、木を植える、収納、マップを追加\n・日本語／English／中文／한국어 に対応\n・島の共有（クラウド）に対応\n\n■クレジット\nキャラクター・虫・魚など\n　Scratchのライブラリ（Scratchキャット、Gobo、Pico、Nano、Giga、Bear、Owl、Monkey、Hedgehog、Penguin、Dog2、Frog、Duck、Chick、Fox、Butterfly、Beetle、Ladybug、Dragonfly、Gr…",
+      "description": "バグ直しは現在受け付けておりません\n■メモ\n「あつまれ どうぶつの森」のルールを参考にした、ファンメイドの作品です。\n任天堂とは関係ありません。キャラクターの名前や絵は、すべてオリジナルかScratchのライブラリのものです。\n\n全部ペンとスタンプで描いています。\n3D表示は、島のタイルを奥から順にペンでぬって、木やキャラをスタンプで重ねています。\n\n更新\n・天気、流れ星、離島ツアー、道具の強化、木を植える、収納、マップを追加\n・日本語／English／中文／한국어 に対応\n・島の共有（クラウド）に対応\n\n■クレジット\nキャラクター・虫・魚など\n　Scratchのライブラリ（Scratchキャット、Gobo、Pico、Nano、Giga、Bear、Owl、Monkey、Hedgehog、Penguin、Dog2、Frog、Duck、Chick、Fox、Butterfly、Beetle、La…",
       "instructions": "あつ森のルールを参考にした、島暮らしのゲームです。\n釣り・虫とり・化石ほり・家のローン返済・日曜のカブまで入っています。\n絵は全部ペンとスタンプで描いていて、Vキーで3Dと2Dを切りかえられます。\n日本語 / English / 中文 / 한국어\n\n■そうさ\n矢印キー / WASD … 移動\nZ（押したまま） … 走る\nスペース … 話す・調べる・道具を使う\nE … 道具を持ちかえる\nB … ポケット\nM … スマホ（マップ・マイル・レシピ・共有など）\nV または右上のボタン … 3D / 2D 切りかえ\nX … キャンセル\n\n■はじめかた\n最初に言語をえらんで、「はじめから」で名前と島の名前を入れます。\nまずは熊五郎に話しかけてみてください。\n\n■あそびかた\n・木をゆらすと枝が落ちてきます。広場の作業台でつりざおやあみを作れます\n・魚や虫はお店（8:00〜22:00）で売るとベルになりま…",
       "url": "https://scratch.mit.edu/projects/1388639810/",
-      "image": "https://cdn2.scratch.mit.edu/get_image/project/1388639810_282x218.png?v=1792144854",
+      "image": "https://cdn2.scratch.mit.edu/get_image/project/1388639810_282x218.png?v=1794047674",
       "created": "2026-10-06T11:44:34.000Z",
-      "modified": "2026-10-16T10:00:54.000Z",
+      "modified": "2026-11-07T10:34:34.000Z",
       "shared": "2026-10-06T11:49:46.000Z",
-      "views": 541,
-      "loves": 56,
-      "favorites": 55,
+      "views": 575,
+      "loves": 62,
+      "favorites": 61,
       "remixes": 0
     },
     {
@@ -305,7 +305,7 @@
       "created": "2026-10-03T22:26:58.000Z",
       "modified": "2026-10-03T22:49:59.000Z",
       "shared": "2026-10-03T22:49:41.000Z",
-      "views": 118,
+      "views": 124,
       "loves": 16,
       "favorites": 13,
       "remixes": 0
@@ -320,7 +320,7 @@
       "created": "2026-10-03T10:13:40.000Z",
       "modified": "2026-10-10T05:25:32.000Z",
       "shared": "2026-10-03T10:16:52.000Z",
-      "views": 69,
+      "views": 74,
       "loves": 7,
       "favorites": 7,
       "remixes": 0
@@ -335,7 +335,7 @@
       "created": "2026-10-03T09:05:50.000Z",
       "modified": "2026-10-10T05:25:06.000Z",
       "shared": "2026-10-03T09:06:59.000Z",
-      "views": 41,
+      "views": 42,
       "loves": 3,
       "favorites": 1,
       "remixes": 0
@@ -350,7 +350,7 @@
       "created": "2026-10-03T06:27:07.000Z",
       "modified": "2026-10-03T07:36:17.000Z",
       "shared": "2026-10-03T06:29:18.000Z",
-      "views": 151,
+      "views": 156,
       "loves": 13,
       "favorites": 12,
       "remixes": 0
@@ -365,7 +365,7 @@
       "created": "2026-10-01T22:48:35.000Z",
       "modified": "2026-10-02T03:54:45.000Z",
       "shared": "2026-10-01T23:11:38.000Z",
-      "views": 321,
+      "views": 325,
       "loves": 13,
       "favorites": 12,
       "remixes": 0
@@ -376,11 +376,11 @@
       "description": "",
       "instructions": "arrow key\nクリエイティブぅ",
       "url": "https://scratch.mit.edu/projects/1386785300/",
-      "image": "https://cdn2.scratch.mit.edu/get_image/project/1386785300_282x218.png?v=1791609930",
+      "image": "https://cdn2.scratch.mit.edu/get_image/project/1386785300_282x218.png?v=1794006839",
       "created": "2026-09-30T22:26:23.000Z",
-      "modified": "2026-10-10T05:25:30.000Z",
+      "modified": "2026-11-06T23:13:59.000Z",
       "shared": "2026-09-30T22:27:15.000Z",
-      "views": 79,
+      "views": 80,
       "loves": 4,
       "favorites": 4,
       "remixes": 0
@@ -395,9 +395,9 @@
       "created": "2026-09-27T11:32:04.000Z",
       "modified": "2026-10-17T08:53:34.000Z",
       "shared": "2026-09-27T11:55:56.000Z",
-      "views": 972,
-      "loves": 120,
-      "favorites": 111,
+      "views": 983,
+      "loves": 122,
+      "favorites": 113,
       "remixes": 0
     },
     {
@@ -410,7 +410,7 @@
       "created": "2026-09-27T03:51:12.000Z",
       "modified": "2026-10-10T05:25:38.000Z",
       "shared": "2026-09-27T04:11:06.000Z",
-      "views": 55,
+      "views": 56,
       "loves": 4,
       "favorites": 2,
       "remixes": 0
@@ -425,7 +425,7 @@
       "created": "2026-09-26T07:04:22.000Z",
       "modified": "2026-09-26T10:41:54.000Z",
       "shared": "2026-09-26T09:43:43.000Z",
-      "views": 136,
+      "views": 139,
       "loves": 10,
       "favorites": 10,
       "remixes": 0
@@ -455,7 +455,7 @@
       "created": "2026-09-21T05:36:36.000Z",
       "modified": "2026-09-21T22:58:36.000Z",
       "shared": "2026-09-21T05:36:38.000Z",
-      "views": 148,
+      "views": 150,
       "loves": 22,
       "favorites": 21,
       "remixes": 0
@@ -530,7 +530,7 @@
       "created": "2026-09-14T11:52:31.000Z",
       "modified": "2026-10-13T10:08:45.000Z",
       "shared": "2026-09-15T11:11:19.000Z",
-      "views": 557,
+      "views": 568,
       "loves": 59,
       "favorites": 56,
       "remixes": 0
@@ -539,13 +539,13 @@
       "id": 1380476641,
       "title": "100%pen 物理エンジン",
       "description": "■仕組み\n・粒の位置と速度をリストで持ち、1フレームを数回に分けて計算しています（サブステップ）\n・バネ → 接触 → 壁 → 画面端 の順に解くソルバー方式です\n・近くの粒だけを調べるブロードフェーズを入れて、総当たりを避けています\n・円はサインとコサインの表を先に作っておき、描画を軽くしています\n\n重力・減衰・摩擦・反発は変数でいじれます",
-      "instructions": "ペンだけで動く2D物理エンジンです。コスチュームは1枚も使っていません。\n\n■操作\nマウスをドラッグ … 粒をつかんで動かす\nスペース … 柔らかい塊を足す\nR … 最初から\n\nTurboWarp の 60FPS でも同じ速さで動きます",
+      "instructions": "ペンだけで動く2D物理エンジンです。コスチュームは1枚も使っていません。\n\n■操作\nマウスをドラッグ … 粒をつかんで動かす\nスペース … 柔らかい塊を足す\nR … 最初から",
       "url": "https://scratch.mit.edu/projects/1380476641/",
-      "image": "https://cdn2.scratch.mit.edu/get_image/project/1380476641_282x218.png?v=1791886125",
+      "image": "https://cdn2.scratch.mit.edu/get_image/project/1380476641_282x218.png?v=1794006687",
       "created": "2026-09-12T11:57:30.000Z",
-      "modified": "2026-10-13T10:08:45.000Z",
+      "modified": "2026-11-06T23:11:27.000Z",
       "shared": "2026-09-12T11:58:32.000Z",
-      "views": 135,
+      "views": 136,
       "loves": 22,
       "favorites": 15,
       "remixes": 0
@@ -590,7 +590,7 @@
       "created": "2026-09-06T06:35:49.000Z",
       "modified": "2026-09-06T22:08:09.000Z",
       "shared": "2026-09-06T07:06:12.000Z",
-      "views": 97,
+      "views": 98,
       "loves": 12,
       "favorites": 9,
       "remixes": 0
@@ -620,7 +620,7 @@
       "created": "2026-08-28T07:55:13.000Z",
       "modified": "2026-10-10T05:25:28.000Z",
       "shared": "2026-08-28T07:55:37.000Z",
-      "views": 117,
+      "views": 119,
       "loves": 10,
       "favorites": 8,
       "remixes": 0
@@ -635,7 +635,7 @@
       "created": "2026-08-25T11:56:46.000Z",
       "modified": "2026-10-10T05:25:22.000Z",
       "shared": "2026-08-25T11:58:52.000Z",
-      "views": 476,
+      "views": 478,
       "loves": 33,
       "favorites": 30,
       "remixes": 0
@@ -680,9 +680,9 @@
       "created": "2026-08-17T11:58:46.000Z",
       "modified": "2026-10-10T05:25:34.000Z",
       "shared": "2026-08-20T22:40:06.000Z",
-      "views": 1012,
-      "loves": 61,
-      "favorites": 53,
+      "views": 1015,
+      "loves": 62,
+      "favorites": 54,
       "remixes": 0
     }
   ]
