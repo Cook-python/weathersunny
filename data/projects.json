@@ -1,12 +1,12 @@
 {
-  "generatedAt": "2026-11-11T01:13:44Z",
+  "generatedAt": "2026-11-12T02:15:50Z",
   "source": "api.scratch.mit.edu",
   "username": "weather_sunny",
   "totals": {
-    "count": 42,
-    "views": 10094,
-    "loves": 831,
-    "favorites": 756,
+    "count": 35,
+    "views": 10181,
+    "loves": 813,
+    "favorites": 741,
     "remixes": 0
   },
   "projects": [
@@ -20,24 +20,9 @@
       "created": "2026-11-03T21:56:58.000Z",
       "modified": "2026-11-06T10:28:05.000Z",
       "shared": "2026-11-05T12:54:17.000Z",
-      "views": 35,
-      "loves": 4,
+      "views": 45,
+      "loves": 5,
       "favorites": 4,
-      "remixes": 0
-    },
-    {
-      "id": 1397800898,
-      "title": "大切なお知らせ",
-      "description": "はぴーはろうぃん",
-      "instructions": "親にパソコンを没収され、いつ返されるかわかりません\nなので、今まで通りの活動をすることができません\n通知とかは見ます\nコメントもするかもしれないですが、私の学校のパソコンだと僕のプロジェクトを開くとフリーズするのでプロジェクトのコメントにはだいたい返信できません\n\n@weather_sunny より",
-      "url": "https://scratch.mit.edu/projects/1397800898/",
-      "image": "https://cdn2.scratch.mit.edu/get_image/project/1397800898_282x218.png?v=1793489476",
-      "created": "2026-10-30T23:17:19.000Z",
-      "modified": "2026-10-31T23:31:16.000Z",
-      "shared": "2026-10-30T23:17:31.000Z",
-      "views": 52,
-      "loves": 3,
-      "favorites": 1,
       "remixes": 0
     },
     {
@@ -50,9 +35,9 @@
       "created": "2026-10-29T08:46:57.000Z",
       "modified": "2026-10-29T08:49:31.000Z",
       "shared": "2026-10-29T08:49:31.000Z",
-      "views": 47,
-      "loves": 7,
-      "favorites": 6,
+      "views": 55,
+      "loves": 9,
+      "favorites": 7,
       "remixes": 0
     },
     {
@@ -65,7 +50,7 @@
       "created": "2026-10-27T07:53:39.000Z",
       "modified": "2026-11-02T07:27:50.000Z",
       "shared": "2026-10-27T07:53:48.000Z",
-      "views": 31,
+      "views": 34,
       "loves": 0,
       "favorites": 0,
       "remixes": 0
@@ -80,9 +65,9 @@
       "created": "2026-10-25T04:31:43.000Z",
       "modified": "2026-10-25T08:13:28.000Z",
       "shared": "2026-10-25T04:33:58.000Z",
-      "views": 42,
-      "loves": 2,
-      "favorites": 2,
+      "views": 45,
+      "loves": 3,
+      "favorites": 3,
       "remixes": 0
     },
     {
@@ -95,9 +80,9 @@
       "created": "2026-10-23T21:58:53.000Z",
       "modified": "2026-10-24T09:25:37.000Z",
       "shared": "2026-10-23T22:00:22.000Z",
-      "views": 215,
-      "loves": 14,
-      "favorites": 13,
+      "views": 238,
+      "loves": 15,
+      "favorites": 14,
       "remixes": 0
     },
     {
@@ -110,7 +95,7 @@
       "created": "2026-10-21T10:26:54.000Z",
       "modified": "2026-10-21T22:42:38.000Z",
       "shared": "2026-10-21T11:06:37.000Z",
-      "views": 78,
+      "views": 85,
       "loves": 6,
       "favorites": 5,
       "remixes": 0
@@ -125,7 +110,7 @@
       "created": "2026-10-21T07:24:01.000Z",
       "modified": "2026-10-21T22:51:53.000Z",
       "shared": "2026-10-21T07:24:42.000Z",
-      "views": 133,
+      "views": 136,
       "loves": 20,
       "favorites": 12,
       "remixes": 0
@@ -140,24 +125,9 @@
       "created": "2026-10-14T21:11:15.000Z",
       "modified": "2026-10-16T08:13:09.000Z",
       "shared": "2026-10-14T21:35:39.000Z",
-      "views": 52,
+      "views": 53,
       "loves": 4,
       "favorites": 3,
-      "remixes": 0
-    },
-    {
-      "id": 1391392510,
-      "title": "なかよし島ぐらし",
-      "description": "文字のもとにしたフォント：M PLUS Rounded 1c（SIL Open Font License）\n声：音声合成拡張機能、音：音楽拡張機能\nトモダチコレクションは任天堂の作品です。この作品はファンによるオマージュで、公式とは関係ありません。",
-      "instructions": "ペンで描いた、住人たちの暮らしを見守る島ぐらしゲームです。トモダチコレクションのオマージュです。\nあなたは島の管理人。最初に島の大きさ（小・中・大）を選び、顔・髪型・服・性格・声を決めて住人を作ります（大きい島は12人まで）。\n\n▼遊び方\n・住人をクリック → 悩みを聞く／詳しく見る（相談は住人の部屋の中で、声つきでしゃべります）\n・住人をドラッグして他の住人に会わせる → 仲良くなるかも？\n・吹き出しの色で悩みがわかります（黄：ほしい物・模様替え・お宝・オブジェ、オレンジ：友達・ケンカ・紹介、ピンク：恋・誕生日、青：落ち込み、緑：ミニゲーム）\n・市場で食べ物・服・インテリア・道具を買ってプレゼント。朝市・夕市・夜市で安くなる物が変わります\n・食べ物屋に連れて行くと大好物がわかることも。写真館で1日1回、みんなの記念写真\n・噴水で1日1回募金を受け取り、気持ち玉をためて願いをかなえるとラン…",
-      "url": "https://scratch.mit.edu/projects/1391392510/",
-      "image": "https://cdn2.scratch.mit.edu/get_image/project/1391392510_282x218.png?v=1792017739",
-      "created": "2026-10-14T05:27:40.000Z",
-      "modified": "2026-10-14T22:42:19.000Z",
-      "shared": "2026-10-14T05:50:35.000Z",
-      "views": 58,
-      "loves": 9,
-      "favorites": 9,
       "remixes": 0
     },
     {
@@ -170,7 +140,7 @@
       "created": "2026-10-13T10:35:30.000Z",
       "modified": "2026-10-27T08:42:41.000Z",
       "shared": "2026-10-13T11:45:31.000Z",
-      "views": 102,
+      "views": 103,
       "loves": 10,
       "favorites": 12,
       "remixes": 0
@@ -185,7 +155,7 @@
       "created": "2026-10-12T11:45:23.000Z",
       "modified": "2026-10-15T10:57:34.000Z",
       "shared": "2026-10-12T11:51:56.000Z",
-      "views": 487,
+      "views": 535,
       "loves": 42,
       "favorites": 41,
       "remixes": 0
@@ -200,7 +170,7 @@
       "created": "2026-10-12T04:47:43.000Z",
       "modified": "2026-10-12T04:48:45.000Z",
       "shared": "2026-10-12T04:48:45.000Z",
-      "views": 101,
+      "views": 106,
       "loves": 10,
       "favorites": 9,
       "remixes": 0
@@ -215,7 +185,7 @@
       "created": "2026-10-12T04:47:34.000Z",
       "modified": "2026-10-14T08:42:51.000Z",
       "shared": "2026-10-12T04:48:42.000Z",
-      "views": 83,
+      "views": 85,
       "loves": 6,
       "favorites": 5,
       "remixes": 0
@@ -230,7 +200,7 @@
       "created": "2026-10-12T00:31:28.000Z",
       "modified": "2026-10-12T02:25:30.000Z",
       "shared": "2026-10-12T02:25:30.000Z",
-      "views": 319,
+      "views": 331,
       "loves": 29,
       "favorites": 24,
       "remixes": 0
@@ -245,7 +215,7 @@
       "created": "2026-10-11T11:50:47.000Z",
       "modified": "2026-10-12T08:16:11.000Z",
       "shared": "2026-10-11T11:57:36.000Z",
-      "views": 78,
+      "views": 82,
       "loves": 6,
       "favorites": 5,
       "remixes": 0
@@ -253,16 +223,16 @@
     {
       "id": 1390197324,
       "title": "文字ブレード",
-      "description": "2000回ありがとう\nおんらいんつくｔったああああああああああああああああああああああああああああああああああああああああああああああああああああああ\n自動マッチ方式です\n\nブラウザゲームの「文字ブレード」（tsukuruumさん）をScratchにしたものです。本家とは別物なので、オンライン対戦とランキングはありません。←オンライン対戦実装しました\n\n100%ペンで、コスチュームもスプライトの絵も使ってないです。\n文字の形は Noto Sans CJK JP と Noto Serif CJK JP（SIL Open Font License）から取り出して、24×24のデータにしてリストに入れてます。3503文字。\n当たり判定は文字の輪郭を36方向の半径にしたものなんで、「一」はよく飛ぶし「鉄」は飛ばないです。\nバチクソ疲れた",
+      "description": "読み込みを早くしました\n2000回ありがとう\nおんらいんつくｔったああああああああああああああああああああああああああああああああああああああああああああああああああああああ\n自動マッチ方式です\n\nブラウザゲームの「文字ブレード」（tsukuruumさん）をScratchにしたものです。本家とは別物なので、オンライン対戦とランキングはありません。←オンライン対戦実装しました\n\n100%ペンで、コスチュームもスプライトの絵も使ってないです。\n文字の形は Noto Sans CJK JP と Noto Serif CJK JP（SIL Open Font License）から取り出して、24×24のデータにしてリストに入れてます。3503文字。\n当たり判定は文字の輪郭を36方向の半径にしたものなんで、「一」はよく飛ぶし「鉄」は飛ばないです。\nバチクソ疲れた",
       "instructions": "旗を押して、左の箱をクリックすると文字を聞かれるので一文字入れてください。かなでも英数字でも常用漢字でも㍿とか①みたいな記号でも大丈夫です。入ってない文字だとランダムになります。\n書体はゴシックと明朝体、右がCOMの文字で、強さは弱・普・強。\n\nモードは3つ。\nVS COM　COMと1戦\nVS 2P　1台で2人。1Pが発射したら2Pが引っ張る番\n連勝チャレンジ　同じ文字でCOMに何連勝できるか。負けたら終わり\n\n発射は画面を引っ張って離すだけで、引っ張った分だけ強く飛びます。キーボードは ←→ で向き、↑↓ で強さ、スペースかEnterで発射です。下の「左回転」を押すと右回転に変わります。\n\n文字の形でコマの性能が決まります。面積が多い字は重くて遅いけど飛ばされにくい、丸い字はバランスがよくて長く回る、尖った字は速く回ってるときに先が当たるとクリティカルで相手がぐらつく、って感じです。\n回…",
       "url": "https://scratch.mit.edu/projects/1390197324/",
-      "image": "https://cdn2.scratch.mit.edu/get_image/project/1390197324_282x218.png?v=1794049244",
+      "image": "https://cdn2.scratch.mit.edu/get_image/project/1390197324_282x218.png?v=1794292814",
       "created": "2026-10-10T10:40:04.000Z",
-      "modified": "2026-11-07T11:00:44.000Z",
+      "modified": "2026-11-10T06:40:14.000Z",
       "shared": "2026-10-10T10:44:06.000Z",
-      "views": 2131,
-      "loves": 105,
-      "favorites": 101,
+      "views": 2330,
+      "loves": 113,
+      "favorites": 108,
       "remixes": 0
     },
     {
@@ -275,7 +245,7 @@
       "created": "2026-10-10T02:50:54.000Z",
       "modified": "2026-10-10T03:29:40.000Z",
       "shared": "2026-10-10T03:29:40.000Z",
-      "views": 147,
+      "views": 150,
       "loves": 11,
       "favorites": 11,
       "remixes": 0
@@ -290,9 +260,9 @@
       "created": "2026-10-06T11:44:34.000Z",
       "modified": "2026-11-07T10:34:34.000Z",
       "shared": "2026-10-06T11:49:46.000Z",
-      "views": 637,
-      "loves": 68,
-      "favorites": 67,
+      "views": 672,
+      "loves": 72,
+      "favorites": 70,
       "remixes": 0
     },
     {
@@ -320,24 +290,9 @@
       "created": "2026-10-03T10:13:40.000Z",
       "modified": "2026-10-10T05:25:32.000Z",
       "shared": "2026-10-03T10:16:52.000Z",
-      "views": 75,
+      "views": 79,
       "loves": 7,
       "favorites": 7,
-      "remixes": 0
-    },
-    {
-      "id": 1387690233,
-      "title": "回転テトリス 260ブロック",
-      "description": "■省ブロックのやり方\n・当たり判定を配列ではなく「色に触れた」で取っています\n・次のミノ表示とゴースト（影）は同じ処理を使い回しています\n・角度・距離・速さを先に表（リスト）へ入れて、計算ブロックを減らしました\n\n通常版はこちら\nhttps://scratch.mit.edu/projects/1387665627/",
-      "instructions": "盤が回るテトリスを260ブロックに収めた版です。\n\n■操作\n← → … 移動\n↑ … 回転\n↓ … 速く落とす\nスペース … 一気に落とす",
-      "url": "https://scratch.mit.edu/projects/1387690233/",
-      "image": "https://cdn2.scratch.mit.edu/get_image/project/1387690233_282x218.png?v=1791609906",
-      "created": "2026-10-03T09:05:50.000Z",
-      "modified": "2026-10-10T05:25:06.000Z",
-      "shared": "2026-10-03T09:06:59.000Z",
-      "views": 43,
-      "loves": 3,
-      "favorites": 1,
       "remixes": 0
     },
     {
@@ -350,7 +305,7 @@
       "created": "2026-10-03T06:27:07.000Z",
       "modified": "2026-10-03T07:36:17.000Z",
       "shared": "2026-10-03T06:29:18.000Z",
-      "views": 165,
+      "views": 169,
       "loves": 13,
       "favorites": 12,
       "remixes": 0
@@ -365,7 +320,7 @@
       "created": "2026-10-01T22:48:35.000Z",
       "modified": "2026-10-02T03:54:45.000Z",
       "shared": "2026-10-01T23:11:38.000Z",
-      "views": 332,
+      "views": 336,
       "loves": 13,
       "favorites": 12,
       "remixes": 0
@@ -376,13 +331,13 @@
       "description": "",
       "instructions": "arrow key\nクリエイティブぅ",
       "url": "https://scratch.mit.edu/projects/1386785300/",
-      "image": "https://cdn2.scratch.mit.edu/get_image/project/1386785300_282x218.png?v=1794006839",
+      "image": "https://cdn2.scratch.mit.edu/get_image/project/1386785300_282x218.png?v=1794307444",
       "created": "2026-09-30T22:26:23.000Z",
-      "modified": "2026-11-06T23:13:59.000Z",
+      "modified": "2026-11-10T10:44:04.000Z",
       "shared": "2026-09-30T22:27:15.000Z",
-      "views": 83,
-      "loves": 4,
-      "favorites": 4,
+      "views": 86,
+      "loves": 6,
+      "favorites": 6,
       "remixes": 0
     },
     {
@@ -395,24 +350,9 @@
       "created": "2026-09-27T11:32:04.000Z",
       "modified": "2026-10-17T08:53:34.000Z",
       "shared": "2026-09-27T11:55:56.000Z",
-      "views": 992,
+      "views": 1002,
       "loves": 122,
       "favorites": 113,
-      "remixes": 0
-    },
-    {
-      "id": 1385399312,
-      "title": "Minecraft 3D 試作版",
-      "description": "",
-      "instructions": "Wasd　矢印キー",
-      "url": "https://scratch.mit.edu/projects/1385399312/",
-      "image": "https://cdn2.scratch.mit.edu/get_image/project/1385399312_282x218.png?v=1791609938",
-      "created": "2026-09-27T03:51:12.000Z",
-      "modified": "2026-10-10T05:25:38.000Z",
-      "shared": "2026-09-27T04:11:06.000Z",
-      "views": 56,
-      "loves": 4,
-      "favorites": 2,
       "remixes": 0
     },
     {
@@ -425,7 +365,7 @@
       "created": "2026-09-26T07:04:22.000Z",
       "modified": "2026-09-26T10:41:54.000Z",
       "shared": "2026-09-26T09:43:43.000Z",
-      "views": 148,
+      "views": 152,
       "loves": 11,
       "favorites": 11,
       "remixes": 0
@@ -440,7 +380,7 @@
       "created": "2026-09-24T09:38:16.000Z",
       "modified": "2026-09-25T11:34:16.000Z",
       "shared": "2026-09-24T10:27:01.000Z",
-      "views": 139,
+      "views": 142,
       "loves": 22,
       "favorites": 18,
       "remixes": 0
@@ -455,7 +395,7 @@
       "created": "2026-09-21T05:36:36.000Z",
       "modified": "2026-09-21T22:58:36.000Z",
       "shared": "2026-09-21T05:36:38.000Z",
-      "views": 152,
+      "views": 154,
       "loves": 23,
       "favorites": 22,
       "remixes": 0
@@ -500,7 +440,7 @@
       "created": "2026-09-14T11:52:31.000Z",
       "modified": "2026-10-13T10:08:45.000Z",
       "shared": "2026-09-15T11:11:19.000Z",
-      "views": 593,
+      "views": 600,
       "loves": 58,
       "favorites": 55,
       "remixes": 0
@@ -515,39 +455,9 @@
       "created": "2026-09-12T11:57:30.000Z",
       "modified": "2026-11-06T23:11:27.000Z",
       "shared": "2026-09-12T11:58:32.000Z",
-      "views": 139,
+      "views": 140,
       "loves": 22,
       "favorites": 15,
-      "remixes": 0
-    },
-    {
-      "id": 1379988858,
-      "title": "Scratch Camera 100ブロック",
-      "description": "■省ブロックのやり方\n・映像の明るさを「色に触れた」で1点ずつ拾っています\n・明るさと色の対応は先に表（リスト）へ入れておき、判定ブロックを減らしました\n・読み取りと描画を同じループにまとめています\n\n通常版はこちら\nhttps://scratch.mit.edu/projects/1379413331/",
-      "instructions": "ウェブカメラの映像をペンで描き直します。100ブロックに収めた版です。\n\n旗を押すとカメラの使用許可を聞かれるので、許可してください。\n読み取りが終わるまで少し待ちます。",
-      "url": "https://scratch.mit.edu/projects/1379988858/",
-      "image": "https://cdn2.scratch.mit.edu/get_image/project/1379988858_282x218.png?v=1791609911",
-      "created": "2026-09-10T21:56:19.000Z",
-      "modified": "2026-10-10T05:25:11.000Z",
-      "shared": "2026-09-10T21:58:15.000Z",
-      "views": 14,
-      "loves": 2,
-      "favorites": 1,
-      "remixes": 0
-    },
-    {
-      "id": 1379413331,
-      "title": "Scratch Camera (2)",
-      "description": "",
-      "instructions": "新機能\n上の三点マーク　から解像度を変えられます。\n右下の画像をクリックすると画像を見ることができます\nそこのところで三点マークを押し、データURIを押すと、保存用のURLが出てきます",
-      "url": "https://scratch.mit.edu/projects/1379413331/",
-      "image": "https://cdn2.scratch.mit.edu/get_image/project/1379413331_282x218.png?v=1794206011",
-      "created": "2026-09-09T10:01:59.000Z",
-      "modified": "2026-11-09T06:33:31.000Z",
-      "shared": "2026-09-09T10:04:16.000Z",
-      "views": 37,
-      "loves": 5,
-      "favorites": 5,
       "remixes": 0
     },
     {
@@ -575,7 +485,7 @@
       "created": "2026-08-28T07:55:13.000Z",
       "modified": "2026-10-10T05:25:28.000Z",
       "shared": "2026-08-28T07:55:37.000Z",
-      "views": 121,
+      "views": 125,
       "loves": 10,
       "favorites": 8,
       "remixes": 0
@@ -590,24 +500,9 @@
       "created": "2026-08-25T11:56:46.000Z",
       "modified": "2026-10-10T05:25:22.000Z",
       "shared": "2026-08-25T11:58:52.000Z",
-      "views": 480,
+      "views": 483,
       "loves": 33,
       "favorites": 30,
-      "remixes": 0
-    },
-    {
-      "id": 1374511729,
-      "title": "Stack",
-      "description": "Happy my birthday!",
-      "instructions": "━━━━━━━━━━━━━━━━━━━\n███　███　　█　　███　█　█\n█　　　█　　█　█　█　　  █　█\n███　   █　　███　█　　   ██　\n　　█　 █　　█　█　█　　  █　█\n███　　█　　█　█　███　█　█\n━━━━━━━━━━━━━━━━━━━\n[ CONTROLS ]\n▸ SPACE / start\n▸ A-Z / drop that letter\n▸ LEFT RIGHT / aim\n▸ DOWN / retry\n━━━━━━━━━━━━━━━━━━━\n[ RULES ]\n▸ Stack capital letters on the platform.\n▸ A letter turns white once it settles,\n　 and it is locked there for good.\n▸ The view scrolls up…",
-      "url": "https://scratch.mit.edu/projects/1374511729/",
-      "image": "https://cdn2.scratch.mit.edu/get_image/project/1374511729_282x218.png?v=1787483992",
-      "created": "2026-08-23T11:02:59.000Z",
-      "modified": "2026-08-23T11:19:52.000Z",
-      "shared": "2026-08-23T11:18:52.000Z",
-      "views": 71,
-      "loves": 11,
-      "favorites": 11,
       "remixes": 0
     },
     {
@@ -635,7 +530,7 @@
       "created": "2026-08-17T11:58:46.000Z",
       "modified": "2026-10-10T05:25:34.000Z",
       "shared": "2026-08-20T22:40:06.000Z",
-      "views": 1021,
+      "views": 1023,
       "loves": 62,
       "favorites": 54,
       "remixes": 0
