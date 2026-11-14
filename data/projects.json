@@ -1,26 +1,41 @@
 {
-  "generatedAt": "2026-11-13T01:49:05Z",
+  "generatedAt": "2026-11-14T01:26:34Z",
   "source": "api.scratch.mit.edu",
   "username": "weather_sunny",
   "totals": {
-    "count": 36,
-    "views": 10614,
-    "loves": 841,
-    "favorites": 766,
+    "count": 35,
+    "views": 10859,
+    "loves": 857,
+    "favorites": 782,
     "remixes": 0
   },
   "projects": [
     {
+      "id": 1440032196,
+      "title": "Bad Apple",
+      "description": "重いって？TurboWarpに行きましょう",
+      "instructions": "東方ウィーク第一弾\n（第二弾まであります）\nBad apple　高画質版：再生メーター付き！",
+      "url": "https://scratch.mit.edu/projects/1440032196/",
+      "image": "https://cdn2.scratch.mit.edu/get_image/project/1440032196_282x218.png?v=1794615838",
+      "created": "2026-11-13T22:13:46.000Z",
+      "modified": "2026-11-14T00:23:58.000Z",
+      "shared": "2026-11-13T23:08:24.000Z",
+      "views": 9,
+      "loves": 2,
+      "favorites": 2,
+      "remixes": 0
+    },
+    {
       "id": 1439627221,
       "title": "きまぐれ",
       "description": "",
-      "instructions": "あいこんしよっかな\nスクラッチキャット 潰れてて草そのまま入れたのがダメだったかな",
+      "instructions": "あいこんしよっかな\nスクラッチキャット 潰れてて草そのまま入れたのがダメだったかな\nすくキャ以外はうまく行ったぜ",
       "url": "https://scratch.mit.edu/projects/1439627221/",
-      "image": "https://cdn2.scratch.mit.edu/get_image/project/1439627221_282x218.png?v=1794530624",
+      "image": "https://cdn2.scratch.mit.edu/get_image/project/1439627221_282x218.png?v=1794567563",
       "created": "2026-11-13T00:42:02.000Z",
-      "modified": "2026-11-13T00:43:44.000Z",
+      "modified": "2026-11-13T10:59:23.000Z",
       "shared": "2026-11-13T00:43:20.000Z",
-      "views": 3,
+      "views": 12,
       "loves": 0,
       "favorites": 0,
       "remixes": 0
@@ -35,9 +50,9 @@
       "created": "2026-11-03T21:56:58.000Z",
       "modified": "2026-11-06T10:28:05.000Z",
       "shared": "2026-11-05T12:54:17.000Z",
-      "views": 50,
-      "loves": 5,
-      "favorites": 4,
+      "views": 57,
+      "loves": 6,
+      "favorites": 5,
       "remixes": 0
     },
     {
@@ -50,7 +65,7 @@
       "created": "2026-10-29T08:46:57.000Z",
       "modified": "2026-10-29T08:49:31.000Z",
       "shared": "2026-10-29T08:49:31.000Z",
-      "views": 61,
+      "views": 63,
       "loves": 9,
       "favorites": 7,
       "remixes": 0
@@ -95,9 +110,9 @@
       "created": "2026-10-23T21:58:53.000Z",
       "modified": "2026-10-24T09:25:37.000Z",
       "shared": "2026-10-23T22:00:22.000Z",
-      "views": 295,
-      "loves": 19,
-      "favorites": 18,
+      "views": 314,
+      "loves": 20,
+      "favorites": 19,
       "remixes": 0
     },
     {
@@ -110,9 +125,9 @@
       "created": "2026-10-21T10:26:54.000Z",
       "modified": "2026-10-21T22:42:38.000Z",
       "shared": "2026-10-21T11:06:37.000Z",
-      "views": 87,
-      "loves": 6,
-      "favorites": 5,
+      "views": 90,
+      "loves": 7,
+      "favorites": 6,
       "remixes": 0
     },
     {
@@ -125,7 +140,7 @@
       "created": "2026-10-21T07:24:01.000Z",
       "modified": "2026-10-21T22:51:53.000Z",
       "shared": "2026-10-21T07:24:42.000Z",
-      "views": 138,
+      "views": 144,
       "loves": 20,
       "favorites": 12,
       "remixes": 0
@@ -148,14 +163,14 @@
     {
       "id": 1391059841,
       "title": "関数アートメーカー",
-      "description": "頑張って書いたけど最初の使い方いらない気がしてきた\n←消しました\n\n読み込んでみてね\n\nClaudeのHaikuに関数の仕組みを教わりました",
+      "description": "頑張って書いたけど最初の使い方いらない気がしてきた\n←消しました\n\n読み込んでみてね\n\nコンピュータぶの底力やああああ\nUIとペンのいろいろは私が作って、関数のところは先輩が作ってくれましたわぁ",
       "instructions": "数式でグラフを描いて、絵を作れます。最初はスクラッチキャットが入っています（フォルダの ▶ を押すと中の式が見られます）。\n\n■ 式を書く\n・左の行をクリックして入力（キーボードは半角英数モードで）\n・下のキーボードでも入力できます。「関数」で sin や abs などのページに切りかわります\n・Enter で次の行、↑↓ でとなりの行へ\n・1文字消すのは下のキーボードの ⌫（TurboWarp ならキーボードの Backspace も使えます）\n・日本語・全角の文字やコピペで入れたいときは「あ」\n・行を消すときは、その行をクリックして右の ×\n\n■ 書ける式\ny=x^2　… ふつうのグラフ\nx=sin(y)　… 横向きのグラフ\nx^2+y^2=4　… x と y がまざった式\nx^2+y^2<4　… 不等式（中がぬられます）\ny=sin(x){0<x<3}　… { } で範囲をしぼる\n(…",
       "url": "https://scratch.mit.edu/projects/1391059841/",
-      "image": "https://cdn2.scratch.mit.edu/get_image/project/1391059841_282x218.png?v=1793090561",
+      "image": "https://cdn2.scratch.mit.edu/get_image/project/1391059841_282x218.png?v=1794551626",
       "created": "2026-10-13T10:35:30.000Z",
-      "modified": "2026-10-27T08:42:41.000Z",
+      "modified": "2026-11-13T06:33:46.000Z",
       "shared": "2026-10-13T11:45:31.000Z",
-      "views": 107,
+      "views": 112,
       "loves": 11,
       "favorites": 13,
       "remixes": 0
@@ -170,9 +185,9 @@
       "created": "2026-10-12T11:45:23.000Z",
       "modified": "2026-10-15T10:57:34.000Z",
       "shared": "2026-10-12T11:51:56.000Z",
-      "views": 585,
-      "loves": 45,
-      "favorites": 44,
+      "views": 612,
+      "loves": 47,
+      "favorites": 46,
       "remixes": 0
     },
     {
@@ -185,7 +200,7 @@
       "created": "2026-10-12T04:47:43.000Z",
       "modified": "2026-10-12T04:48:45.000Z",
       "shared": "2026-10-12T04:48:45.000Z",
-      "views": 108,
+      "views": 109,
       "loves": 10,
       "favorites": 9,
       "remixes": 0
@@ -200,7 +215,7 @@
       "created": "2026-10-12T04:47:34.000Z",
       "modified": "2026-10-14T08:42:51.000Z",
       "shared": "2026-10-12T04:48:42.000Z",
-      "views": 89,
+      "views": 92,
       "loves": 6,
       "favorites": 5,
       "remixes": 0
@@ -215,7 +230,7 @@
       "created": "2026-10-12T00:31:28.000Z",
       "modified": "2026-10-12T02:25:30.000Z",
       "shared": "2026-10-12T02:25:30.000Z",
-      "views": 353,
+      "views": 361,
       "loves": 32,
       "favorites": 27,
       "remixes": 0
@@ -230,9 +245,9 @@
       "created": "2026-10-11T11:50:47.000Z",
       "modified": "2026-10-12T08:16:11.000Z",
       "shared": "2026-10-11T11:57:36.000Z",
-      "views": 85,
-      "loves": 7,
-      "favorites": 5,
+      "views": 91,
+      "loves": 8,
+      "favorites": 6,
       "remixes": 0
     },
     {
@@ -245,9 +260,9 @@
       "created": "2026-10-10T10:40:04.000Z",
       "modified": "2026-11-10T06:40:14.000Z",
       "shared": "2026-10-10T10:44:06.000Z",
-      "views": 2493,
-      "loves": 123,
-      "favorites": 117,
+      "views": 2587,
+      "loves": 129,
+      "favorites": 123,
       "remixes": 0
     },
     {
@@ -260,7 +275,7 @@
       "created": "2026-10-10T02:50:54.000Z",
       "modified": "2026-10-10T03:29:40.000Z",
       "shared": "2026-10-10T03:29:40.000Z",
-      "views": 155,
+      "views": 158,
       "loves": 11,
       "favorites": 11,
       "remixes": 0
@@ -275,9 +290,9 @@
       "created": "2026-10-06T11:44:34.000Z",
       "modified": "2026-11-11T11:27:14.000Z",
       "shared": "2026-10-06T11:49:46.000Z",
-      "views": 693,
-      "loves": 73,
-      "favorites": 71,
+      "views": 705,
+      "loves": 75,
+      "favorites": 73,
       "remixes": 0
     },
     {
@@ -290,9 +305,9 @@
       "created": "2026-10-03T22:26:58.000Z",
       "modified": "2026-10-03T22:49:59.000Z",
       "shared": "2026-10-03T22:49:41.000Z",
-      "views": 134,
-      "loves": 18,
-      "favorites": 15,
+      "views": 137,
+      "loves": 19,
+      "favorites": 16,
       "remixes": 0
     },
     {
@@ -305,7 +320,7 @@
       "created": "2026-10-03T10:13:40.000Z",
       "modified": "2026-10-10T05:25:32.000Z",
       "shared": "2026-10-03T10:16:52.000Z",
-      "views": 85,
+      "views": 86,
       "loves": 8,
       "favorites": 8,
       "remixes": 0
@@ -320,7 +335,7 @@
       "created": "2026-10-03T06:27:07.000Z",
       "modified": "2026-10-03T07:36:17.000Z",
       "shared": "2026-10-03T06:29:18.000Z",
-      "views": 176,
+      "views": 182,
       "loves": 13,
       "favorites": 12,
       "remixes": 0
@@ -335,7 +350,7 @@
       "created": "2026-10-01T22:48:35.000Z",
       "modified": "2026-10-02T03:54:45.000Z",
       "shared": "2026-10-01T23:11:38.000Z",
-      "views": 340,
+      "views": 341,
       "loves": 13,
       "favorites": 12,
       "remixes": 0
@@ -350,7 +365,7 @@
       "created": "2026-09-30T22:26:23.000Z",
       "modified": "2026-11-10T10:44:04.000Z",
       "shared": "2026-09-30T22:27:15.000Z",
-      "views": 92,
+      "views": 93,
       "loves": 6,
       "favorites": 6,
       "remixes": 0
@@ -365,9 +380,9 @@
       "created": "2026-09-27T11:32:04.000Z",
       "modified": "2026-10-17T08:53:34.000Z",
       "shared": "2026-09-27T11:55:56.000Z",
-      "views": 1014,
-      "loves": 122,
-      "favorites": 113,
+      "views": 1022,
+      "loves": 123,
+      "favorites": 114,
       "remixes": 0
     },
     {
@@ -380,7 +395,7 @@
       "created": "2026-09-26T07:04:22.000Z",
       "modified": "2026-09-26T10:41:54.000Z",
       "shared": "2026-09-26T09:43:43.000Z",
-      "views": 157,
+      "views": 158,
       "loves": 11,
       "favorites": 11,
       "remixes": 0
@@ -410,24 +425,9 @@
       "created": "2026-09-21T05:36:36.000Z",
       "modified": "2026-09-21T22:58:36.000Z",
       "shared": "2026-09-21T05:36:38.000Z",
-      "views": 157,
+      "views": 159,
       "loves": 23,
       "favorites": 22,
-      "remixes": 0
-    },
-    {
-      "id": 1382062120,
-      "title": "因数分解 省ブロック版",
-      "description": "https://scratch.mit.edu/discuss/post/8173091/",
-      "instructions": "",
-      "url": "https://scratch.mit.edu/projects/1382062120/",
-      "image": "https://cdn2.scratch.mit.edu/get_image/project/1382062120_282x218.png?v=1791609936",
-      "created": "2026-09-17T07:28:55.000Z",
-      "modified": "2026-10-10T05:25:36.000Z",
-      "shared": "2026-09-17T07:29:52.000Z",
-      "views": 2,
-      "loves": 0,
-      "favorites": 0,
       "remixes": 0
     },
     {
@@ -455,7 +455,7 @@
       "created": "2026-09-14T11:52:31.000Z",
       "modified": "2026-10-13T10:08:45.000Z",
       "shared": "2026-09-15T11:11:19.000Z",
-      "views": 608,
+      "views": 614,
       "loves": 58,
       "favorites": 55,
       "remixes": 0
@@ -485,7 +485,7 @@
       "created": "2026-08-30T10:44:31.000Z",
       "modified": "2026-10-10T05:25:26.000Z",
       "shared": "2026-08-30T10:44:33.000Z",
-      "views": 131,
+      "views": 134,
       "loves": 17,
       "favorites": 18,
       "remixes": 0
@@ -500,7 +500,7 @@
       "created": "2026-08-28T07:55:13.000Z",
       "modified": "2026-10-10T05:25:28.000Z",
       "shared": "2026-08-28T07:55:37.000Z",
-      "views": 127,
+      "views": 129,
       "loves": 10,
       "favorites": 8,
       "remixes": 0
@@ -515,24 +515,9 @@
       "created": "2026-08-25T11:56:46.000Z",
       "modified": "2026-10-10T05:25:22.000Z",
       "shared": "2026-08-25T11:58:52.000Z",
-      "views": 487,
+      "views": 491,
       "loves": 33,
       "favorites": 30,
-      "remixes": 0
-    },
-    {
-      "id": 1374270063,
-      "title": "100%pen Intro",
-      "description": "■入っているもの\n・パーティクル（粒）システム\n・太陽とプラズマアーク\n・スピードライン\n・ペンで描いた文字\n・フラッシュと画面揺れ\n・寄り引きと揺れのあるカメラ\n\n時間はタイマーで進めているので、重い環境でも演出の順番は崩れません。\n約1,700ブロックです",
-      "instructions": "ペンだけで作ったイントロです。旗を押すと最後まで流れます。\n\nターボモード（Shift+旗）推奨",
-      "url": "https://scratch.mit.edu/projects/1374270063/",
-      "image": "https://cdn2.scratch.mit.edu/get_image/project/1374270063_282x218.png?v=1791609913",
-      "created": "2026-08-22T02:22:22.000Z",
-      "modified": "2026-10-10T05:25:13.000Z",
-      "shared": "2026-08-23T11:18:30.000Z",
-      "views": 10,
-      "loves": 2,
-      "favorites": 2,
       "remixes": 0
     },
     {
@@ -545,7 +530,7 @@
       "created": "2026-08-17T11:58:46.000Z",
       "modified": "2026-10-10T05:25:34.000Z",
       "shared": "2026-08-20T22:40:06.000Z",
-      "views": 1027,
+      "views": 1032,
       "loves": 62,
       "favorites": 54,
       "remixes": 0
