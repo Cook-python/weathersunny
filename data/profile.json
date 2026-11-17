@@ -1,12 +1,12 @@
 {
-  "generatedAt": "2026-11-16T01:01:11Z",
+  "generatedAt": "2026-11-17T03:52:33Z",
   "source": "api.scratch.mit.edu",
   "profile": {
     "id": 167246871,
     "username": "weather_sunny",
     "avatar": "https://cdn2.scratch.mit.edu/get_image/user/167246871_90x90.png?v=",
-    "bio": "予告欄：チルノのパーフェクトさんすう教室が１６周年を迎えたため、１４日から１５日は東方うぃーくです\nお楽しみに！\n（手作業の”アレ”です）\n「学校のパソコンで開ける」をコンセプトにしています。\n\n好きなもの　芥川龍之介\n嫌いなもの　LANCE BAND\n好きなアニメ　ヤニねこ\n好きなサイト　https://weather-sunny.netlify.app/\nサブ垢 @weather_cloudy",
-    "status": "最近めっちゃ浮上してまぁす\n作品:36 閲覧:1.1w 好き:889 星:813\n状態:オフライン\n天気:東京 晴れ夕方からくもり\n注意:雷注意報・強風注意報\n気温:15.2℃ 降水:0%\n地震:04:34 愛知県東部 震度1 M2.6\n本日の有感地震:3回\nフォロワー:201\n更新:11/16 06:09\npythonによって自動更新されています",
+    "bio": "「学校のパソコンで開ける」をコンセプトにしています。\n\n好きなもの　芥川龍之介\n嫌いなもの　LANCE BAND\n好きなアニメ　ヤニねこ\n好きなサイト　https://weather-sunny.netlify.app/\nサブ垢 @weather_cloudy",
+    "status": "最近めっちゃ浮上してまぁす\n作品:36 閲覧:1.2w 好き:913 星:836\n状態:オフライン\n天気:東京 くもり昼過ぎから雨\n注意:雷注意報・強風注意報\n気温:12.1℃ 降水:30%\n地震:08:27 島根県東部 震度1 M2.8\n日出:06:19 日入:16:34\n月齢:7.1 上弦\n更新:11/17 10:06\npythonによって自動更新されています",
     "country": "Japan",
     "joined": "2026-01-30T12:17:37.000Z",
     "scratchteam": false,
@@ -14,9 +14,9 @@
   },
   "totals": {
     "count": 36,
-    "views": 11448,
-    "loves": 904,
-    "favorites": 828,
+    "views": 11702,
+    "loves": 913,
+    "favorites": 836,
     "remixes": 0
   }
 }
